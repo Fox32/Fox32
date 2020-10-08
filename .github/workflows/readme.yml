@@ -1,0 +1,31 @@
+name: README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '12'
+
+      - name: Prepare script
+        working-directory: .github/script/
+        run: npm install
+
+      - name: Generate README
+        working-directory: .github/script/
+        run: npm run start --silent > ../../README.md
+
+      - uses: EndBug/add-and-commit@v5
+        with:
+          message: 'Update README'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
