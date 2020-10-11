@@ -1,4 +1,4 @@
-## 53 Cards
-[![Well, there's one right here at the bottom, where it says "53."](https://imgs.xkcd.com/comics/53_cards.png)](https://xkcd.com/2217/)
+## Tags
+[![<A>: Like </a>this.&nbsp;](https://imgs.xkcd.com/comics/tags.png)](https://xkcd.com/1144/)
 
 Your daily random xkcd
