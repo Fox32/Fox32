@@ -1,4 +1,4 @@
-## Party
-[![I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!](https://imgs.xkcd.com/comics/party.png)](https://xkcd.com/524/)
+## RIP John Conway
+[![1937-2020](https://imgs.xkcd.com/comics/rip_john_conway.gif)](https://xkcd.com/2293/)
 
 Your daily random xkcd
