@@ -1,4 +1,4 @@
-## RIP John Conway
-[![1937-2020](https://imgs.xkcd.com/comics/rip_john_conway.gif)](https://xkcd.com/2293/)
+## Reduce Your Payments
+[![I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/)
 
 Your daily random xkcd
