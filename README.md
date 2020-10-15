@@ -1,4 +1,4 @@
-## Reduce Your Payments
-[![I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/)
+## Questions for God
+[![What sins could possibly darken the heart of a STEAMBOAT? I asked The Shadow, but he says he only covers men.](https://imgs.xkcd.com/comics/questions_for_god.png)](https://xkcd.com/1315/)
 
 Your daily random xkcd
