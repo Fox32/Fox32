@@ -1,4 +1,4 @@
-## s/keyboard/leopard/
-[![Problem Exists Between Leopard And Chair](https://imgs.xkcd.com/comics/s_keyboard_leopard.png)](https://xkcd.com/1031/)
+## G-Spot
+[![The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.](https://imgs.xkcd.com/comics/g-spot.png)](https://xkcd.com/685/)
 
 Your daily random xkcd
