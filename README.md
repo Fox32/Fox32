@@ -1,4 +1,4 @@
-## G-Spot
-[![The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.](https://imgs.xkcd.com/comics/g-spot.png)](https://xkcd.com/685/)
+## Grownups
+[![I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.](https://imgs.xkcd.com/comics/grownups.png)](https://xkcd.com/150/)
 
 Your daily random xkcd
