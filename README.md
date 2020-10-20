@@ -1,4 +1,4 @@
-## Grownups
-[![I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.](https://imgs.xkcd.com/comics/grownups.png)](https://xkcd.com/150/)
+## Volcano Dinosaur
+[![Phylogeneticists are working on identifying and notifying its next of kin.](https://imgs.xkcd.com/comics/volcano_dinosaur.png)](https://xkcd.com/2362/)
 
 Your daily random xkcd
