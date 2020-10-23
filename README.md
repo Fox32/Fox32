@@ -1,4 +1,4 @@
-## Will It Work
-[!['Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.](https://imgs.xkcd.com/comics/will_it_work.png)](https://xkcd.com/1742/)
+## PGP
+[![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)](https://xkcd.com/1181/ "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.")
 
 Your daily random xkcd
