@@ -7,7 +7,7 @@ xkcd.random(function(error, response) {
         process.exit(1);
     } else {
         console.log(`## ${response.title}`)
-        console.log(`[![${response.alt}](${response.img})](https://xkcd.com/${response.num}/)`)
+        console.log(`[![${response.alt}](${response.img})](https://xkcd.com/${response.num}/ "${response.alt}")`)
         console.log('');
         console.log('Your daily random xkcd')
     }
