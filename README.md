@@ -1,4 +1,4 @@
-## Sword in the Stone
-[![That seems like an awful lot of hassle when all I wanted was a cool sword.](https://imgs.xkcd.com/comics/sword_in_the_stone.png)](https://xkcd.com/1521/ "That seems like an awful lot of hassle when all I wanted was a cool sword.")
+## Transit of Mercury
+[![For some reason the water in my pool is green and there's a weird film on the surface #nofilter](https://imgs.xkcd.com/comics/transit_of_mercury.png)](https://xkcd.com/2227/ "For some reason the water in my pool is green and there's a weird film on the surface #nofilter")
 
 Your daily random xkcd
