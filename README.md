@@ -1,4 +1,4 @@
-## Hyphen
-[![I do this constantly](https://imgs.xkcd.com/comics/hyphen.jpg)](https://xkcd.com/37/ "I do this constantly")
+## Real Programmers
+[![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](https://imgs.xkcd.com/comics/real_programmers.png)](https://xkcd.com/378/ "Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.")
 
 Your daily random xkcd
