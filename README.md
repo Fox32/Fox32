@@ -1,4 +1,4 @@
-## Real Programmers
-[![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](https://imgs.xkcd.com/comics/real_programmers.png)](https://xkcd.com/378/ "Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.")
+## Black Hole
+[![It also brings all the boys, and everything else, to the yard.](https://imgs.xkcd.com/comics/black_hole.png)](https://xkcd.com/1680/ "It also brings all the boys, and everything else, to the yard.")
 
 Your daily random xkcd
