@@ -1,4 +1,4 @@
-## Black Hole
-[![It also brings all the boys, and everything else, to the yard.](https://imgs.xkcd.com/comics/black_hole.png)](https://xkcd.com/1680/ "It also brings all the boys, and everything else, to the yard.")
+## Dignified
+[!['I don't know, why is your beret staying on your head?' 'Staples.'](https://imgs.xkcd.com/comics/dignified.png)](https://xkcd.com/291/ "'I don't know, why is your beret staying on your head?' 'Staples.'")
 
 Your daily random xkcd
