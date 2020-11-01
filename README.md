@@ -1,4 +1,4 @@
-## Dignified
-[!['I don't know, why is your beret staying on your head?' 'Staples.'](https://imgs.xkcd.com/comics/dignified.png)](https://xkcd.com/291/ "'I don't know, why is your beret staying on your head?' 'Staples.'")
+## Turbine
+[![Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.](https://imgs.xkcd.com/comics/turbine.png)](https://xkcd.com/1378/ "Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.")
 
 Your daily random xkcd
