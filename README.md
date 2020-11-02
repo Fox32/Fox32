@@ -1,4 +1,4 @@
-## Turbine
-[![Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.](https://imgs.xkcd.com/comics/turbine.png)](https://xkcd.com/1378/ "Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.")
+## Argument
+[![The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.](https://imgs.xkcd.com/comics/argument.png)](https://xkcd.com/1166/ "The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.")
 
 Your daily random xkcd
