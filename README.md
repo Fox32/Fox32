@@ -1,4 +1,4 @@
-## ‮LTR
-[![Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.](https://imgs.xkcd.com/comics/rtl.png)](https://xkcd.com/1137/ "Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.")
+## Subjectivity
+[![Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)](https://imgs.xkcd.com/comics/subjectivity.png)](https://xkcd.com/255/ "Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)")
 
 Your daily random xkcd
