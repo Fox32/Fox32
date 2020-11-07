@@ -1,4 +1,4 @@
-## Advertising Discovery
-[![When advertisers figure this out, our only weapon will be blue sharpies and "[disputed]".](https://imgs.xkcd.com/comics/citations.png)](https://xkcd.com/906/ "When advertisers figure this out, our only weapon will be blue sharpies and "[disputed]".")
+## Tabletop Roleplaying
+[![I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.](https://imgs.xkcd.com/comics/tabletop_roleplaying.png)](https://xkcd.com/244/ "I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.")
 
 Your daily random xkcd
