@@ -1,4 +1,4 @@
-## New Car
-[![Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.](https://imgs.xkcd.com/comics/new_car.png)](https://xkcd.com/570/ "Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.")
+## Na
+[![I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/ "I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.")
 
 Your daily random xkcd
