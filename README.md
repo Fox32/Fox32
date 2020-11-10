@@ -1,4 +1,4 @@
-## Na
-[![I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/ "I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.")
+## goto
+[![Neal Stephenson thinks it's cute to name his labels 'dengo'](https://imgs.xkcd.com/comics/goto.png)](https://xkcd.com/292/ "Neal Stephenson thinks it's cute to name his labels 'dengo'")
 
 Your daily random xkcd
