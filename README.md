@@ -1,4 +1,4 @@
-## goto
-[![Neal Stephenson thinks it's cute to name his labels 'dengo'](https://imgs.xkcd.com/comics/goto.png)](https://xkcd.com/292/ "Neal Stephenson thinks it's cute to name his labels 'dengo'")
+## Laser Products
+[![ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.](https://imgs.xkcd.com/comics/laser_products.png)](https://xkcd.com/1681/ "ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.")
 
 Your daily random xkcd
