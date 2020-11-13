@@ -1,4 +1,4 @@
-## Undoing
-[![I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.](https://imgs.xkcd.com/comics/undoing.png)](https://xkcd.com/1119/ "I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.")
+## Dying Gift
+[![And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.](https://imgs.xkcd.com/comics/dying_gift.png)](https://xkcd.com/1941/ "And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.")
 
 Your daily random xkcd
