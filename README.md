@@ -1,4 +1,4 @@
-## Atoms
-[![When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...](https://imgs.xkcd.com/comics/atoms.png)](https://xkcd.com/1490/ "When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...")
+## Aeris Dies
+[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
 
 Your daily random xkcd
