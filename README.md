@@ -1,4 +1,4 @@
-## Aeris Dies
-[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
+## Robotic Garage
+[![But listen, if getting your car out from under the pile is REALLY important to you, we do have an axe you can borrow.](https://imgs.xkcd.com/comics/robotic_garage.png)](https://xkcd.com/1651/ "But listen, if getting your car out from under the pile is REALLY important to you, we do have an axe you can borrow.")
 
 Your daily random xkcd
