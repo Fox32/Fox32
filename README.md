@@ -1,4 +1,4 @@
-## Making Friends
-[!["This seems more like a way to attract turkey vultures." "My mom always told me a turkey vulture is just a friend you haven't met yet, usually because you don't smell enough like decaying meat."](https://imgs.xkcd.com/comics/making_friends.png)](https://xkcd.com/1746/ ""This seems more like a way to attract turkey vultures." "My mom always told me a turkey vulture is just a friend you haven't met yet, usually because you don't smell enough like decaying meat."")
+## Romney Quiz
+[![Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.](https://imgs.xkcd.com/comics/romney_quiz.png)](https://xkcd.com/1044/ "Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.")
 
 Your daily random xkcd
