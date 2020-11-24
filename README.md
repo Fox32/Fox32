@@ -1,4 +1,4 @@
-## Romney Quiz
-[![Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.](https://imgs.xkcd.com/comics/romney_quiz.png)](https://xkcd.com/1044/ "Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.")
+## Scantron
+[![Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.](https://imgs.xkcd.com/comics/scantron.png)](https://xkcd.com/499/ "Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.")
 
 Your daily random xkcd
