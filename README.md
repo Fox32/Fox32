@@ -1,4 +1,4 @@
-## Pressures
-[![Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.](https://imgs.xkcd.com/comics/pressures.png)](https://xkcd.com/1067/ "Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.")
+## Biff Tannen
+[![I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.](https://imgs.xkcd.com/comics/biff_tannen.png)](https://xkcd.com/2104/ "I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.")
 
 Your daily random xkcd
