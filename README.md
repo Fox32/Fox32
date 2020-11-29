@@ -1,4 +1,4 @@
-## Argument Victory
-[![Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.](https://imgs.xkcd.com/comics/argument_victory.png)](https://xkcd.com/1081/ "Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.")
+## Group Chat Rules
+[![There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.](https://imgs.xkcd.com/comics/group_chat_rules.png)](https://xkcd.com/2235/ "There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.")
 
 Your daily random xkcd
