@@ -1,4 +1,4 @@
-## Group Chat Rules
-[![There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.](https://imgs.xkcd.com/comics/group_chat_rules.png)](https://xkcd.com/2235/ "There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.")
+## Airfoil
+[![This is a fun explanation to prepare your kids for; it's common and totally wrong. Good lines include 'why does the air have to travel on both sides at the same time?' and 'I saw the Wright brothers plane and those wings were curved the same on the top and bottom!'](https://imgs.xkcd.com/comics/airfoil.png)](https://xkcd.com/803/ "This is a fun explanation to prepare your kids for; it's common and totally wrong. Good lines include 'why does the air have to travel on both sides at the same time?' and 'I saw the Wright brothers plane and those wings were curved the same on the top and bottom!'")
 
 Your daily random xkcd
