@@ -1,4 +1,4 @@
-## Starlight
-[![Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.](https://imgs.xkcd.com/comics/starlight.png)](https://xkcd.com/811/ "Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.")
+## Banter
+[![This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.](https://imgs.xkcd.com/comics/banter.jpg)](https://xkcd.com/65/ "This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.")
 
 Your daily random xkcd
