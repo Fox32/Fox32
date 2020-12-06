@@ -1,4 +1,4 @@
-## Payloads
-[![With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.](https://imgs.xkcd.com/comics/payloads.png)](https://xkcd.com/1461/ "With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.")
+## Prudence
+[![Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade.](https://imgs.xkcd.com/comics/prudence.png)](https://xkcd.com/665/ "Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade.")
 
 Your daily random xkcd
