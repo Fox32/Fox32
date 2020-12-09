@@ -1,4 +1,4 @@
-## Blockchain
-[![Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.](https://imgs.xkcd.com/comics/blockchain.png)](https://xkcd.com/2267/ "Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.")
+## Feathers
+[![Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)](https://imgs.xkcd.com/comics/feathers.png)](https://xkcd.com/1104/ "Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)")
 
 Your daily random xkcd
