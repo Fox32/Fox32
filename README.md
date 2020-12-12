@@ -1,4 +1,4 @@
-## Choices: Part 5
-[![I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!](https://imgs.xkcd.com/comics/choices_part_5.png)](https://xkcd.com/268/ "I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!")
+## .NORM Normal File Format
+[![At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.](https://imgs.xkcd.com/comics/norm_normal_file_format.png)](https://xkcd.com/2116/ "At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.")
 
 Your daily random xkcd
