@@ -1,4 +1,4 @@
-## .NORM Normal File Format
-[![At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.](https://imgs.xkcd.com/comics/norm_normal_file_format.png)](https://xkcd.com/2116/ "At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.")
+## Pluto
+[![After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."](https://imgs.xkcd.com/comics/pluto.png)](https://xkcd.com/1551/ "After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."")
 
 Your daily random xkcd
