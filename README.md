@@ -1,4 +1,4 @@
-## Virus Venn Diagram
-[![Within five minutes of the Singularity appearing, somebody will suggest defragging it.](https://imgs.xkcd.com/comics/virus_venn_diagram.png)](https://xkcd.com/1180/ "Within five minutes of the Singularity appearing, somebody will suggest defragging it.")
+## Secrets
+[![I'm a big fan of Kurt Halsey](https://imgs.xkcd.com/comics/secrets.jpg)](https://xkcd.com/46/ "I'm a big fan of Kurt Halsey")
 
 Your daily random xkcd
