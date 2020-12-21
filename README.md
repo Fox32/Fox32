@@ -1,4 +1,4 @@
-## Frogger
-[![I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.](https://imgs.xkcd.com/comics/frogger.png)](https://xkcd.com/772/ "I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.")
+## Meteor Showers
+[![Remember, meteors always hit the tallest object around.](https://imgs.xkcd.com/comics/meteor_showers.png)](https://xkcd.com/1249/ "Remember, meteors always hit the tallest object around.")
 
 Your daily random xkcd
