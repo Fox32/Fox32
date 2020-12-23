@@ -1,4 +1,4 @@
-## Panama Canal
-[![Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.](https://imgs.xkcd.com/comics/panama_canal.png)](https://xkcd.com/2127/ "Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.")
+## Legal Hacks
+[![It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.](https://imgs.xkcd.com/comics/legal_hacks.png)](https://xkcd.com/504/ "It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.")
 
 Your daily random xkcd
