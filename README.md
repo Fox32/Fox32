@@ -1,4 +1,4 @@
-## Legal Hacks
-[![It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.](https://imgs.xkcd.com/comics/legal_hacks.png)](https://xkcd.com/504/ "It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.")
+## Episode VII
+[![The Lord of the Rings sequel, set years after the Ring hubbub has died down, is just Samwise discreetly creeping back to Bag End to finish dropping the eaves.](https://imgs.xkcd.com/comics/episode_vii.png)](https://xkcd.com/1550/ "The Lord of the Rings sequel, set years after the Ring hubbub has died down, is just Samwise discreetly creeping back to Bag End to finish dropping the eaves.")
 
 Your daily random xkcd
