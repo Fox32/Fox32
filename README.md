@@ -1,4 +1,4 @@
-## Modeling Study
-[![You've got questions, we've got assumptions.](https://imgs.xkcd.com/comics/modeling_study.png)](https://xkcd.com/2323/ "You've got questions, we've got assumptions.")
+## Bun Trend
+[![Our experts have characterized the ecological impact of this trend as "adorable."](https://imgs.xkcd.com/comics/bun_trend.png)](https://xkcd.com/1903/ "Our experts have characterized the ecological impact of this trend as "adorable."")
 
 Your daily random xkcd
