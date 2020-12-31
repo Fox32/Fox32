@@ -1,4 +1,4 @@
-## Bored with the Internet
-[![I used to do this all the time.](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)](https://xkcd.com/77/ "I used to do this all the time.")
+## Online Package Tracking
+[![I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?](https://imgs.xkcd.com/comics/online_package_tracking.png)](https://xkcd.com/281/ "I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?")
 
 Your daily random xkcd
