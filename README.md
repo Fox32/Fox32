@@ -1,4 +1,4 @@
-## Overqualified
-[![To anyone I've taken on a terrible date, this is retroactively my cover story.](https://imgs.xkcd.com/comics/overqualified.png)](https://xkcd.com/408/ "To anyone I've taken on a terrible date, this is retroactively my cover story.")
+## Swingset
+[![Someone bring me a pocket fan so I can drift around the yard.](https://imgs.xkcd.com/comics/swingset.png)](https://xkcd.com/226/ "Someone bring me a pocket fan so I can drift around the yard.")
 
 Your daily random xkcd
