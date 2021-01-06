@@ -1,4 +1,4 @@
-## Einstein
-[![Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.](https://imgs.xkcd.com/comics/einstein.png)](https://xkcd.com/1206/ "Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.")
+## World War III+
+[![I hate how the media only ever uses the first part of this quote, stripping it of its important context.](https://imgs.xkcd.com/comics/world_war_iii.png)](https://xkcd.com/1687/ "I hate how the media only ever uses the first part of this quote, stripping it of its important context.")
 
 Your daily random xkcd
