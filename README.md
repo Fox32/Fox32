@@ -1,4 +1,4 @@
-## World War III+
-[![I hate how the media only ever uses the first part of this quote, stripping it of its important context.](https://imgs.xkcd.com/comics/world_war_iii.png)](https://xkcd.com/1687/ "I hate how the media only ever uses the first part of this quote, stripping it of its important context.")
+## Cumulonimbus
+[![The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.](https://imgs.xkcd.com/comics/cumulonimbus.png)](https://xkcd.com/2185/ "The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.")
 
 Your daily random xkcd
