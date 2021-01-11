@@ -1,4 +1,4 @@
-## Encryptic
-[![It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.](https://imgs.xkcd.com/comics/encryptic.png)](https://xkcd.com/1286/ "It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.")
+## Insanity
+[![I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!](https://imgs.xkcd.com/comics/insanity.png)](https://xkcd.com/1657/ "I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!")
 
 Your daily random xkcd
