@@ -1,4 +1,4 @@
-## Insanity
-[![I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!](https://imgs.xkcd.com/comics/insanity.png)](https://xkcd.com/1657/ "I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!")
+## Homeownership
+[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
 
 Your daily random xkcd
