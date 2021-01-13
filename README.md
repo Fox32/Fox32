@@ -1,4 +1,4 @@
-## Homeownership
-[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
+## Open Letter
+[![Are you ok?  Do you need help?](https://imgs.xkcd.com/comics/open_letter.png)](https://xkcd.com/1274/ "Are you ok?  Do you need help?")
 
 Your daily random xkcd
