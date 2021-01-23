@@ -1,4 +1,4 @@
-## xkcd Goes to the Airport
-[![Under three ounces, but it stains panties.](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)](https://xkcd.com/434/ "Under three ounces, but it stains panties.")
+## Digits
+[![It's taken me 20 years to get over skyline tetris.](https://imgs.xkcd.com/comics/digits.png)](https://xkcd.com/1344/ "It's taken me 20 years to get over skyline tetris.")
 
 Your daily random xkcd
