@@ -1,4 +1,4 @@
-## Chernobyl
-[![You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.](https://imgs.xkcd.com/comics/chernobyl.png)](https://xkcd.com/2163/ "You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.")
+## Epsilon and Zeta
+[![The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.](https://imgs.xkcd.com/comics/epsilon_and_zeta.png)](https://xkcd.com/1126/ "The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.")
 
 Your daily random xkcd
