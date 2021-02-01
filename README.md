@@ -1,4 +1,4 @@
-## Actuarial
-[![I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.](https://imgs.xkcd.com/comics/actuarial.png)](https://xkcd.com/493/ "I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.")
+## Thinking Ahead
+[![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)](https://xkcd.com/439/ "Did he just go crazy and jump out the window?")
 
 Your daily random xkcd
