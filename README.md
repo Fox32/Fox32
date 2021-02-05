@@ -1,4 +1,4 @@
-## Locke and Demosthenes
-[![Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.](https://imgs.xkcd.com/comics/locke_and_demosthenes.png)](https://xkcd.com/635/ "Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.")
+## Seventies
+[![Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"](https://imgs.xkcd.com/comics/seventies.png)](https://xkcd.com/1072/ "Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"")
 
 Your daily random xkcd
