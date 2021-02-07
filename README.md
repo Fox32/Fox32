@@ -1,4 +1,4 @@
-## Dark Matter Candidates
-[![My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons.](https://imgs.xkcd.com/comics/dark_matter_candidates.png)](https://xkcd.com/2035/ "My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons.")
+## Hurricane Names
+[![After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.](https://imgs.xkcd.com/comics/hurricane_names.png)](https://xkcd.com/944/ "After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.")
 
 Your daily random xkcd
