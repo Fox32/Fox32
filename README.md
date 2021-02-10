@@ -1,4 +1,4 @@
-## Intervocalic Fortition
-[![These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."](https://imgs.xkcd.com/comics/intervocalic_fortition.png)](https://xkcd.com/1697/ "These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."")
+## Dress Color
+[![This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.](https://imgs.xkcd.com/comics/dress_color.png)](https://xkcd.com/1492/ "This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.")
 
 Your daily random xkcd
