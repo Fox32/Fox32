@@ -1,4 +1,4 @@
-## Dress Color
-[![This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.](https://imgs.xkcd.com/comics/dress_color.png)](https://xkcd.com/1492/ "This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.")
+## Further Research is Needed
+[![Further research is needed to fully understand how we managed to do such a good job.](https://imgs.xkcd.com/comics/further_research_is_needed.png)](https://xkcd.com/2268/ "Further research is needed to fully understand how we managed to do such a good job.")
 
 Your daily random xkcd
