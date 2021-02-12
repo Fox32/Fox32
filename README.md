@@ -1,4 +1,4 @@
-## Further Research is Needed
-[![Further research is needed to fully understand how we managed to do such a good job.](https://imgs.xkcd.com/comics/further_research_is_needed.png)](https://xkcd.com/2268/ "Further research is needed to fully understand how we managed to do such a good job.")
+## xkcd Phone 2000
+[![Our retina display features hundreds of pixels per inch in the central fovea region.](https://imgs.xkcd.com/comics/xkcd_phone_2000.png)](https://xkcd.com/2000/ "Our retina display features hundreds of pixels per inch in the central fovea region.")
 
 Your daily random xkcd
