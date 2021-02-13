@@ -1,4 +1,4 @@
-## xkcd Phone 2000
-[![Our retina display features hundreds of pixels per inch in the central fovea region.](https://imgs.xkcd.com/comics/xkcd_phone_2000.png)](https://xkcd.com/2000/ "Our retina display features hundreds of pixels per inch in the central fovea region.")
+## Self-Description
+[![The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.](https://imgs.xkcd.com/comics/self_description.png)](https://xkcd.com/688/ "The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.")
 
 Your daily random xkcd
