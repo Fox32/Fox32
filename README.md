@@ -1,4 +1,4 @@
-## Self-Description
-[![The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.](https://imgs.xkcd.com/comics/self_description.png)](https://xkcd.com/688/ "The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.")
+## Transit of Mercury
+[![For some reason the water in my pool is green and there's a weird film on the surface #nofilter](https://imgs.xkcd.com/comics/transit_of_mercury.png)](https://xkcd.com/2227/ "For some reason the water in my pool is green and there's a weird film on the surface #nofilter")
 
 Your daily random xkcd
