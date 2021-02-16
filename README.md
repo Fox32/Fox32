@@ -1,4 +1,4 @@
-## Fashion Police and Grammar Police
-[![* Mad about jorts](https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png)](https://xkcd.com/1735/ "* Mad about jorts")
+## Irony
+[![It's commonly known that too much perspective can be a downer.](https://imgs.xkcd.com/comics/irony_color.jpg)](https://xkcd.com/6/ "It's commonly known that too much perspective can be a downer.")
 
 Your daily random xkcd
