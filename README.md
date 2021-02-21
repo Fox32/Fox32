@@ -1,4 +1,4 @@
-## Icon Swap
-[![Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.](https://imgs.xkcd.com/comics/icon_swap.png)](https://xkcd.com/2183/ "Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.")
+## Lightsaber
+[![A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.](https://imgs.xkcd.com/comics/lightsaber.png)](https://xkcd.com/1433/ "A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.")
 
 Your daily random xkcd
