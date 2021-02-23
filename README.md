@@ -1,4 +1,4 @@
-## Into My Veins
-[!["Okay, for the last time, the shot is free, so we can't--" "Shut up and take my money!"](https://imgs.xkcd.com/comics/into_my_veins.png)](https://xkcd.com/2402/ ""Okay, for the last time, the shot is free, so we can't--" "Shut up and take my money!"")
+## Helping
+[![Oh, look, the 'make everything better' button was here behind the bookshelf all along.](https://imgs.xkcd.com/comics/helping.png)](https://xkcd.com/383/ "Oh, look, the 'make everything better' button was here behind the bookshelf all along.")
 
 Your daily random xkcd
