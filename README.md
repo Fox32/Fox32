@@ -1,4 +1,4 @@
-## Moving Boxes
-[![Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.](https://imgs.xkcd.com/comics/moving_boxes.png)](https://xkcd.com/1762/ "Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.")
+## Keeping Time
+[![You can identify them ahead-of-time -- they lead with their left foot when the music starts.](https://imgs.xkcd.com/comics/keeping_time.png)](https://xkcd.com/389/ "You can identify them ahead-of-time -- they lead with their left foot when the music starts.")
 
 Your daily random xkcd
