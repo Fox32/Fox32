@@ -1,4 +1,4 @@
-## Dirty Harry
-[![Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.](https://imgs.xkcd.com/comics/dirty_harry.png)](https://xkcd.com/692/ "Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.")
+## Cold
+[!['You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'](https://imgs.xkcd.com/comics/cold.png)](https://xkcd.com/1321/ "'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'")
 
 Your daily random xkcd
