@@ -1,4 +1,4 @@
-## Cold
-[!['You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'](https://imgs.xkcd.com/comics/cold.png)](https://xkcd.com/1321/ "'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'")
+## Play-By-Play
+[![The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.](https://imgs.xkcd.com/comics/play_by_play.png)](https://xkcd.com/1593/ "The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.")
 
 Your daily random xkcd
