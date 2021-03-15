@@ -1,4 +1,4 @@
-## Star Trek into Darkness
-[![Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').](https://imgs.xkcd.com/comics/star_trek_into_darkness.png)](https://xkcd.com/1167/ "Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').")
+## Seismic Waves
+[![The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.](https://imgs.xkcd.com/comics/seismic_waves.png)](https://xkcd.com/723/ "The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.")
 
 Your daily random xkcd
