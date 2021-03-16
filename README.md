@@ -1,4 +1,4 @@
-## Seismic Waves
-[![The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.](https://imgs.xkcd.com/comics/seismic_waves.png)](https://xkcd.com/723/ "The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.")
+## Meerkat
+[![Gorilla, yes.  Adorable golden retriever, yes.  But it says nothing about meerkats.](https://imgs.xkcd.com/comics/meerkat.jpg)](https://xkcd.com/115/ "Gorilla, yes.  Adorable golden retriever, yes.  But it says nothing about meerkats.")
 
 Your daily random xkcd
