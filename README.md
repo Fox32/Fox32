@@ -1,4 +1,4 @@
-## Pain Rating
-[![If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.](https://imgs.xkcd.com/comics/pain_rating.png)](https://xkcd.com/883/ "If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.")
+## Silence
+[![All music is just performances of 4'33" in studios where another band happened to be playing at the time.](https://imgs.xkcd.com/comics/silence.png)](https://xkcd.com/1199/ "All music is just performances of 4'33" in studios where another band happened to be playing at the time.")
 
 Your daily random xkcd
