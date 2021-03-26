@@ -1,4 +1,4 @@
-## World War III+
-[![I hate how the media only ever uses the first part of this quote, stripping it of its important context.](https://imgs.xkcd.com/comics/world_war_iii.png)](https://xkcd.com/1687/ "I hate how the media only ever uses the first part of this quote, stripping it of its important context.")
+## Aversion Fads
+[![Hey, are you friends with any hamsters?  This kite needs a passenger.](https://imgs.xkcd.com/comics/aversion_fads.png)](https://xkcd.com/471/ "Hey, are you friends with any hamsters?  This kite needs a passenger.")
 
 Your daily random xkcd
