@@ -1,4 +1,4 @@
-## Aversion Fads
-[![Hey, are you friends with any hamsters?  This kite needs a passenger.](https://imgs.xkcd.com/comics/aversion_fads.png)](https://xkcd.com/471/ "Hey, are you friends with any hamsters?  This kite needs a passenger.")
+## Animal Songs
+[![Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.](https://imgs.xkcd.com/comics/animal_songs.png)](https://xkcd.com/2426/ "Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.")
 
 Your daily random xkcd
