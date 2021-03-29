@@ -1,4 +1,4 @@
-## Sex Dice
-[![You roll for initiative, and ... [roll] ... wow, do you ever take it.](https://imgs.xkcd.com/comics/sex_dice.png)](https://xkcd.com/708/ "You roll for initiative, and ... [roll] ... wow, do you ever take it.")
+## Tornado
+[![Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.](https://imgs.xkcd.com/comics/tornado.png)](https://xkcd.com/1487/ "Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.")
 
 Your daily random xkcd
