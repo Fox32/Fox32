@@ -1,4 +1,4 @@
-## Tornado
-[![Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.](https://imgs.xkcd.com/comics/tornado.png)](https://xkcd.com/1487/ "Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.")
+## Well 2
+[![But I've made $13.72 already today!  Ow, stop throwing pennies.](https://imgs.xkcd.com/comics/well_2.png)](https://xkcd.com/568/ "But I've made $13.72 already today!  Ow, stop throwing pennies.")
 
 Your daily random xkcd
