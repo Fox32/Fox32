@@ -1,4 +1,4 @@
-## Well 2
-[![But I've made $13.72 already today!  Ow, stop throwing pennies.](https://imgs.xkcd.com/comics/well_2.png)](https://xkcd.com/568/ "But I've made $13.72 already today!  Ow, stop throwing pennies.")
+## Insight
+[![The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.](https://imgs.xkcd.com/comics/insight.png)](https://xkcd.com/1215/ "The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.")
 
 Your daily random xkcd
