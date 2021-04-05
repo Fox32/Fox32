@@ -1,4 +1,4 @@
-## Group Chat Rules
-[![There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.](https://imgs.xkcd.com/comics/group_chat_rules.png)](https://xkcd.com/2235/ "There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.")
+## mRNA Vaccine
+[![To ensure lasting immunity, doctors recommend destroying a second Death Star some time after the first.](https://imgs.xkcd.com/comics/mrna_vaccine.png)](https://xkcd.com/2425/ "To ensure lasting immunity, doctors recommend destroying a second Death Star some time after the first.")
 
 Your daily random xkcd
