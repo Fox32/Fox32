@@ -1,4 +1,4 @@
-## Fatal Crash Rate
-[![Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.](https://imgs.xkcd.com/comics/fatal_crash_rate.png)](https://xkcd.com/1993/ "Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.")
+## Rocket Packs
+[![Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'](https://imgs.xkcd.com/comics/rocket_packs.png)](https://xkcd.com/1382/ "Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'")
 
 Your daily random xkcd
