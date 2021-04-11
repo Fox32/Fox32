@@ -1,4 +1,4 @@
-## Rocket Packs
-[![Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'](https://imgs.xkcd.com/comics/rocket_packs.png)](https://xkcd.com/1382/ "Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'")
+## Voting
+[!['Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'](https://imgs.xkcd.com/comics/voting.png)](https://xkcd.com/2361/ "'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'")
 
 Your daily random xkcd
