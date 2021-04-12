@@ -1,4 +1,4 @@
-## Voting
-[!['Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'](https://imgs.xkcd.com/comics/voting.png)](https://xkcd.com/2361/ "'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'")
+## Types of Approximation
+[![It's not my fault I haven't had a chance to measure the curvature of this particular universe.](https://imgs.xkcd.com/comics/types_of_approximation.png)](https://xkcd.com/2205/ "It's not my fault I haven't had a chance to measure the curvature of this particular universe.")
 
 Your daily random xkcd
