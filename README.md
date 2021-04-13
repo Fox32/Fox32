@@ -1,4 +1,4 @@
-## Types of Approximation
-[![It's not my fault I haven't had a chance to measure the curvature of this particular universe.](https://imgs.xkcd.com/comics/types_of_approximation.png)](https://xkcd.com/2205/ "It's not my fault I haven't had a chance to measure the curvature of this particular universe.")
+## Darkness
+[![This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.](https://imgs.xkcd.com/comics/darkness.png)](https://xkcd.com/1391/ "This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.")
 
 Your daily random xkcd
