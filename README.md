@@ -1,4 +1,4 @@
-## Darkness
-[![This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.](https://imgs.xkcd.com/comics/darkness.png)](https://xkcd.com/1391/ "This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.")
+## Dangerous Fields
+[![Eventually, every epidemiologist becomes another statistic, a dedication to record-keeping which their colleagues sincerely appreciate.](https://imgs.xkcd.com/comics/dangerous_fields.png)](https://xkcd.com/2142/ "Eventually, every epidemiologist becomes another statistic, a dedication to record-keeping which their colleagues sincerely appreciate.")
 
 Your daily random xkcd
