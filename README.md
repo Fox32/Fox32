@@ -1,4 +1,4 @@
-## Local g
-[![In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.](https://imgs.xkcd.com/comics/local_g.png)](https://xkcd.com/852/ "In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.")
+## Foucault Pendulum
+[![Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.](https://imgs.xkcd.com/comics/foucault_pendulum.png)](https://xkcd.com/2201/ "Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.")
 
 Your daily random xkcd
