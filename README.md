@@ -1,4 +1,4 @@
-## Foucault Pendulum
-[![Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.](https://imgs.xkcd.com/comics/foucault_pendulum.png)](https://xkcd.com/2201/ "Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.")
+## Actuarial
+[![I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.](https://imgs.xkcd.com/comics/actuarial.png)](https://xkcd.com/493/ "I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.")
 
 Your daily random xkcd
