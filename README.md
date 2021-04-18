@@ -1,4 +1,4 @@
-## Actuarial
-[![I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.](https://imgs.xkcd.com/comics/actuarial.png)](https://xkcd.com/493/ "I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.")
+## Computers vs Humans
+[![It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.](https://imgs.xkcd.com/comics/computers_vs_humans.png)](https://xkcd.com/1875/ "It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.")
 
 Your daily random xkcd
