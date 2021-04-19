@@ -1,4 +1,4 @@
-## Computers vs Humans
-[![It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.](https://imgs.xkcd.com/comics/computers_vs_humans.png)](https://xkcd.com/1875/ "It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.")
+## Edgelord
+[![If you study graphs in which edges can link more than two nodes, you're more properly called a hyperedgelord.](https://imgs.xkcd.com/comics/edgelord.png)](https://xkcd.com/2036/ "If you study graphs in which edges can link more than two nodes, you're more properly called a hyperedgelord.")
 
 Your daily random xkcd
