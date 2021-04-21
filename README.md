@@ -1,4 +1,4 @@
-## Broomstick
-[!['Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'](https://imgs.xkcd.com/comics/broomstick.png)](https://xkcd.com/1149/ "'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'")
+## Ballot Selfies
+[![There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?](https://imgs.xkcd.com/comics/ballot_selfies.png)](https://xkcd.com/2066/ "There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?")
 
 Your daily random xkcd
