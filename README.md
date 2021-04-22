@@ -1,4 +1,4 @@
-## Ballot Selfies
-[![There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?](https://imgs.xkcd.com/comics/ballot_selfies.png)](https://xkcd.com/2066/ "There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?")
+## Visited
+[![I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.](https://imgs.xkcd.com/comics/visited.png)](https://xkcd.com/1051/ "I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.")
 
 Your daily random xkcd
