@@ -1,4 +1,4 @@
-## Visited
-[![I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.](https://imgs.xkcd.com/comics/visited.png)](https://xkcd.com/1051/ "I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.")
+## Trolley Problem
+[![For $5 I promise not to orchestrate this situation, and for $25 I promise not to take further advantage of this ability to create incentives.](https://imgs.xkcd.com/comics/trolley_problem.png)](https://xkcd.com/1455/ "For $5 I promise not to orchestrate this situation, and for $25 I promise not to take further advantage of this ability to create incentives.")
 
 Your daily random xkcd
