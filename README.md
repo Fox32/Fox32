@@ -1,4 +1,4 @@
-## Phone
-[![[*disables social networking accounts*] [*social isolation increases*] Wait, why does this ALSO feel bad?](https://imgs.xkcd.com/comics/phone.png)](https://xkcd.com/1802/ "[*disables social networking accounts*] [*social isolation increases*] Wait, why does this ALSO feel bad?")
+## I'm So Random
+[![In retrospect, it's weird that as a kid I thought completely random outbursts made me seem interesting, given that from an information theory point of view, lexical white noise is just about the opposite of interesting by definition.](https://imgs.xkcd.com/comics/im_so_random.png)](https://xkcd.com/1210/ "In retrospect, it's weird that as a kid I thought completely random outbursts made me seem interesting, given that from an information theory point of view, lexical white noise is just about the opposite of interesting by definition.")
 
 Your daily random xkcd
