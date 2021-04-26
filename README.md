@@ -1,4 +1,4 @@
-## I'm So Random
-[![In retrospect, it's weird that as a kid I thought completely random outbursts made me seem interesting, given that from an information theory point of view, lexical white noise is just about the opposite of interesting by definition.](https://imgs.xkcd.com/comics/im_so_random.png)](https://xkcd.com/1210/ "In retrospect, it's weird that as a kid I thought completely random outbursts made me seem interesting, given that from an information theory point of view, lexical white noise is just about the opposite of interesting by definition.")
+## Computational Linguists
+[![Chomskyists, generative linguists, and Ryan North, your days are numbered.](https://imgs.xkcd.com/comics/computational_linguists.png)](https://xkcd.com/114/ "Chomskyists, generative linguists, and Ryan North, your days are numbered.")
 
 Your daily random xkcd
