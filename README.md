@@ -1,4 +1,4 @@
-## Researcher Translation
-[![A technology that is '20 years away' will be 20 years away indefinitely.](https://imgs.xkcd.com/comics/researcher_translation.png)](https://xkcd.com/678/ "A technology that is '20 years away' will be 20 years away indefinitely.")
+## The History of Unicode
+[![2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"](https://imgs.xkcd.com/comics/the_history_of_unicode.png)](https://xkcd.com/1953/ "2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"")
 
 Your daily random xkcd
