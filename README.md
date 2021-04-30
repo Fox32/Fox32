@@ -1,4 +1,4 @@
-## The History of Unicode
-[![2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"](https://imgs.xkcd.com/comics/the_history_of_unicode.png)](https://xkcd.com/1953/ "2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"")
+## Listen to Yourself
+[![Man, I just wanted to know how babby was formed.](https://imgs.xkcd.com/comics/listen_to_yourself.png)](https://xkcd.com/481/ "Man, I just wanted to know how babby was formed.")
 
 Your daily random xkcd
