@@ -1,4 +1,4 @@
-## Synonym Movies
-[![Fans eagerly await 2015's 'Space Fights: Power Gets Up', although most think 1999's 'Space Fights: The Scary Ghost' didn't live up to the hype.](https://imgs.xkcd.com/comics/synonym_movies.png)](https://xkcd.com/1563/ "Fans eagerly await 2015's 'Space Fights: Power Gets Up', although most think 1999's 'Space Fights: The Scary Ghost' didn't live up to the hype.")
+## Joshing
+[![You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.](https://imgs.xkcd.com/comics/joshing.png)](https://xkcd.com/707/ "You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.")
 
 Your daily random xkcd
