@@ -1,4 +1,4 @@
-## Compiler Complaint
-[![Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.](https://imgs.xkcd.com/comics/compiler_complaint.png)](https://xkcd.com/371/ "Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.")
+## Experimentation
+[![I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?](https://imgs.xkcd.com/comics/experimentation.png)](https://xkcd.com/507/ "I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?")
 
 Your daily random xkcd
