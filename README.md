@@ -1,4 +1,4 @@
-## Experimentation
-[![I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?](https://imgs.xkcd.com/comics/experimentation.png)](https://xkcd.com/507/ "I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?")
+## Appendicitis
+[![Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.](https://imgs.xkcd.com/comics/appendicitis.png)](https://xkcd.com/2147/ "Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.")
 
 Your daily random xkcd
