@@ -1,4 +1,4 @@
-## Appendicitis
-[![Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.](https://imgs.xkcd.com/comics/appendicitis.png)](https://xkcd.com/2147/ "Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.")
+## 3x9
+[![Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.](https://imgs.xkcd.com/comics/3x9.png)](https://xkcd.com/759/ "Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.")
 
 Your daily random xkcd
