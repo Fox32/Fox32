@@ -1,4 +1,4 @@
-## Smart Home Security
-[![If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.](https://imgs.xkcd.com/comics/smart_home_security.png)](https://xkcd.com/1966/ "If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.")
+## Doomsday Clock
+[![After a power outage at the Bulletin of the Atomic Scientists, the new Digital Doomsday Clock is flashing 00:00 and mushroom clouds keep appearing and then retracting once a second.](https://imgs.xkcd.com/comics/doomsday_clock.png)](https://xkcd.com/1655/ "After a power outage at the Bulletin of the Atomic Scientists, the new Digital Doomsday Clock is flashing 00:00 and mushroom clouds keep appearing and then retracting once a second.")
 
 Your daily random xkcd
