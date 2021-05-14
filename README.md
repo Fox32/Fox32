@@ -1,4 +1,4 @@
-## Query
-[![SELECT * FROM GHOSTS](https://imgs.xkcd.com/comics/query.png)](https://xkcd.com/1409/ "SELECT * FROM GHOSTS")
+## Jealousy
+[![Oh, huh, so you didn't know that story?](https://imgs.xkcd.com/comics/jealousy.png)](https://xkcd.com/420/ "Oh, huh, so you didn't know that story?")
 
 Your daily random xkcd
