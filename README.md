@@ -1,4 +1,4 @@
-## Bad Ex
-[![Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.](https://imgs.xkcd.com/comics/bad_ex.png)](https://xkcd.com/796/ "Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.")
+## 50 ccs
+[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
 
 Your daily random xkcd
