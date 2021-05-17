@@ -1,4 +1,4 @@
-## 50 ccs
-[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
+## My Other Car
+[![It's much better than the other one.](https://imgs.xkcd.com/comics/other_car.jpg)](https://xkcd.com/80/ "It's much better than the other one.")
 
 Your daily random xkcd
