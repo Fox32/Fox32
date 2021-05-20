@@ -1,4 +1,4 @@
-## Microsoft
-[![Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.](https://imgs.xkcd.com/comics/microsoft.png)](https://xkcd.com/1118/ "Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.")
+## Writers Strike
+[![He's just jealous because everyone's up in the attic listening to Stephen Colbert.](https://imgs.xkcd.com/comics/writers_strike.png)](https://xkcd.com/360/ "He's just jealous because everyone's up in the attic listening to Stephen Colbert.")
 
 Your daily random xkcd
