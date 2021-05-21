@@ -1,4 +1,4 @@
-## Writers Strike
-[![He's just jealous because everyone's up in the attic listening to Stephen Colbert.](https://imgs.xkcd.com/comics/writers_strike.png)](https://xkcd.com/360/ "He's just jealous because everyone's up in the attic listening to Stephen Colbert.")
+## Powers of One
+[![It's kinda Zen when you think about it, if you don't think too hard.](https://imgs.xkcd.com/comics/powers_of_one.png)](https://xkcd.com/271/ "It's kinda Zen when you think about it, if you don't think too hard.")
 
 Your daily random xkcd
