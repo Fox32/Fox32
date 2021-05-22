@@ -1,4 +1,4 @@
-## Powers of One
-[![It's kinda Zen when you think about it, if you don't think too hard.](https://imgs.xkcd.com/comics/powers_of_one.png)](https://xkcd.com/271/ "It's kinda Zen when you think about it, if you don't think too hard.")
+## Outreach
+[![Completely implausible? Yes. Nevertheless, worth keeping a can of shark repellent next to the bed.](https://imgs.xkcd.com/comics/outreach.png)](https://xkcd.com/585/ "Completely implausible? Yes. Nevertheless, worth keeping a can of shark repellent next to the bed.")
 
 Your daily random xkcd
