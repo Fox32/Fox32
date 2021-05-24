@@ -1,4 +1,4 @@
-## Emotion
-[![Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]](https://imgs.xkcd.com/comics/emotion.png)](https://xkcd.com/1048/ "Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]")
+## Rosetta
+[![I WONDERED why he kept asking whether we thought the impact speed was too low.](https://imgs.xkcd.com/comics/rosetta.png)](https://xkcd.com/1740/ "I WONDERED why he kept asking whether we thought the impact speed was too low.")
 
 Your daily random xkcd
