@@ -1,4 +1,4 @@
-## Rosetta
-[![I WONDERED why he kept asking whether we thought the impact speed was too low.](https://imgs.xkcd.com/comics/rosetta.png)](https://xkcd.com/1740/ "I WONDERED why he kept asking whether we thought the impact speed was too low.")
+## Violin Plots
+[![Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'](https://imgs.xkcd.com/comics/violin_plots.png)](https://xkcd.com/1967/ "Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'")
 
 Your daily random xkcd
