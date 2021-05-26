@@ -1,4 +1,4 @@
-## Violin Plots
-[![Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'](https://imgs.xkcd.com/comics/violin_plots.png)](https://xkcd.com/1967/ "Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'")
+## Arbitrage
+[![The invisible hand of the market never texts me back.](https://imgs.xkcd.com/comics/arbitrage.png)](https://xkcd.com/1499/ "The invisible hand of the market never texts me back.")
 
 Your daily random xkcd
