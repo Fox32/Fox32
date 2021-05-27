@@ -1,4 +1,4 @@
-## Arbitrage
-[![The invisible hand of the market never texts me back.](https://imgs.xkcd.com/comics/arbitrage.png)](https://xkcd.com/1499/ "The invisible hand of the market never texts me back.")
+## Computational Linguists
+[![Chomskyists, generative linguists, and Ryan North, your days are numbered.](https://imgs.xkcd.com/comics/computational_linguists.png)](https://xkcd.com/114/ "Chomskyists, generative linguists, and Ryan North, your days are numbered.")
 
 Your daily random xkcd
