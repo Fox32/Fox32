@@ -1,4 +1,4 @@
-## The Race: Part 1
-[![Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.](https://imgs.xkcd.com/comics/the_race_part_1.png)](https://xkcd.com/577/ "Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.")
+## Douglas Engelbart (1925-2013)
+[![Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you’re doing all the time ...'](https://imgs.xkcd.com/comics/douglas_engelbart_1925_2013.png)](https://xkcd.com/1234/ "Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you’re doing all the time ...'")
 
 Your daily random xkcd
