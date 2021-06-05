@@ -1,4 +1,4 @@
-## Doomsday Clock
-[![After a power outage at the Bulletin of the Atomic Scientists, the new Digital Doomsday Clock is flashing 00:00 and mushroom clouds keep appearing and then retracting once a second.](https://imgs.xkcd.com/comics/doomsday_clock.png)](https://xkcd.com/1655/ "After a power outage at the Bulletin of the Atomic Scientists, the new Digital Doomsday Clock is flashing 00:00 and mushroom clouds keep appearing and then retracting once a second.")
+## Revolutionary
+[![I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.](https://imgs.xkcd.com/comics/revolutionary.png)](https://xkcd.com/675/ "I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.")
 
 Your daily random xkcd
