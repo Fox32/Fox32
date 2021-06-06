@@ -1,4 +1,4 @@
-## Revolutionary
-[![I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.](https://imgs.xkcd.com/comics/revolutionary.png)](https://xkcd.com/675/ "I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.")
+## Pressures
+[![Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.](https://imgs.xkcd.com/comics/pressures.png)](https://xkcd.com/1067/ "Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.")
 
 Your daily random xkcd
