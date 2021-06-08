@@ -1,4 +1,4 @@
-## Fatal Crash Rate
-[![Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.](https://imgs.xkcd.com/comics/fatal_crash_rate.png)](https://xkcd.com/1993/ "Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.")
+## Wait For Me
+[![Opening dialogue by Scott](https://imgs.xkcd.com/comics/wait_for_me.jpg)](https://xkcd.com/57/ "Opening dialogue by Scott")
 
 Your daily random xkcd
