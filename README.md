@@ -1,4 +1,4 @@
-## Congress
-[![It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.](https://imgs.xkcd.com/comics/congress.png)](https://xkcd.com/1127/ "It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.")
+## Jack and Jill
+[![Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.](https://imgs.xkcd.com/comics/jack_and_jill.png)](https://xkcd.com/1662/ "Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.")
 
 Your daily random xkcd
