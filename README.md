@@ -1,4 +1,4 @@
-## Egg Drop Failure
-[![I hear my brother Ricky won his school's egg drop by leaving the egg inside the hen.](https://imgs.xkcd.com/comics/egg_drop_failure.png)](https://xkcd.com/510/ "I hear my brother Ricky won his school's egg drop by leaving the egg inside the hen.")
+## Sail
+[![It only works a few times before you have to capsize the boat in a soap lagoon again.](https://imgs.xkcd.com/comics/sail.png)](https://xkcd.com/976/ "It only works a few times before you have to capsize the boat in a soap lagoon again.")
 
 Your daily random xkcd
