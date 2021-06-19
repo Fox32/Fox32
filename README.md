@@ -1,4 +1,4 @@
-## Bonding
-[![I'm trying to build character but Eclipse is really confusing.](https://imgs.xkcd.com/comics/bonding.png)](https://xkcd.com/1188/ "I'm trying to build character but Eclipse is really confusing.")
+## Consensus New Year
+[![The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.](https://imgs.xkcd.com/comics/consensus_new_year.png)](https://xkcd.com/2092/ "The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.")
 
 Your daily random xkcd
