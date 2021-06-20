@@ -1,4 +1,4 @@
-## Consensus New Year
-[![The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.](https://imgs.xkcd.com/comics/consensus_new_year.png)](https://xkcd.com/2092/ "The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.")
+## Flag
+[![There's a compromise bill to keep the notification bar but at least charge the battery.](https://imgs.xkcd.com/comics/flag.png)](https://xkcd.com/1815/ "There's a compromise bill to keep the notification bar but at least charge the battery.")
 
 Your daily random xkcd
