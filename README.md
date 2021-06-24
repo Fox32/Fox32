@@ -1,4 +1,4 @@
-## Equations
-[![All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.](https://imgs.xkcd.com/comics/equations.png)](https://xkcd.com/2034/ "All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.")
+## Photo Library Management
+[![A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.](https://imgs.xkcd.com/comics/photo_library_management.png)](https://xkcd.com/1832/ "A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.")
 
 Your daily random xkcd
