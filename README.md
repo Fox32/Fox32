@@ -1,4 +1,4 @@
-## Photo Library Management
-[![A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.](https://imgs.xkcd.com/comics/photo_library_management.png)](https://xkcd.com/1832/ "A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.")
+## Diploma Legal Notes
+[![If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.](https://imgs.xkcd.com/comics/diploma_legal_notes.png)](https://xkcd.com/2157/ "If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.")
 
 Your daily random xkcd
