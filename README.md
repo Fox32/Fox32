@@ -1,4 +1,4 @@
-## Diploma Legal Notes
-[![If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.](https://imgs.xkcd.com/comics/diploma_legal_notes.png)](https://xkcd.com/2157/ "If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.")
+## Rubber Sheet
+[![It IS about physics. It ALL is.](https://imgs.xkcd.com/comics/rubber_sheet.png)](https://xkcd.com/1158/ "It IS about physics. It ALL is.")
 
 Your daily random xkcd
