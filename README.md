@@ -1,4 +1,4 @@
-## Rubber Sheet
-[![It IS about physics. It ALL is.](https://imgs.xkcd.com/comics/rubber_sheet.png)](https://xkcd.com/1158/ "It IS about physics. It ALL is.")
+## Pillow Talk
+[![Maybe I should've tried Wexler?](https://imgs.xkcd.com/comics/pillow_talk.jpg)](https://xkcd.com/69/ "Maybe I should've tried Wexler?")
 
 Your daily random xkcd
