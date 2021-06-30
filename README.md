@@ -1,4 +1,4 @@
-## Advertising
-[![I remember the exact moment in my childhood when I realized, while reading a flyer, that nobody would ever spend money solely to tell me they wanted to give me something for nothing. It's a much more vivid memory than the (related) parental Santa talk.](https://imgs.xkcd.com/comics/mathematically_annoying.png)](https://xkcd.com/870/ "I remember the exact moment in my childhood when I realized, while reading a flyer, that nobody would ever spend money solely to tell me they wanted to give me something for nothing. It's a much more vivid memory than the (related) parental Santa talk.")
+## Curve-Fitting
+[![Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."](https://imgs.xkcd.com/comics/curve_fitting.png)](https://xkcd.com/2048/ "Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."")
 
 Your daily random xkcd
