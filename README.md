@@ -1,4 +1,4 @@
-## Curve-Fitting
-[![Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."](https://imgs.xkcd.com/comics/curve_fitting.png)](https://xkcd.com/2048/ "Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."")
+## Milk
+[![It's not hard when you have the same thought like 40 or 50 percent of the time.](https://imgs.xkcd.com/comics/milk.png)](https://xkcd.com/858/ "It's not hard when you have the same thought like 40 or 50 percent of the time.")
 
 Your daily random xkcd
