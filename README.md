@@ -1,4 +1,4 @@
-## Know Your Vines
-[![Friggin' modern tents don't have a single piece of rope.](https://imgs.xkcd.com/comics/know_your_vines.png)](https://xkcd.com/443/ "Friggin' modern tents don't have a single piece of rope.")
+## Cheap GPS
+[![In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.](https://imgs.xkcd.com/comics/cheap_gps.png)](https://xkcd.com/407/ "In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.")
 
 Your daily random xkcd
