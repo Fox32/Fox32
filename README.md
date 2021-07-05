@@ -1,4 +1,4 @@
-## Cheap GPS
-[![In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.](https://imgs.xkcd.com/comics/cheap_gps.png)](https://xkcd.com/407/ "In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.")
+## Social Media
+[![The social media reaction to this asteroid announcement has been sharply negative. Care to respond?](https://imgs.xkcd.com/comics/social_media.png)](https://xkcd.com/1239/ "The social media reaction to this asteroid announcement has been sharply negative. Care to respond?")
 
 Your daily random xkcd
