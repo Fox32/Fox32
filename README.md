@@ -1,4 +1,4 @@
-## Social Media
-[![The social media reaction to this asteroid announcement has been sharply negative. Care to respond?](https://imgs.xkcd.com/comics/social_media.png)](https://xkcd.com/1239/ "The social media reaction to this asteroid announcement has been sharply negative. Care to respond?")
+## Silent Hammer
+[![I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?](https://imgs.xkcd.com/comics/silent_hammer.png)](https://xkcd.com/666/ "I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?")
 
 Your daily random xkcd
