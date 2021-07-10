@@ -1,4 +1,4 @@
-## Code Talkers
-[![As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.](https://imgs.xkcd.com/comics/code_talkers.png)](https://xkcd.com/257/ "As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.")
+## March 2020
+[!["I've traveled here from the year 2020 to bring you this vaccine!"](https://imgs.xkcd.com/comics/march_2020.png)](https://xkcd.com/2459/ ""I've traveled here from the year 2020 to bring you this vaccine!"")
 
 Your daily random xkcd
