@@ -1,4 +1,4 @@
-## March 2020
-[!["I've traveled here from the year 2020 to bring you this vaccine!"](https://imgs.xkcd.com/comics/march_2020.png)](https://xkcd.com/2459/ ""I've traveled here from the year 2020 to bring you this vaccine!"")
+## Romantic Drama Equation
+[![Real-life prospective-pairing curves over things like age can get depressing.](https://imgs.xkcd.com/comics/romantic_drama_equation.png)](https://xkcd.com/216/ "Real-life prospective-pairing curves over things like age can get depressing.")
 
 Your daily random xkcd
