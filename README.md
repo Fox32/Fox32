@@ -1,4 +1,4 @@
-## Romantic Drama Equation
-[![Real-life prospective-pairing curves over things like age can get depressing.](https://imgs.xkcd.com/comics/romantic_drama_equation.png)](https://xkcd.com/216/ "Real-life prospective-pairing curves over things like age can get depressing.")
+## Thinking Ahead
+[![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)](https://xkcd.com/439/ "Did he just go crazy and jump out the window?")
 
 Your daily random xkcd
