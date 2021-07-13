@@ -1,4 +1,4 @@
-## Thinking Ahead
-[![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)](https://xkcd.com/439/ "Did he just go crazy and jump out the window?")
+## Spinal Tap Amps
+[![Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)](https://xkcd.com/670/ "Wow, that's less than $200 per ... uh ... that's a good deal!")
 
 Your daily random xkcd
