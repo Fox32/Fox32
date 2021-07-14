@@ -1,4 +1,4 @@
-## Spinal Tap Amps
-[![Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)](https://xkcd.com/670/ "Wow, that's less than $200 per ... uh ... that's a good deal!")
+## New Year's Eve
+[!["Off-by-one errors" isn't the easiest theme to build a party around, but I've seen worse.](https://imgs.xkcd.com/comics/new_years_eve.png)](https://xkcd.com/2248/ ""Off-by-one errors" isn't the easiest theme to build a party around, but I've seen worse.")
 
 Your daily random xkcd
