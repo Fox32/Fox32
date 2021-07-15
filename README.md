@@ -1,4 +1,4 @@
-## New Year's Eve
-[!["Off-by-one errors" isn't the easiest theme to build a party around, but I've seen worse.](https://imgs.xkcd.com/comics/new_years_eve.png)](https://xkcd.com/2248/ ""Off-by-one errors" isn't the easiest theme to build a party around, but I've seen worse.")
+## Branding
+[![Actually, 'RSS&M' is kinda catchy.](https://imgs.xkcd.com/comics/branding.png)](https://xkcd.com/624/ "Actually, 'RSS&M' is kinda catchy.")
 
 Your daily random xkcd
