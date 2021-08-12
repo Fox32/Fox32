@@ -1,4 +1,4 @@
-## Beliefs
-[![Scientists are also sexy, let's not forget that.](https://imgs.xkcd.com/comics/beliefs.jpg)](https://xkcd.com/154/ "Scientists are also sexy, let's not forget that.")
+## Candy Button Paper
+[![Nonrewritable tape?](https://imgs.xkcd.com/comics/candy_button_paper.png)](https://xkcd.com/205/ "Nonrewritable tape?")
 
 Your daily random xkcd
