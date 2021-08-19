@@ -1,4 +1,4 @@
-## Open Mic Night
-[![Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?](https://imgs.xkcd.com/comics/open_mic_night.png)](https://xkcd.com/785/ "Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?")
+## Objects In Mirror
+[![Universes in mirror, like those in windshield, are larger than they appear.](https://imgs.xkcd.com/comics/objects_in_mirror.png)](https://xkcd.com/1125/ "Universes in mirror, like those in windshield, are larger than they appear.")
 
 Your daily random xkcd
