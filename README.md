@@ -1,4 +1,4 @@
-## Porn Folder
-[![Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?](https://imgs.xkcd.com/comics/porn_folder.png)](https://xkcd.com/981/ "Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?")
+## Quirky Girls
+[![Romantic comedy heroines, I'm talking to you.](https://imgs.xkcd.com/comics/quirky_girls.png)](https://xkcd.com/122/ "Romantic comedy heroines, I'm talking to you.")
 
 Your daily random xkcd
