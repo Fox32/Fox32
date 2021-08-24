@@ -1,4 +1,4 @@
-## Coffee
-[![Remind me to order another pack of coffee filters from Dyson. Man, these things are EXPENSIVE.](https://imgs.xkcd.com/comics/coffee.png)](https://xkcd.com/1743/ "Remind me to order another pack of coffee filters from Dyson. Man, these things are EXPENSIVE.")
+## Compiler Complaint
+[![Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.](https://imgs.xkcd.com/comics/compiler_complaint.png)](https://xkcd.com/371/ "Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.")
 
 Your daily random xkcd
