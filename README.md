@@ -1,4 +1,4 @@
-## Compiler Complaint
-[![Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.](https://imgs.xkcd.com/comics/compiler_complaint.png)](https://xkcd.com/371/ "Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.")
+## Turkish Delight
+[![I take it Narnia doesn't have Cinnabons? Because if you can magic up a plate of those, I'll betray whoever.](https://imgs.xkcd.com/comics/turkish_delight.png)](https://xkcd.com/1980/ "I take it Narnia doesn't have Cinnabons? Because if you can magic up a plate of those, I'll betray whoever.")
 
 Your daily random xkcd
