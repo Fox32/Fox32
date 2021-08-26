@@ -1,4 +1,4 @@
-## Turkish Delight
-[![I take it Narnia doesn't have Cinnabons? Because if you can magic up a plate of those, I'll betray whoever.](https://imgs.xkcd.com/comics/turkish_delight.png)](https://xkcd.com/1980/ "I take it Narnia doesn't have Cinnabons? Because if you can magic up a plate of those, I'll betray whoever.")
+## Blade Runner
+[![Blade Runner: Classic, but incredibly slow.](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/ "Blade Runner: Classic, but incredibly slow.")
 
 Your daily random xkcd
