@@ -1,4 +1,4 @@
-## My Other Car
-[![It's much better than the other one.](https://imgs.xkcd.com/comics/other_car.jpg)](https://xkcd.com/80/ "It's much better than the other one.")
+## Versus Bracket
+[![Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.](https://imgs.xkcd.com/comics/versus_bracket.png)](https://xkcd.com/2230/ "Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.")
 
 Your daily random xkcd
