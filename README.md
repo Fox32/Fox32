@@ -1,4 +1,4 @@
-## Versus Bracket
-[![Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.](https://imgs.xkcd.com/comics/versus_bracket.png)](https://xkcd.com/2230/ "Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.")
+## Polar/Cartesian
+[![Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.](https://imgs.xkcd.com/comics/polar_cartesian.png)](https://xkcd.com/1230/ "Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.")
 
 Your daily random xkcd
