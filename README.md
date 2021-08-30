@@ -1,4 +1,4 @@
-## Polar/Cartesian
-[![Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.](https://imgs.xkcd.com/comics/polar_cartesian.png)](https://xkcd.com/1230/ "Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.")
+## Tones
+[![I need a lawn, so I can yell at kids to stay off it.](https://imgs.xkcd.com/comics/tones.png)](https://xkcd.com/479/ "I need a lawn, so I can yell at kids to stay off it.")
 
 Your daily random xkcd
