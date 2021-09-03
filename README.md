@@ -1,4 +1,4 @@
-## Satellite
-[![If you're going to let it burn up, make sure it happens over the deep end of the bathtub and not any populated parts of the house!](https://imgs.xkcd.com/comics/satellite.png)](https://xkcd.com/2264/ "If you're going to let it burn up, make sure it happens over the deep end of the bathtub and not any populated parts of the house!")
+## 90s Kid
+[![We remember Rugrats, and think of them every time our kids look at us through their baby gates.](https://imgs.xkcd.com/comics/90s_kid.png)](https://xkcd.com/1548/ "We remember Rugrats, and think of them every time our kids look at us through their baby gates.")
 
 Your daily random xkcd
