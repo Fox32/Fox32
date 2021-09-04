@@ -1,4 +1,4 @@
-## 90s Kid
-[![We remember Rugrats, and think of them every time our kids look at us through their baby gates.](https://imgs.xkcd.com/comics/90s_kid.png)](https://xkcd.com/1548/ "We remember Rugrats, and think of them every time our kids look at us through their baby gates.")
+## Timeline of the Universe
+[![Not actual size, except technically at one spot near the left.](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)](https://xkcd.com/2240/ "Not actual size, except technically at one spot near the left.")
 
 Your daily random xkcd
