@@ -1,4 +1,4 @@
-## The Mother of All Suspicious Files
-[![Better change the URL to 'https' before downloading.](https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png)](https://xkcd.com/1247/ "Better change the URL to 'https' before downloading.")
+## Game Show
+[![Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."](https://imgs.xkcd.com/comics/game_show.png)](https://xkcd.com/2197/ "Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."")
 
 Your daily random xkcd
