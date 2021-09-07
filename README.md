@@ -1,4 +1,4 @@
-## Game Show
-[![Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."](https://imgs.xkcd.com/comics/game_show.png)](https://xkcd.com/2197/ "Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."")
+## Food Combinations
+[![If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."](https://imgs.xkcd.com/comics/food_combinations.png)](https://xkcd.com/1609/ "If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."")
 
 Your daily random xkcd
