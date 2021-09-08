@@ -1,4 +1,4 @@
-## Food Combinations
-[![If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."](https://imgs.xkcd.com/comics/food_combinations.png)](https://xkcd.com/1609/ "If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."")
+## Before Sunrise
+[![It's an amazing time of day; the light is great for photography.](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/ "It's an amazing time of day; the light is great for photography.")
 
 Your daily random xkcd
