@@ -1,4 +1,4 @@
-## Before Sunrise
-[![It's an amazing time of day; the light is great for photography.](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/ "It's an amazing time of day; the light is great for photography.")
+## Tattoo
+[![I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).](https://imgs.xkcd.com/comics/tattoo.png)](https://xkcd.com/933/ "I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).")
 
 Your daily random xkcd
