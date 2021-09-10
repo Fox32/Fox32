@@ -1,4 +1,4 @@
-## Tattoo
-[![I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).](https://imgs.xkcd.com/comics/tattoo.png)](https://xkcd.com/933/ "I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).")
+## Addiction
+[![But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.](https://imgs.xkcd.com/comics/addiction.png)](https://xkcd.com/597/ "But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.")
 
 Your daily random xkcd
