@@ -1,4 +1,4 @@
-## Counter-Red Spiders
-[![I hope we can stop them](https://imgs.xkcd.com/comics/counter-red-spiders.jpg)](https://xkcd.com/47/ "I hope we can stop them")
+## Santa
+[![He probably just poops over the side of the sleigh.](https://imgs.xkcd.com/comics/santa.png)](https://xkcd.com/1464/ "He probably just poops over the side of the sleigh.")
 
 Your daily random xkcd
