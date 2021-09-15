@@ -1,4 +1,4 @@
-## Luna 2
-[![The flags were probably vaporized on impact, because we launched it before we had finished figuring out how to land. That makes sense from an engineering standpoint, but also feels like a metaphor.](https://imgs.xkcd.com/comics/luna_2.png)](https://xkcd.com/2125/ "The flags were probably vaporized on impact, because we launched it before we had finished figuring out how to land. That makes sense from an engineering standpoint, but also feels like a metaphor.")
+## Pluto
+[![After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."](https://imgs.xkcd.com/comics/pluto.png)](https://xkcd.com/1551/ "After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."")
 
 Your daily random xkcd
