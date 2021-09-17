@@ -1,4 +1,4 @@
-## Mycology
-[![Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.](https://imgs.xkcd.com/comics/mycology.png)](https://xkcd.com/1664/ "Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.")
+## Genetic Testing Results
+[![That's very exciting! The bad news is that it's a risk factor for a lot of things.](https://imgs.xkcd.com/comics/genetic_testing_results.png)](https://xkcd.com/1840/ "That's very exciting! The bad news is that it's a risk factor for a lot of things.")
 
 Your daily random xkcd
