@@ -1,4 +1,4 @@
-## Genetic Testing Results
-[![That's very exciting! The bad news is that it's a risk factor for a lot of things.](https://imgs.xkcd.com/comics/genetic_testing_results.png)](https://xkcd.com/1840/ "That's very exciting! The bad news is that it's a risk factor for a lot of things.")
+## Crossbows
+[![I hate being the slowest guy in the lab.](https://imgs.xkcd.com/comics/crossbows.png)](https://xkcd.com/564/ "I hate being the slowest guy in the lab.")
 
 Your daily random xkcd
