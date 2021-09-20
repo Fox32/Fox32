@@ -1,4 +1,4 @@
-## Polar/Cartesian
-[![Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.](https://imgs.xkcd.com/comics/polar_cartesian.png)](https://xkcd.com/1230/ "Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.")
+## Irony
+[![It's commonly known that too much perspective can be a downer.](https://imgs.xkcd.com/comics/irony_color.jpg)](https://xkcd.com/6/ "It's commonly known that too much perspective can be a downer.")
 
 Your daily random xkcd
