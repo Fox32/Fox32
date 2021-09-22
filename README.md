@@ -1,4 +1,4 @@
-## Cursed Chair
-[![The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."](https://imgs.xkcd.com/comics/cursed_chair.png)](https://xkcd.com/2332/ "The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."")
+## Fairy Tales
+[![Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.](https://imgs.xkcd.com/comics/fairy_tales.png)](https://xkcd.com/872/ "Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.")
 
 Your daily random xkcd
