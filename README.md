@@ -1,4 +1,4 @@
-## Wall Art
-[![At first, I moved from pokémon posters to regular oil paintings, but then these really grumpy and unreasonable detectives from the Louvre showed up and took them all. They wouldn't even give me back my thumbtacks!](https://imgs.xkcd.com/comics/wall_art.png)](https://xkcd.com/2018/ "At first, I moved from pokémon posters to regular oil paintings, but then these really grumpy and unreasonable detectives from the Louvre showed up and took them all. They wouldn't even give me back my thumbtacks!")
+## Checkbox
+[![Check check check ... chhecck chhecck chhecck ... check check check](https://imgs.xkcd.com/comics/checkbox.gif)](https://xkcd.com/2445/ "Check check check ... chhecck chhecck chhecck ... check check check")
 
 Your daily random xkcd
