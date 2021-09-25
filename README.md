@@ -1,4 +1,4 @@
-## Checkbox
-[![Check check check ... chhecck chhecck chhecck ... check check check](https://imgs.xkcd.com/comics/checkbox.gif)](https://xkcd.com/2445/ "Check check check ... chhecck chhecck chhecck ... check check check")
+## The Economic Argument
+[![Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.](https://imgs.xkcd.com/comics/the_economic_argument.png)](https://xkcd.com/808/ "Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.")
 
 Your daily random xkcd
