@@ -1,4 +1,4 @@
-## The Economic Argument
-[![Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.](https://imgs.xkcd.com/comics/the_economic_argument.png)](https://xkcd.com/808/ "Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.")
+## Terry Pratchett
+[![Thank you for teaching us how big our world is by sharing so many of your own.](https://imgs.xkcd.com/comics/terry_pratchett.png)](https://xkcd.com/1498/ "Thank you for teaching us how big our world is by sharing so many of your own.")
 
 Your daily random xkcd
