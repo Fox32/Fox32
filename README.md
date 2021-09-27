@@ -1,4 +1,4 @@
-## Terry Pratchett
-[![Thank you for teaching us how big our world is by sharing so many of your own.](https://imgs.xkcd.com/comics/terry_pratchett.png)](https://xkcd.com/1498/ "Thank you for teaching us how big our world is by sharing so many of your own.")
+## Correlation
+[![Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 
 Your daily random xkcd
