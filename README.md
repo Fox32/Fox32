@@ -1,4 +1,4 @@
-## Correlation
-[![Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
+## Wasteland
+[![You make forgetting look so easy.](https://imgs.xkcd.com/comics/wasteland.png)](https://xkcd.com/334/ "You make forgetting look so easy.")
 
 Your daily random xkcd
