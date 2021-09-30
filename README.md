@@ -1,4 +1,4 @@
-## Invisible Formatting
-[![To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.](https://imgs.xkcd.com/comics/invisible_formatting.png)](https://xkcd.com/2109/ "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.")
+## 2016 Conversation Guide
+[![The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.](https://imgs.xkcd.com/comics/2016_conversation_guide.png)](https://xkcd.com/1623/ "The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.")
 
 Your daily random xkcd
