@@ -1,4 +1,4 @@
-## Douglas Engelbart (1925-2013)
-[![Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you’re doing all the time ...'](https://imgs.xkcd.com/comics/douglas_engelbart_1925_2013.png)](https://xkcd.com/1234/ "Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you’re doing all the time ...'")
+## Tornado Safety Tips
+[![It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.](https://imgs.xkcd.com/comics/tornado_safety_tips.png)](https://xkcd.com/1754/ "It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.")
 
 Your daily random xkcd
