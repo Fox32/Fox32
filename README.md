@@ -1,4 +1,4 @@
-## Subduction License
-[!['Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'](https://imgs.xkcd.com/comics/subduction_license.png)](https://xkcd.com/1388/ "'Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'")
+## Wikipedian Protester
+[![SEMI-PROTECT THE CONSTITUTION](https://imgs.xkcd.com/comics/wikipedian_protester.png)](https://xkcd.com/285/ "SEMI-PROTECT THE CONSTITUTION")
 
 Your daily random xkcd
