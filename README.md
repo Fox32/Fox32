@@ -1,4 +1,4 @@
-## Investing
-[![But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.](https://imgs.xkcd.com/comics/investing.png)](https://xkcd.com/947/ "But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.")
+## Worrying
+[![If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.](https://imgs.xkcd.com/comics/worrying.png)](https://xkcd.com/1468/ "If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.")
 
 Your daily random xkcd
