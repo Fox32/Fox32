@@ -1,4 +1,4 @@
-## Genetic Algorithms
-[![Just make sure you don't have it maximize instead of minimize.](https://imgs.xkcd.com/comics/genetic_algorithms.png)](https://xkcd.com/534/ "Just make sure you don't have it maximize instead of minimize.")
+## Challengers
+[![Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot on November 6th.](https://imgs.xkcd.com/comics/challengers.png)](https://xkcd.com/2067/ "Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot on November 6th.")
 
 Your daily random xkcd
