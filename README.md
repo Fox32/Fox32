@@ -1,4 +1,4 @@
-## Jack and Jill
-[![Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.](https://imgs.xkcd.com/comics/jack_and_jill.png)](https://xkcd.com/1662/ "Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.")
+## Lease
+[![You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.](https://imgs.xkcd.com/comics/lease.png)](https://xkcd.com/616/ "You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.")
 
 Your daily random xkcd
