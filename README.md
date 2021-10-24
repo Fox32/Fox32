@@ -1,4 +1,4 @@
-## Hertzsprung-Russell Diagram
-[![The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.](https://imgs.xkcd.com/comics/hertzsprung_russell_diagram.png)](https://xkcd.com/2009/ "The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.")
+## Dialect Quiz
+[![Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372/ "Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?")
 
 Your daily random xkcd
