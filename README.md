@@ -1,4 +1,4 @@
-## Dialect Quiz
-[![Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372/ "Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?")
+## Product Launch
+[!["Okay, that was weird, but the product reveal was normal. I think the danger is pas--" "One more thing." "Oh no."](https://imgs.xkcd.com/comics/product_launch.png)](https://xkcd.com/2473/ ""Okay, that was weird, but the product reveal was normal. I think the danger is pas--" "One more thing." "Oh no."")
 
 Your daily random xkcd
