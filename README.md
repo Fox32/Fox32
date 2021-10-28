@@ -1,4 +1,4 @@
-## With Apologies to The Who
-[![Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.](https://imgs.xkcd.com/comics/with_apologies_to_the_who.png)](https://xkcd.com/274/ "Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.")
+## Vaccinated
+[![I built a model that combines local case rates and vaccination stats to estimate when it's reasonable to attend various types of party, but I forgot to include anything about where to find them.](https://imgs.xkcd.com/comics/vaccinated.png)](https://xkcd.com/2460/ "I built a model that combines local case rates and vaccination stats to estimate when it's reasonable to attend various types of party, but I forgot to include anything about where to find them.")
 
 Your daily random xkcd
