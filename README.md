@@ -1,4 +1,4 @@
-## Vaccinated
-[![I built a model that combines local case rates and vaccination stats to estimate when it's reasonable to attend various types of party, but I forgot to include anything about where to find them.](https://imgs.xkcd.com/comics/vaccinated.png)](https://xkcd.com/2460/ "I built a model that combines local case rates and vaccination stats to estimate when it's reasonable to attend various types of party, but I forgot to include anything about where to find them.")
+## Google Maps
+[![Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).](https://imgs.xkcd.com/comics/google_maps.png)](https://xkcd.com/461/ "Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).")
 
 Your daily random xkcd
