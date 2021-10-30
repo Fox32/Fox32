@@ -1,4 +1,4 @@
-## Google Maps
-[![Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).](https://imgs.xkcd.com/comics/google_maps.png)](https://xkcd.com/461/ "Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).")
+## Broomstick
+[!['Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'](https://imgs.xkcd.com/comics/broomstick.png)](https://xkcd.com/1149/ "'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'")
 
 Your daily random xkcd
