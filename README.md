@@ -1,4 +1,4 @@
-## Spinal Tap Amps
-[![Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)](https://xkcd.com/670/ "Wow, that's less than $200 per ... uh ... that's a good deal!")
+## Squirrelphone
+[![After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.](https://imgs.xkcd.com/comics/squirrelphone.png)](https://xkcd.com/1578/ "After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.")
 
 Your daily random xkcd
