@@ -1,4 +1,4 @@
-## Blade Runner
-[![Blade Runner: Classic, but incredibly slow.](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/ "Blade Runner: Classic, but incredibly slow.")
+## Galilean Moons
+[![I'm SO glad I escaped. They almost had me caught in their weird ... thing.](https://imgs.xkcd.com/comics/galilean_moons.png)](https://xkcd.com/1300/ "I'm SO glad I escaped. They almost had me caught in their weird ... thing.")
 
 Your daily random xkcd
