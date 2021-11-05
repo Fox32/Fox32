@@ -1,4 +1,4 @@
-## Tones
-[![I need a lawn, so I can yell at kids to stay off it.](https://imgs.xkcd.com/comics/tones.png)](https://xkcd.com/479/ "I need a lawn, so I can yell at kids to stay off it.")
+## Psychic
+[![You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.](https://imgs.xkcd.com/comics/psychic.png)](https://xkcd.com/628/ "You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.")
 
 Your daily random xkcd
