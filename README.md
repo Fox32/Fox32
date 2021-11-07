@@ -1,4 +1,4 @@
-## Trolling
-[![And I was really impressed with how they managed to shock the Goatse guy.](https://imgs.xkcd.com/comics/trolling.png)](https://xkcd.com/351/ "And I was really impressed with how they managed to shock the Goatse guy.")
+## Symptoms
+[![This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.](https://imgs.xkcd.com/comics/symptoms.png)](https://xkcd.com/2279/ "This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.")
 
 Your daily random xkcd
