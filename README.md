@@ -1,4 +1,4 @@
-## Symptoms
-[![This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.](https://imgs.xkcd.com/comics/symptoms.png)](https://xkcd.com/2279/ "This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.")
+## Still No Sleep
+[![I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?](https://imgs.xkcd.com/comics/still_no_sleep.png)](https://xkcd.com/776/ "I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?")
 
 Your daily random xkcd
