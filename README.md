@@ -1,4 +1,4 @@
-## Marriage
-[![People often say that same-sex marriage now is like interracial marriage in the 60s. But in terms of public opinion, same-sex marriage now is like interracial marriage in the 90s, when it had already been legal nationwide for 30 years.](https://imgs.xkcd.com/comics/marriage.png)](https://xkcd.com/1431/ "People often say that same-sex marriage now is like interracial marriage in the 60s. But in terms of public opinion, same-sex marriage now is like interracial marriage in the 90s, when it had already been legal nationwide for 30 years.")
+## Borders
+[![Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.](https://imgs.xkcd.com/comics/borders.png)](https://xkcd.com/569/ "Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.")
 
 Your daily random xkcd
