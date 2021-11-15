@@ -1,4 +1,4 @@
-## Kola Borehole
-[![Tonight's top story: Lucifer, the Prince of Darkness, died in his home this morning at the age of [unintelligible rune]. Due to the large number of sharks inhabiting his former kingdom, no body could be recovered.](https://imgs.xkcd.com/comics/kola_borehole.png)](https://xkcd.com/1330/ "Tonight's top story: Lucifer, the Prince of Darkness, died in his home this morning at the age of [unintelligible rune]. Due to the large number of sharks inhabiting his former kingdom, no body could be recovered.")
+## Local g
+[![In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.](https://imgs.xkcd.com/comics/local_g.png)](https://xkcd.com/852/ "In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.")
 
 Your daily random xkcd
