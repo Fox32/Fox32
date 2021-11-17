@@ -1,4 +1,4 @@
-## Einstein
-[![Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.](https://imgs.xkcd.com/comics/einstein.png)](https://xkcd.com/1206/ "Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.")
+## Firefox and Witchcraft - The Connection?
+[![ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.](https://imgs.xkcd.com/comics/firefox_wicca.png)](https://xkcd.com/111/ "ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.")
 
 Your daily random xkcd
