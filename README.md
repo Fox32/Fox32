@@ -1,4 +1,4 @@
-## Pastime
-[![Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?](https://imgs.xkcd.com/comics/pastime.png)](https://xkcd.com/1222/ "Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?")
+## M.C. Hammer Slide
+[![Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.](https://imgs.xkcd.com/comics/mc_hammer_slide.png)](https://xkcd.com/108/ "Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.")
 
 Your daily random xkcd
