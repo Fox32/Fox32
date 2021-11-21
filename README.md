@@ -1,4 +1,4 @@
-## M.C. Hammer Slide
-[![Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.](https://imgs.xkcd.com/comics/mc_hammer_slide.png)](https://xkcd.com/108/ "Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.")
+## Automation
+[!['Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.](https://imgs.xkcd.com/comics/automation.png)](https://xkcd.com/1319/ "'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.")
 
 Your daily random xkcd
