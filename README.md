@@ -1,4 +1,4 @@
-## Automation
-[!['Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.](https://imgs.xkcd.com/comics/automation.png)](https://xkcd.com/1319/ "'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.")
+## George Clinton
+[![I still wish it were true.](https://imgs.xkcd.com/comics/george_clinton.jpg)](https://xkcd.com/19/ "I still wish it were true.")
 
 Your daily random xkcd
