@@ -1,4 +1,4 @@
-## Aeris Dies
-[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
+## Dimensional Chess
+[![In Dimensional Chess, every move is annotated '?!'.](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465/ "In Dimensional Chess, every move is annotated '?!'.")
 
 Your daily random xkcd
