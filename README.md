@@ -1,4 +1,4 @@
-## Chess Notation
-[![I've decided to score all my conversations using chess win-loss notation. (??)](https://imgs.xkcd.com/comics/chess_notation.png)](https://xkcd.com/1800/ "I've decided to score all my conversations using chess win-loss notation. (??)")
+## Excel Lambda
+[![Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.](https://imgs.xkcd.com/comics/excel_lambda.png)](https://xkcd.com/2453/ "Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.")
 
 Your daily random xkcd
