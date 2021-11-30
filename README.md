@@ -1,4 +1,4 @@
-## Photos
-[![I hate when people take photos of their meal instead of eating it, because there's nothing I love more than the sound of other people chewing.](https://imgs.xkcd.com/comics/photos.png)](https://xkcd.com/1314/ "I hate when people take photos of their meal instead of eating it, because there's nothing I love more than the sound of other people chewing.")
+## Sibling-in-Law
+[![FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."](https://imgs.xkcd.com/comics/sibling_in_law.png)](https://xkcd.com/2040/ "FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."")
 
 Your daily random xkcd
