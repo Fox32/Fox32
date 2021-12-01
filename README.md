@@ -1,4 +1,4 @@
-## Sibling-in-Law
-[![FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."](https://imgs.xkcd.com/comics/sibling_in_law.png)](https://xkcd.com/2040/ "FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."")
+## Far Away
+[![Sometimes an impulsive 2:00 AM cross-country trip is the only solution.](https://imgs.xkcd.com/comics/far_away.png)](https://xkcd.com/352/ "Sometimes an impulsive 2:00 AM cross-country trip is the only solution.")
 
 Your daily random xkcd
