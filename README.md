@@ -1,4 +1,4 @@
-## Well-Ordering Principle
-[![We could organize a nationwide old-photo-album search, but the real Worst McFly is probably lost to time.](https://imgs.xkcd.com/comics/well_ordering_principle.png)](https://xkcd.com/2193/ "We could organize a nationwide old-photo-album search, but the real Worst McFly is probably lost to time.")
+## Thoughts
+[![And now I might never get to again.](https://imgs.xkcd.com/comics/thoughts.png)](https://xkcd.com/275/ "And now I might never get to again.")
 
 Your daily random xkcd
