@@ -1,4 +1,4 @@
-## Cover-Up
-[![Man, this trick has saved me so many times.](https://imgs.xkcd.com/comics/cover_up.png)](https://xkcd.com/542/ "Man, this trick has saved me so many times.")
+## Win by Induction
+[![This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.](https://imgs.xkcd.com/comics/win_by_induction.png)](https://xkcd.com/1516/ "This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.")
 
 Your daily random xkcd
