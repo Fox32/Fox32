@@ -1,4 +1,4 @@
-## Days of the Week
-[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
+## Home Organization
+[![Lifehacking!](https://imgs.xkcd.com/comics/home_organization.png)](https://xkcd.com/1077/ "Lifehacking!")
 
 Your daily random xkcd
