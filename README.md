@@ -1,4 +1,4 @@
-## Defensive Profile
-[![NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.](https://imgs.xkcd.com/comics/defensive_profile.png)](https://xkcd.com/1911/ "NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.")
+## Fairy Tales
+[![Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.](https://imgs.xkcd.com/comics/fairy_tales.png)](https://xkcd.com/872/ "Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.")
 
 Your daily random xkcd
