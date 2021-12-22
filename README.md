@@ -1,4 +1,4 @@
-## Dependencies
-[![The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.](https://imgs.xkcd.com/comics/dependencies.png)](https://xkcd.com/754/ "The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.")
+## Kayak
+[![Man, there's future *everywhere*.](https://imgs.xkcd.com/comics/kayak.png)](https://xkcd.com/209/ "Man, there's future *everywhere*.")
 
 Your daily random xkcd
