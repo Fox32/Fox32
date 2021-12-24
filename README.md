@@ -1,4 +1,4 @@
-## Forest Walk
-[![The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.](https://imgs.xkcd.com/comics/forest_walk.png)](https://xkcd.com/2498/ "The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.")
+## Location Reviews
+[![Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.](https://imgs.xkcd.com/comics/location_reviews.png)](https://xkcd.com/1803/ "Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.")
 
 Your daily random xkcd
