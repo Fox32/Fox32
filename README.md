@@ -1,4 +1,4 @@
-## Location Reviews
-[![Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.](https://imgs.xkcd.com/comics/location_reviews.png)](https://xkcd.com/1803/ "Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.")
+## YouTube Parties
+[![This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.](https://imgs.xkcd.com/comics/youtube_parties.png)](https://xkcd.com/920/ "This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.")
 
 Your daily random xkcd
