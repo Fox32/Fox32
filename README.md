@@ -1,4 +1,4 @@
-## YouTube Parties
-[![This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.](https://imgs.xkcd.com/comics/youtube_parties.png)](https://xkcd.com/920/ "This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.")
+## Supreme Court
+[![Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."](https://imgs.xkcd.com/comics/supreme_court.png)](https://xkcd.com/1607/ "Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."")
 
 Your daily random xkcd
