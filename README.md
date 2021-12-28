@@ -1,4 +1,4 @@
-## Cell Number
-[![There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.](https://imgs.xkcd.com/comics/cell_number.png)](https://xkcd.com/1129/ "There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.")
+## Unfulfilling Toys
+[![We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.](https://imgs.xkcd.com/comics/unfulfilling_toys.png)](https://xkcd.com/2049/ "We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.")
 
 Your daily random xkcd
