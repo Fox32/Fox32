@@ -1,4 +1,4 @@
-## Unfulfilling Toys
-[![We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.](https://imgs.xkcd.com/comics/unfulfilling_toys.png)](https://xkcd.com/2049/ "We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.")
+## Further Boomerang Difficulties
+[![An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)](https://xkcd.com/475/ "An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.")
 
 Your daily random xkcd
