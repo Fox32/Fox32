@@ -1,4 +1,4 @@
-## Further Boomerang Difficulties
-[![An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)](https://xkcd.com/475/ "An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.")
+## Election Night
+[!["Even the blind—those who are anxious to hear, but are not able to see—will be taken care of. Immense megaphones have been constructed and will be in use at The Tribune office and in the Coliseum. The one at the Coliseum will be operated by a gentleman who draws $60 a week from Barnum & Bailey's circus for the use of his voice."](https://imgs.xkcd.com/comics/election_night.png)](https://xkcd.com/2068/ ""Even the blind—those who are anxious to hear, but are not able to see—will be taken care of. Immense megaphones have been constructed and will be in use at The Tribune office and in the Coliseum. The one at the Coliseum will be operated by a gentleman who draws $60 a week from Barnum & Bailey's circus for the use of his voice."")
 
 Your daily random xkcd
