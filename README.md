@@ -1,4 +1,4 @@
-## Winter
-[![Stay warm, little flappers, and find lots of plant eggs!](https://imgs.xkcd.com/comics/winter.png)](https://xkcd.com/1322/ "Stay warm, little flappers, and find lots of plant eggs!")
+## Tags
+[![<A>: Like </a>this.&nbsp;](https://imgs.xkcd.com/comics/tags.png)](https://xkcd.com/1144/ "<A>: Like </a>this.&nbsp;")
 
 Your daily random xkcd
