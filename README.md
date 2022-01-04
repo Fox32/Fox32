@@ -1,4 +1,4 @@
-## Dubious Study
-[![Sounds fine. I looked up the Academy, and it says on their MySpace page that their journal is peer-viewed and downloaded biannually.](https://imgs.xkcd.com/comics/dubious_study.png)](https://xkcd.com/1847/ "Sounds fine. I looked up the Academy, and it says on their MySpace page that their journal is peer-viewed and downloaded biannually.")
+## Profile Info
+[![It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.](https://imgs.xkcd.com/comics/profile_info.png)](https://xkcd.com/1303/ "It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.")
 
 Your daily random xkcd
