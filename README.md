@@ -1,4 +1,4 @@
-## Profile Info
-[![It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.](https://imgs.xkcd.com/comics/profile_info.png)](https://xkcd.com/1303/ "It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.")
+## First Thing
+[![Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.](https://imgs.xkcd.com/comics/first_thing.png)](https://xkcd.com/2404/ "Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.")
 
 Your daily random xkcd
