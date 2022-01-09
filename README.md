@@ -1,4 +1,4 @@
-## Increased Risk
-[![You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!](https://imgs.xkcd.com/comics/increased_risk.png)](https://xkcd.com/1252/ "You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!")
+## Etch-a-Sketch
+[![Surrounded by boring mysteries.](https://imgs.xkcd.com/comics/etch-a-sketch.png)](https://xkcd.com/551/ "Surrounded by boring mysteries.")
 
 Your daily random xkcd
