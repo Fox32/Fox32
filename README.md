@@ -1,4 +1,4 @@
-## Not Enough Work
-[![It's even harder if you're an asshole who pronounces <> brackets.](https://imgs.xkcd.com/comics/not_enough_work.png)](https://xkcd.com/554/ "It's even harder if you're an asshole who pronounces <> brackets.")
+## I Am
+[![Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.](https://imgs.xkcd.com/comics/i_am.png)](https://xkcd.com/709/ "Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.")
 
 Your daily random xkcd
