@@ -1,4 +1,4 @@
-## I Am
-[![Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.](https://imgs.xkcd.com/comics/i_am.png)](https://xkcd.com/709/ "Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.")
+## Homeownership
+[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
 
 Your daily random xkcd
