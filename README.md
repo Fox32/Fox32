@@ -1,4 +1,4 @@
-## Homeownership
-[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
+## Electromagnetic Spectrum
+[![Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum.  Also sometimes I try to picture your sister naked.](https://imgs.xkcd.com/comics/electromagnetic_spectrum_small.png)](https://xkcd.com/273/ "Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum.  Also sometimes I try to picture your sister naked.")
 
 Your daily random xkcd
