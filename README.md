@@ -1,4 +1,4 @@
-## Argument
-[![The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.](https://imgs.xkcd.com/comics/argument.png)](https://xkcd.com/1166/ "The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.")
+## Google Trends Maps
+[![It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.](https://imgs.xkcd.com/comics/google_trends_maps.png)](https://xkcd.com/2126/ "It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.")
 
 Your daily random xkcd
