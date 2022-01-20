@@ -1,4 +1,4 @@
-## Google Trends Maps
-[![It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.](https://imgs.xkcd.com/comics/google_trends_maps.png)](https://xkcd.com/2126/ "It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.")
+## Long Light
+[![You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.](https://imgs.xkcd.com/comics/long_light.png)](https://xkcd.com/277/ "You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.")
 
 Your daily random xkcd
