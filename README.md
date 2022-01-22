@@ -1,4 +1,4 @@
-## AI
-[![And they both react poorly to showers.](https://imgs.xkcd.com/comics/ai.png)](https://xkcd.com/948/ "And they both react poorly to showers.")
+## Atheists
+[!['But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'](https://imgs.xkcd.com/comics/atheists.png)](https://xkcd.com/774/ "'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'")
 
 Your daily random xkcd
