@@ -1,4 +1,4 @@
-## Atheists
-[!['But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'](https://imgs.xkcd.com/comics/atheists.png)](https://xkcd.com/774/ "'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'")
+## Logic Gates
+[![In C, the multiocular O represents the bitwise norxondor gorgonax.](https://imgs.xkcd.com/comics/logic_gates.png)](https://xkcd.com/2497/ "In C, the multiocular O represents the bitwise norxondor gorgonax.")
 
 Your daily random xkcd
