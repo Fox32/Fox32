@@ -1,4 +1,4 @@
-## Sympathy
-[![Excellent recovery: ... which we could try to use to somehow save your original brother!](https://imgs.xkcd.com/comics/sympathy.png)](https://xkcd.com/660/ "Excellent recovery: ... which we could try to use to somehow save your original brother!")
+## Marshmallow Gun
+[![Except in reality crossing a stream of marshmallows would create a giant Bill Murray.](https://imgs.xkcd.com/comics/marshmallow_gun.png)](https://xkcd.com/517/ "Except in reality crossing a stream of marshmallows would create a giant Bill Murray.")
 
 Your daily random xkcd
