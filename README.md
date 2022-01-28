@@ -1,4 +1,4 @@
-## Combination Vision Test
-[![If you see two numbers but they're both the same and you have to squint to read them, you have synesthesia, colorblindness, diplopia, and myopia.](https://imgs.xkcd.com/comics/combination_vision_test.png)](https://xkcd.com/1213/ "If you see two numbers but they're both the same and you have to squint to read them, you have synesthesia, colorblindness, diplopia, and myopia.")
+## Machine Learning Captcha
+[![More likely: Click on all the pictures of people who appear disloyal to [name of company or government]](https://imgs.xkcd.com/comics/machine_learning_captcha.png)](https://xkcd.com/2228/ "More likely: Click on all the pictures of people who appear disloyal to [name of company or government]")
 
 Your daily random xkcd
