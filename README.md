@@ -1,4 +1,4 @@
-## New Sports System
-[![Under my system, boxing and football suffered, pair figure skating still worked but had to adapt by dropping some moves, and pro wrestling was actually completely unaffected.](https://imgs.xkcd.com/comics/new_sports_system.png)](https://xkcd.com/2291/ "Under my system, boxing and football suffered, pair figure skating still worked but had to adapt by dropping some moves, and pro wrestling was actually completely unaffected.")
+## Etymology
+[![For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?](https://imgs.xkcd.com/comics/etymology.png)](https://xkcd.com/890/ "For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?")
 
 Your daily random xkcd
