@@ -1,4 +1,4 @@
-## Knights
-[![1. Nf3 ... ↘↘↘  2. Nc3 ... ↘↘↘  0-1](https://imgs.xkcd.com/comics/knights.png)](https://xkcd.com/1078/ "1. Nf3 ... ↘↘↘  2. Nc3 ... ↘↘↘  0-1")
+## Emojidome
+[![Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!](https://imgs.xkcd.com/comics/emojidome.png)](https://xkcd.com/2131/ "Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!")
 
 Your daily random xkcd
