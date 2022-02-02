@@ -1,4 +1,4 @@
-## Emojidome
-[![Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!](https://imgs.xkcd.com/comics/emojidome.png)](https://xkcd.com/2131/ "Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!")
+## Snakes on a Plane! 2
+[![James suggested this, and I have to agree.  It'd be much worse.](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)](https://xkcd.com/107/ "James suggested this, and I have to agree.  It'd be much worse.")
 
 Your daily random xkcd
