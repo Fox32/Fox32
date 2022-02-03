@@ -1,4 +1,4 @@
-## Snakes on a Plane! 2
-[![James suggested this, and I have to agree.  It'd be much worse.](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)](https://xkcd.com/107/ "James suggested this, and I have to agree.  It'd be much worse.")
+## Software Development
+[![Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.](https://imgs.xkcd.com/comics/software_development.png)](https://xkcd.com/2021/ "Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.")
 
 Your daily random xkcd
