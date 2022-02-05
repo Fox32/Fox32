@@ -1,4 +1,4 @@
-## Cheap GPS
-[![In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.](https://imgs.xkcd.com/comics/cheap_gps.png)](https://xkcd.com/407/ "In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.")
+## Resolution
+[![If at first you don't succeed, that's one data point.](https://imgs.xkcd.com/comics/resolution.png)](https://xkcd.com/1154/ "If at first you don't succeed, that's one data point.")
 
 Your daily random xkcd
