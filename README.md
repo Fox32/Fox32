@@ -1,4 +1,4 @@
-## Anti-Mindvirus
-[![I'm as surprised as you!  I didn't think it was possible.](https://imgs.xkcd.com/comics/anti_mind_virus.png)](https://xkcd.com/391/ "I'm as surprised as you!  I didn't think it was possible.")
+## T-Cells
+[!['We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'](https://imgs.xkcd.com/comics/t_cells.png)](https://xkcd.com/938/ "'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'")
 
 Your daily random xkcd
