@@ -1,4 +1,4 @@
-## Wisdom of the Ancients
-[![All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)](https://xkcd.com/979/ "All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'")
+## Science Fair
+[![This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.](https://imgs.xkcd.com/comics/science_fair.png)](https://xkcd.com/136/ "This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.")
 
 Your daily random xkcd
