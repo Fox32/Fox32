@@ -1,4 +1,4 @@
-## Science Fair
-[![This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.](https://imgs.xkcd.com/comics/science_fair.png)](https://xkcd.com/136/ "This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.")
+## In Your Classroom
+[![Ontology is way off to the left and geography is way off to the right.](https://imgs.xkcd.com/comics/in_your_classroom.png)](https://xkcd.com/2466/ "Ontology is way off to the left and geography is way off to the right.")
 
 Your daily random xkcd
