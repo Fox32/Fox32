@@ -1,4 +1,4 @@
-## In Your Classroom
-[![Ontology is way off to the left and geography is way off to the right.](https://imgs.xkcd.com/comics/in_your_classroom.png)](https://xkcd.com/2466/ "Ontology is way off to the left and geography is way off to the right.")
+## Ringtone Timeline
+[![No one likes my novelty ringtone, an audio recording of a phone on vibrate sitting on a hard surface.](https://imgs.xkcd.com/comics/ringtone_timeline.png)](https://xkcd.com/2272/ "No one likes my novelty ringtone, an audio recording of a phone on vibrate sitting on a hard surface.")
 
 Your daily random xkcd
