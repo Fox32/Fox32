@@ -1,4 +1,4 @@
-## Superm*n
-[![See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.](https://imgs.xkcd.com/comics/superm_n.png)](https://xkcd.com/1394/ "See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.")
+## Yogurt
+[![I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.](https://imgs.xkcd.com/comics/yogurt.png)](https://xkcd.com/737/ "I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.")
 
 Your daily random xkcd
