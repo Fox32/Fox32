@@ -1,4 +1,4 @@
-## Yogurt
-[![I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.](https://imgs.xkcd.com/comics/yogurt.png)](https://xkcd.com/737/ "I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.")
+## Dating Service
+[![I don't understand why people are so disingenuous!  I just want someone to walk with!](https://imgs.xkcd.com/comics/dating_service.png)](https://xkcd.com/120/ "I don't understand why people are so disingenuous!  I just want someone to walk with!")
 
 Your daily random xkcd
