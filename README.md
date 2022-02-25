@@ -1,4 +1,4 @@
-## Blagofaire
-[![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)](https://xkcd.com/239/ "Things were better before the Structuring and the Levels.")
+## Alone
+[![Worries assuaged, the numbers become less important than your touches.](https://imgs.xkcd.com/comics/alone.png)](https://xkcd.com/289/ "Worries assuaged, the numbers become less important than your touches.")
 
 Your daily random xkcd
