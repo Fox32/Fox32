@@ -1,4 +1,4 @@
-## Alone
-[![Worries assuaged, the numbers become less important than your touches.](https://imgs.xkcd.com/comics/alone.png)](https://xkcd.com/289/ "Worries assuaged, the numbers become less important than your touches.")
+## Eclipse Flights
+[![The captain has turned on the 'fasten seat belt' sign.](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/ "The captain has turned on the 'fasten seat belt' sign.")
 
 Your daily random xkcd
