@@ -1,4 +1,4 @@
-## Eclipse Flights
-[![The captain has turned on the 'fasten seat belt' sign.](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/ "The captain has turned on the 'fasten seat belt' sign.")
+## Magic School Bus
+[![At my OLD school, we used Microsoft Encarta 2005.](https://imgs.xkcd.com/comics/magic_school_bus.png)](https://xkcd.com/911/ "At my OLD school, we used Microsoft Encarta 2005.")
 
 Your daily random xkcd
