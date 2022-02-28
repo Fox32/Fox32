@@ -1,4 +1,4 @@
-## Magic School Bus
-[![At my OLD school, we used Microsoft Encarta 2005.](https://imgs.xkcd.com/comics/magic_school_bus.png)](https://xkcd.com/911/ "At my OLD school, we used Microsoft Encarta 2005.")
+## Abusive Astronomy
+[![Medium: Pencil on paper](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)](https://xkcd.com/66/ "Medium: Pencil on paper")
 
 Your daily random xkcd
