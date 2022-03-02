@@ -1,4 +1,4 @@
-## Wisdom Teeth
-[![I heard the general anesthesia drugs can cause amnesia, so when I woke up mid-extraction I started taking notes on my hand so I'd remember things later. I managed 'AWAKE BUT EVERYTHING OK' before the dental assistant managed to find and confiscate all my pens.](https://imgs.xkcd.com/comics/wisdom_teeth.png)](https://xkcd.com/861/ "I heard the general anesthesia drugs can cause amnesia, so when I woke up mid-extraction I started taking notes on my hand so I'd remember things later. I managed 'AWAKE BUT EVERYTHING OK' before the dental assistant managed to find and confiscate all my pens.")
+## Excessive Quotation
+[![Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.](https://imgs.xkcd.com/comics/excessive_quotation.png)](https://xkcd.com/307/ "Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.")
 
 Your daily random xkcd
