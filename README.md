@@ -1,4 +1,4 @@
-## Excessive Quotation
-[![Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.](https://imgs.xkcd.com/comics/excessive_quotation.png)](https://xkcd.com/307/ "Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.")
+## Indecision
+[![Hey, I don't make the rules.  It's in the book.](https://imgs.xkcd.com/comics/indecision.png)](https://xkcd.com/330/ "Hey, I don't make the rules.  It's in the book.")
 
 Your daily random xkcd
