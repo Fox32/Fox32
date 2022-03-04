@@ -1,4 +1,4 @@
-## Indecision
-[![Hey, I don't make the rules.  It's in the book.](https://imgs.xkcd.com/comics/indecision.png)](https://xkcd.com/330/ "Hey, I don't make the rules.  It's in the book.")
+## To Taste
+[![Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.](https://imgs.xkcd.com/comics/to_taste.png)](https://xkcd.com/1639/ "Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.")
 
 Your daily random xkcd
