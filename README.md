@@ -1,4 +1,4 @@
-## To Taste
-[![Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.](https://imgs.xkcd.com/comics/to_taste.png)](https://xkcd.com/1639/ "Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.")
+## Filler Art
+[![Maybe I should let up on Megatokyo a little?](https://imgs.xkcd.com/comics/filler_art.png)](https://xkcd.com/157/ "Maybe I should let up on Megatokyo a little?")
 
 Your daily random xkcd
