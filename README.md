@@ -1,4 +1,4 @@
-## Filler Art
-[![Maybe I should let up on Megatokyo a little?](https://imgs.xkcd.com/comics/filler_art.png)](https://xkcd.com/157/ "Maybe I should let up on Megatokyo a little?")
+## Neutrality Schmeutrality
+[!['Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'](https://imgs.xkcd.com/comics/neutrality_shmeutrality.png)](https://xkcd.com/545/ "'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'")
 
 Your daily random xkcd
