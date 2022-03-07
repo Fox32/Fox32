@@ -1,4 +1,4 @@
-## Neutrality Schmeutrality
-[!['Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'](https://imgs.xkcd.com/comics/neutrality_shmeutrality.png)](https://xkcd.com/545/ "'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'")
+## The Time Before and After Land
+[![According to Google, "the time for Beeland" is apparently whenever you're looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.](https://imgs.xkcd.com/comics/the_time_before_and_after_land.png)](https://xkcd.com/2231/ "According to Google, "the time for Beeland" is apparently whenever you're looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.")
 
 Your daily random xkcd
