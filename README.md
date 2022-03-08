@@ -1,4 +1,4 @@
-## The Time Before and After Land
-[![According to Google, "the time for Beeland" is apparently whenever you're looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.](https://imgs.xkcd.com/comics/the_time_before_and_after_land.png)](https://xkcd.com/2231/ "According to Google, "the time for Beeland" is apparently whenever you're looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.")
+## Rabbit Introduction
+[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
 
 Your daily random xkcd
