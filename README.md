@@ -1,4 +1,4 @@
-## Rabbit Introduction
-[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
+## Small Talk
+[![But surely I owe you an accurate answer!](https://imgs.xkcd.com/comics/small_talk.png)](https://xkcd.com/222/ "But surely I owe you an accurate answer!")
 
 Your daily random xkcd
