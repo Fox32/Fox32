@@ -1,4 +1,4 @@
-## Small Talk
-[![But surely I owe you an accurate answer!](https://imgs.xkcd.com/comics/small_talk.png)](https://xkcd.com/222/ "But surely I owe you an accurate answer!")
+## Aurora Meaning
+[![The astro-ph.SR arXiv servers are simultaneously being overwhelmed by electronic requests and actual electricity.](https://imgs.xkcd.com/comics/aurora_meaning.png)](https://xkcd.com/2233/ "The astro-ph.SR arXiv servers are simultaneously being overwhelmed by electronic requests and actual electricity.")
 
 Your daily random xkcd
