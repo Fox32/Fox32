@@ -1,4 +1,4 @@
-## Aurora Meaning
-[![The astro-ph.SR arXiv servers are simultaneously being overwhelmed by electronic requests and actual electricity.](https://imgs.xkcd.com/comics/aurora_meaning.png)](https://xkcd.com/2233/ "The astro-ph.SR arXiv servers are simultaneously being overwhelmed by electronic requests and actual electricity.")
+## Logic Boat
+[![Or a cabbage, for that matter. The goat makes sense. Goats are fine.](https://imgs.xkcd.com/comics/logic_boat.png)](https://xkcd.com/1134/ "Or a cabbage, for that matter. The goat makes sense. Goats are fine.")
 
 Your daily random xkcd
