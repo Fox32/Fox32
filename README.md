@@ -1,4 +1,4 @@
-## December 25th Launch
-[![Update: Santa has been destroyed by the range safety officer.](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559/ "Update: Santa has been destroyed by the range safety officer.")
+## Ancient Stars
+[!['The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/ "'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.")
 
 Your daily random xkcd
