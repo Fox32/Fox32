@@ -1,4 +1,4 @@
-## Ancient Stars
-[!['The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/ "'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.")
+## Woosh
+[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
 
 Your daily random xkcd
