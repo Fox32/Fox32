@@ -1,4 +1,4 @@
-## Woosh
-[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
+## Wrong Superhero
+[![Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!](https://imgs.xkcd.com/comics/wrong_superhero.png)](https://xkcd.com/1012/ "Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!")
 
 Your daily random xkcd
