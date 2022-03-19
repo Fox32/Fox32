@@ -1,4 +1,4 @@
-## Begging the Question
-[![At least we can all agree on the enormity of this usage.](https://imgs.xkcd.com/comics/begging_the_question.png)](https://xkcd.com/2039/ "At least we can all agree on the enormity of this usage.")
+## Flow Charts
+[![At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!](https://imgs.xkcd.com/comics/flow_charts.png)](https://xkcd.com/518/ "At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!")
 
 Your daily random xkcd
