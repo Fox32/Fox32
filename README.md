@@ -1,4 +1,4 @@
-## Flow Charts
-[![At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!](https://imgs.xkcd.com/comics/flow_charts.png)](https://xkcd.com/518/ "At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!")
+## Relativity
+[![It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.](https://imgs.xkcd.com/comics/relativity.png)](https://xkcd.com/1233/ "It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.")
 
 Your daily random xkcd
