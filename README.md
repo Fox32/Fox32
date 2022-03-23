@@ -1,4 +1,4 @@
-## Fall Apart
-[![#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.](https://imgs.xkcd.com/comics/fall_apart.jpg)](https://xkcd.com/98/ "#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.")
+## Flash Games
+[![Although ... who else can't wait for them to incorporate that Wiimote head-tracking stuff into games?  Man, the future's gonna be *awesome*.](https://imgs.xkcd.com/comics/flash_games.png)](https://xkcd.com/484/ "Although ... who else can't wait for them to incorporate that Wiimote head-tracking stuff into games?  Man, the future's gonna be *awesome*.")
 
 Your daily random xkcd
