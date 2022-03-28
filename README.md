@@ -1,4 +1,4 @@
-## Phylogenetic Tree
-[![And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.](https://imgs.xkcd.com/comics/phylogenetic_tree.png)](https://xkcd.com/2269/ "And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.")
+## Mystery News
+[![If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!](https://imgs.xkcd.com/comics/mystery_news.png)](https://xkcd.com/1280/ "If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!")
 
 Your daily random xkcd
