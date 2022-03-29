@@ -1,4 +1,4 @@
-## Mystery News
-[![If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!](https://imgs.xkcd.com/comics/mystery_news.png)](https://xkcd.com/1280/ "If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!")
+## Reduce Your Payments
+[![I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/ "I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.")
 
 Your daily random xkcd
