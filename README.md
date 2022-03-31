@@ -1,4 +1,4 @@
-## Voice
-[![Anyway, we should totally go watch a video story or put some food in our normal mouths!](https://imgs.xkcd.com/comics/voice.png)](https://xkcd.com/1541/ "Anyway, we should totally go watch a video story or put some food in our normal mouths!")
+## Apple Growers
+[![Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.](https://imgs.xkcd.com/comics/apple_growers.png)](https://xkcd.com/2410/ "Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.")
 
 Your daily random xkcd
