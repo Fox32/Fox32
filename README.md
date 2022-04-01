@@ -1,4 +1,4 @@
-## Apple Growers
-[![Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.](https://imgs.xkcd.com/comics/apple_growers.png)](https://xkcd.com/2410/ "Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.")
+## All-in-One
+[![Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.](https://imgs.xkcd.com/comics/all_in_one.png)](https://xkcd.com/2369/ "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.")
 
 Your daily random xkcd
