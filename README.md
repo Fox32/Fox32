@@ -1,4 +1,4 @@
-## All-in-One
-[![Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.](https://imgs.xkcd.com/comics/all_in_one.png)](https://xkcd.com/2369/ "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.")
+## Decision Paralysis
+[![Good point--making no decision is itself a decision. So that's a THIRD option I have to research!](https://imgs.xkcd.com/comics/decision_paralysis.png)](https://xkcd.com/1801/ "Good point--making no decision is itself a decision. So that's a THIRD option I have to research!")
 
 Your daily random xkcd
