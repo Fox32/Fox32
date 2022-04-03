@@ -1,4 +1,4 @@
-## Decision Paralysis
-[![Good point--making no decision is itself a decision. So that's a THIRD option I have to research!](https://imgs.xkcd.com/comics/decision_paralysis.png)](https://xkcd.com/1801/ "Good point--making no decision is itself a decision. So that's a THIRD option I have to research!")
+## Eagle
+[![In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.](https://imgs.xkcd.com/comics/eagle.png)](https://xkcd.com/733/ "In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.")
 
 Your daily random xkcd
