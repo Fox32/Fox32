@@ -1,4 +1,4 @@
-## The Martian
-[![I have never seen a work of fiction so perfectly capture the out-of-nowhere shock of discovering that you've just bricked something important because you didn't pay enough attention to a loose wire.](https://imgs.xkcd.com/comics/the_martian.png)](https://xkcd.com/1536/ "I have never seen a work of fiction so perfectly capture the out-of-nowhere shock of discovering that you've just bricked something important because you didn't pay enough attention to a loose wire.")
+## Screen Time
+[![These new Bluetooth socks are great, but it's troubling to learn that I average almost 14 hours of Shoe Time a day.](https://imgs.xkcd.com/comics/screen_time.png)](https://xkcd.com/2223/ "These new Bluetooth socks are great, but it's troubling to learn that I average almost 14 hours of Shoe Time a day.")
 
 Your daily random xkcd
