@@ -1,4 +1,4 @@
-## Arachnoneurology
-[![SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).](https://imgs.xkcd.com/comics/arachnoneurology.png)](https://xkcd.com/1135/ "SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).")
+## Argument
+[![The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.](https://imgs.xkcd.com/comics/argument.png)](https://xkcd.com/1166/ "The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.")
 
 Your daily random xkcd
