@@ -1,4 +1,4 @@
-## Rubber Sheet
-[![It IS about physics. It ALL is.](https://imgs.xkcd.com/comics/rubber_sheet.png)](https://xkcd.com/1158/ "It IS about physics. It ALL is.")
+## Self-reference
+[![I think about self-reference a lot.  Example: this comment.](https://imgs.xkcd.com/comics/self-reference.jpg)](https://xkcd.com/33/ "I think about self-reference a lot.  Example: this comment.")
 
 Your daily random xkcd
