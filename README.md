@@ -1,4 +1,4 @@
-## Industry Nicknames
-[![As far as "being in the pocket of Big Egg" goes, I think the real threat is Chansey.](https://imgs.xkcd.com/comics/industry_nicknames.png)](https://xkcd.com/2130/ "As far as "being in the pocket of Big Egg" goes, I think the real threat is Chansey.")
+## Comic Fragment
+[![No one wants an explanation more than us.  Except Ms. Garofalo.](https://imgs.xkcd.com/comics/comic_fragment.jpg)](https://xkcd.com/254/ "No one wants an explanation more than us.  Except Ms. Garofalo.")
 
 Your daily random xkcd
