@@ -1,4 +1,4 @@
-## Comic Fragment
-[![No one wants an explanation more than us.  Except Ms. Garofalo.](https://imgs.xkcd.com/comics/comic_fragment.jpg)](https://xkcd.com/254/ "No one wants an explanation more than us.  Except Ms. Garofalo.")
+## Meltdown and Spectre
+[![New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)](https://xkcd.com/1938/ "New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.")
 
 Your daily random xkcd
