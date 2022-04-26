@@ -1,4 +1,4 @@
-## Dynamic Entropy
-[![Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.](https://imgs.xkcd.com/comics/dynamic_entropy.png)](https://xkcd.com/2318/ "Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.")
+## Still Raw
+[![We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)](https://imgs.xkcd.com/comics/still_raw.png)](https://xkcd.com/473/ "We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)")
 
 Your daily random xkcd
