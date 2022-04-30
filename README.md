@@ -1,4 +1,4 @@
-## Free
-[![Asbestos is bad; definitely get the one on the right. Wait -- this one over here has no swine flu!  Now I can't decide.](https://imgs.xkcd.com/comics/free.png)](https://xkcd.com/641/ "Asbestos is bad; definitely get the one on the right. Wait -- this one over here has no swine flu!  Now I can't decide.")
+## Cloud
+[![Cloud computing has a ways to go.](https://imgs.xkcd.com/comics/cloud.png)](https://xkcd.com/1444/ "Cloud computing has a ways to go.")
 
 Your daily random xkcd
