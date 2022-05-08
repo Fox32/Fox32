@@ -1,4 +1,4 @@
-## Flowchart
-[![The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.](https://imgs.xkcd.com/comics/flowchart.png)](https://xkcd.com/1195/ "The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.")
+## I Have Owned Two Electric Skateboards
+[![Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.](https://imgs.xkcd.com/comics/electric_skateboards.png)](https://xkcd.com/139/ "Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.")
 
 Your daily random xkcd
