@@ -1,4 +1,4 @@
-## I Have Owned Two Electric Skateboards
-[![Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.](https://imgs.xkcd.com/comics/electric_skateboards.png)](https://xkcd.com/139/ "Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.")
+## Home Alone
+[![Starring Macaulay Culkin.](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/ "Starring Macaulay Culkin.")
 
 Your daily random xkcd
