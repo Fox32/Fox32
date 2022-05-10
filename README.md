@@ -1,4 +1,4 @@
-## Home Alone
-[![Starring Macaulay Culkin.](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/ "Starring Macaulay Culkin.")
+## Coronavirus Name
+[![It's important to keep the spider from touching your face.](https://imgs.xkcd.com/comics/coronavirus_name.png)](https://xkcd.com/2275/ "It's important to keep the spider from touching your face.")
 
 Your daily random xkcd
