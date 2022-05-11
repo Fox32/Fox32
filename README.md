@@ -1,4 +1,4 @@
-## Coronavirus Name
-[![It's important to keep the spider from touching your face.](https://imgs.xkcd.com/comics/coronavirus_name.png)](https://xkcd.com/2275/ "It's important to keep the spider from touching your face.")
+## 1000 Comics
+[![Thank you for making me feel less alone.](https://imgs.xkcd.com/comics/1000_comics.png)](https://xkcd.com/1000/ "Thank you for making me feel less alone.")
 
 Your daily random xkcd
