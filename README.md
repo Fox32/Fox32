@@ -1,4 +1,4 @@
-## Days of the Week
-[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
+## Empirical
+[![I'm as surprised as you!](https://imgs.xkcd.com/comics/empirical.png)](https://xkcd.com/943/ "I'm as surprised as you!")
 
 Your daily random xkcd
