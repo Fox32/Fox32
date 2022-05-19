@@ -1,4 +1,4 @@
-## UI Change
-[![I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.](https://imgs.xkcd.com/comics/ui_change.png)](https://xkcd.com/1770/ "I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.")
+## Old Game Worlds
+[![Ok, how many coins for a cinnamon roll?](https://imgs.xkcd.com/comics/old_game_worlds.png)](https://xkcd.com/2189/ "Ok, how many coins for a cinnamon roll?")
 
 Your daily random xkcd
