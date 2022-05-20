@@ -1,4 +1,4 @@
-## Old Game Worlds
-[![Ok, how many coins for a cinnamon roll?](https://imgs.xkcd.com/comics/old_game_worlds.png)](https://xkcd.com/2189/ "Ok, how many coins for a cinnamon roll?")
+## Gravitational Mass
+[![She's so fat the attraction goes up as the CUBE of the distance instead of the square](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/ "She's so fat the attraction goes up as the CUBE of the distance instead of the square")
 
 Your daily random xkcd
