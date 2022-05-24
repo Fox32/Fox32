@@ -1,4 +1,4 @@
-## Nothing to Offer
-[![cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.](https://imgs.xkcd.com/comics/nothing_to_offer.png)](https://xkcd.com/1148/ "cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.")
+## Tech Support Cheat Sheet
+[!['Hey Megan, it's your father. How do I print out a flowchart?'](https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png)](https://xkcd.com/627/ "'Hey Megan, it's your father. How do I print out a flowchart?'")
 
 Your daily random xkcd
