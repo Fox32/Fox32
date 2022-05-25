@@ -1,4 +1,4 @@
-## Tech Support Cheat Sheet
-[!['Hey Megan, it's your father. How do I print out a flowchart?'](https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png)](https://xkcd.com/627/ "'Hey Megan, it's your father. How do I print out a flowchart?'")
+## Party Quadrants
+[![Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.](https://imgs.xkcd.com/comics/party_quadrants.png)](https://xkcd.com/2588/ "Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.")
 
 Your daily random xkcd
