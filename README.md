@@ -1,4 +1,4 @@
-## Party Quadrants
-[![Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.](https://imgs.xkcd.com/comics/party_quadrants.png)](https://xkcd.com/2588/ "Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.")
+## Five-Day Forecast
+[![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)](https://xkcd.com/1606/ "You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.")
 
 Your daily random xkcd
