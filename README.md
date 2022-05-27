@@ -1,4 +1,4 @@
-## Five-Day Forecast
-[![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)](https://xkcd.com/1606/ "You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.")
+## Banter
+[![This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.](https://imgs.xkcd.com/comics/banter.jpg)](https://xkcd.com/65/ "This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.")
 
 Your daily random xkcd
