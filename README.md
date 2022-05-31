@@ -1,4 +1,4 @@
-## Dark Matter
-[![To detect dark matter, we just need to build a bird feeder that spins two squirrels around the rim in opposite directions at relativistic speeds and collides them together.](https://imgs.xkcd.com/comics/dark_matter.png)](https://xkcd.com/2186/ "To detect dark matter, we just need to build a bird feeder that spins two squirrels around the rim in opposite directions at relativistic speeds and collides them together.")
+## Pods vs Bubbles
+[![Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'](https://imgs.xkcd.com/comics/pods_vs_bubbles.png)](https://xkcd.com/2339/ "Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'")
 
 Your daily random xkcd
