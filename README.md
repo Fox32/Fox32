@@ -1,4 +1,4 @@
-## Planning
-[![[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?](https://imgs.xkcd.com/comics/planning.png)](https://xkcd.com/1539/ "[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?")
+## Cursed Chair
+[![The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."](https://imgs.xkcd.com/comics/cursed_chair.png)](https://xkcd.com/2332/ "The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."")
 
 Your daily random xkcd
