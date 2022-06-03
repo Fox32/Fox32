@@ -1,4 +1,4 @@
-## Cursed Chair
-[![The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."](https://imgs.xkcd.com/comics/cursed_chair.png)](https://xkcd.com/2332/ "The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."")
+## 50 ccs
+[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
 
 Your daily random xkcd
