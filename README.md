@@ -1,4 +1,4 @@
-## 50 ccs
-[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
+## Decline
+[!['There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'](https://imgs.xkcd.com/comics/decline.png)](https://xkcd.com/523/ "'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'")
 
 Your daily random xkcd
