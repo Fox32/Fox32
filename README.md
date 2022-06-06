@@ -1,4 +1,4 @@
-## Flinch
-[![Premed: "Does this count for a physics credit? Can we shorten the string so I can get it done faster? And can we do one where it hits me in the face? I gotta do a thing for first aid training right after."](https://imgs.xkcd.com/comics/flinch.png)](https://xkcd.com/2539/ "Premed: "Does this count for a physics credit? Can we shorten the string so I can get it done faster? And can we do one where it hits me in the face? I gotta do a thing for first aid training right after."")
+## Detail
+[![2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'](https://imgs.xkcd.com/comics/detail.png)](https://xkcd.com/1204/ "2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'")
 
 Your daily random xkcd
