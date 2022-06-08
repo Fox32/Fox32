@@ -1,4 +1,4 @@
-## Code Quality
-[![I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.](https://imgs.xkcd.com/comics/code_quality.png)](https://xkcd.com/1513/ "I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.")
+## Constructive
+[![And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.](https://imgs.xkcd.com/comics/constructive.png)](https://xkcd.com/810/ "And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.")
 
 Your daily random xkcd
