@@ -1,4 +1,4 @@
-## Constructive
-[![And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.](https://imgs.xkcd.com/comics/constructive.png)](https://xkcd.com/810/ "And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.")
+## Five Years
+[!['Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'](https://imgs.xkcd.com/comics/five_years.png)](https://xkcd.com/1088/ "'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'")
 
 Your daily random xkcd
