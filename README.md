@@ -1,4 +1,4 @@
-## TV Problems
-[![Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.](https://imgs.xkcd.com/comics/tv_problems.png)](https://xkcd.com/1760/ "Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.")
+## Worst Band Name Ever
+[![You can just see his dejection as he realizes he's the lead guitar in 'Hedgeclipper'](https://imgs.xkcd.com/comics/hedgeclipper.jpg)](https://xkcd.com/119/ "You can just see his dejection as he realizes he's the lead guitar in 'Hedgeclipper'")
 
 Your daily random xkcd
