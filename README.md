@@ -1,4 +1,4 @@
-## Barrel - Part 2
-[![Awww.](https://imgs.xkcd.com/comics/barrel_mommies.jpg)](https://xkcd.com/11/ "Awww.")
+## Useful Geometry Formulas
+[![Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509/ "Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.")
 
 Your daily random xkcd
