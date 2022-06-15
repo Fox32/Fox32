@@ -1,4 +1,4 @@
-## Flu Shot
-[!["Wait, how often are you getting bitten by snakes? And why are you boiling water?" "Dunno, the CDC people keep showing up with complicated questions about the 'history of the property' and 'possible curses' but I kinda tune them out. At least one of them offered me the flu shot."](https://imgs.xkcd.com/comics/flu_shot.png)](https://xkcd.com/2238/ ""Wait, how often are you getting bitten by snakes? And why are you boiling water?" "Dunno, the CDC people keep showing up with complicated questions about the 'history of the property' and 'possible curses' but I kinda tune them out. At least one of them offered me the flu shot."")
+## Astrophysics
+[![DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."](https://imgs.xkcd.com/comics/astrophysics.png)](https://xkcd.com/1758/ "DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."")
 
 Your daily random xkcd
