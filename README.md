@@ -1,4 +1,4 @@
-## e to the pi Minus pi
-[![Also, I hear the 4th root of (9^2 + 19^2/22) is pi.](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)](https://xkcd.com/217/ "Also, I hear the 4th root of (9^2 + 19^2/22) is pi.")
+## 2018 CVE List
+[![CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.](https://imgs.xkcd.com/comics/2018_cve_list.png)](https://xkcd.com/1957/ "CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.")
 
 Your daily random xkcd
