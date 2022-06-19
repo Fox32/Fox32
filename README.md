@@ -1,4 +1,4 @@
-## 2018 CVE List
-[![CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.](https://imgs.xkcd.com/comics/2018_cve_list.png)](https://xkcd.com/1957/ "CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.")
+## Ten Years
+[![The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.](https://imgs.xkcd.com/comics/ten_years.png)](https://xkcd.com/2386/ "The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.")
 
 Your daily random xkcd
