@@ -1,4 +1,4 @@
-## Sports Champions
-[![For a long time, people thought maybe Usain Bolt was the one for running, until the 2090s and the incredible dominance of Derek Legs.](https://imgs.xkcd.com/comics/sports_champions.png)](https://xkcd.com/2022/ "For a long time, people thought maybe Usain Bolt was the one for running, until the 2090s and the incredible dominance of Derek Legs.")
+## Tab Explosion
+[![Cracked.com is another inexplicable browser narcotic.  They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.](https://imgs.xkcd.com/comics/tab_explosion.png)](https://xkcd.com/609/ "Cracked.com is another inexplicable browser narcotic.  They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.")
 
 Your daily random xkcd
