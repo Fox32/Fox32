@@ -1,4 +1,4 @@
-## Placebo Blocker
-[![They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.](https://imgs.xkcd.com/comics/placebo_blocker.png)](https://xkcd.com/1526/ "They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.")
+## Improved Keyboard
+[![I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.](https://imgs.xkcd.com/comics/improved_keyboard.png)](https://xkcd.com/1284/ "I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.")
 
 Your daily random xkcd
