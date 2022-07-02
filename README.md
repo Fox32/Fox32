@@ -1,4 +1,4 @@
-## Improved Keyboard
-[![I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.](https://imgs.xkcd.com/comics/improved_keyboard.png)](https://xkcd.com/1284/ "I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.")
+## Marshmallow Gun
+[![Except in reality crossing a stream of marshmallows would create a giant Bill Murray.](https://imgs.xkcd.com/comics/marshmallow_gun.png)](https://xkcd.com/517/ "Except in reality crossing a stream of marshmallows would create a giant Bill Murray.")
 
 Your daily random xkcd
