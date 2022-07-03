@@ -1,4 +1,4 @@
-## Marshmallow Gun
-[![Except in reality crossing a stream of marshmallows would create a giant Bill Murray.](https://imgs.xkcd.com/comics/marshmallow_gun.png)](https://xkcd.com/517/ "Except in reality crossing a stream of marshmallows would create a giant Bill Murray.")
+## Magic Words
+[!['And then whisper 'anapest' in my ear as you hold me?'](https://imgs.xkcd.com/comics/magic_words.png)](https://xkcd.com/1383/ "'And then whisper 'anapest' in my ear as you hold me?'")
 
 Your daily random xkcd
