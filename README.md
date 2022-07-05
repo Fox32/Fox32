@@ -1,4 +1,4 @@
-## Squirrelphone
-[![After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.](https://imgs.xkcd.com/comics/squirrelphone.png)](https://xkcd.com/1578/ "After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.")
+## Occam
+[![Oh no, Murphy just picked up the razor.](https://imgs.xkcd.com/comics/occam.png)](https://xkcd.com/2541/ "Oh no, Murphy just picked up the razor.")
 
 Your daily random xkcd
