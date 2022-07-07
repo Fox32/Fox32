@@ -1,4 +1,4 @@
-## EHT Black Hole Picture
-[![[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!](https://imgs.xkcd.com/comics/eht_black_hole_picture.png)](https://xkcd.com/2133/ "[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!")
+## Homeownership
+[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
 
 Your daily random xkcd
