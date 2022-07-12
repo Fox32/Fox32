@@ -1,4 +1,4 @@
-## Exoplanets
-[![Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.](https://imgs.xkcd.com/comics/exoplanets.png)](https://xkcd.com/1071/ "Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.")
+## Manuals
+[![The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'](https://imgs.xkcd.com/comics/manuals.png)](https://xkcd.com/1343/ "The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'")
 
 Your daily random xkcd
