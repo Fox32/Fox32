@@ -1,4 +1,4 @@
-## Manuals
-[![The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'](https://imgs.xkcd.com/comics/manuals.png)](https://xkcd.com/1343/ "The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'")
+## Laser Pointer
+[![It's a lasing cat-vity!](https://imgs.xkcd.com/comics/laser_pointer.png)](https://xkcd.com/729/ "It's a lasing cat-vity!")
 
 Your daily random xkcd
