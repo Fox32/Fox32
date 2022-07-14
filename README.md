@@ -1,4 +1,4 @@
-## Laser Pointer
-[![It's a lasing cat-vity!](https://imgs.xkcd.com/comics/laser_pointer.png)](https://xkcd.com/729/ "It's a lasing cat-vity!")
+## Truck Proximity
+[![See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.](https://imgs.xkcd.com/comics/truck_proximity.png)](https://xkcd.com/2273/ "See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.")
 
 Your daily random xkcd
