@@ -1,4 +1,4 @@
-## Truck Proximity
-[![See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.](https://imgs.xkcd.com/comics/truck_proximity.png)](https://xkcd.com/2273/ "See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.")
+## Heartbleed
+[![I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.](https://imgs.xkcd.com/comics/heartbleed.png)](https://xkcd.com/1353/ "I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.")
 
 Your daily random xkcd
