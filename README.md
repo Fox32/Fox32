@@ -1,4 +1,4 @@
-## Woosh
-[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
+## T-shirts
+[![It's depressing how many of these are real shirts](https://imgs.xkcd.com/comics/t-shirts.jpg)](https://xkcd.com/23/ "It's depressing how many of these are real shirts")
 
 Your daily random xkcd
