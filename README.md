@@ -1,4 +1,4 @@
-## Chemistry Nobel
-[![Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.](https://imgs.xkcd.com/comics/chemistry_nobel.png)](https://xkcd.com/2214/ "Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.")
+## Telephoto
+[![I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.](https://imgs.xkcd.com/comics/telephoto.png)](https://xkcd.com/1855/ "I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.")
 
 Your daily random xkcd
