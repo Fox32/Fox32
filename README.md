@@ -1,4 +1,4 @@
-## Linked List Interview Problem
-[![I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.](https://imgs.xkcd.com/comics/linked_list_interview_problem.png)](https://xkcd.com/2483/ "I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.")
+## Operating Systems
+[![One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This," one of them finally says, "This is a man who BELIEVED in something."](https://imgs.xkcd.com/comics/operating_systems.png)](https://xkcd.com/1508/ "One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This," one of them finally says, "This is a man who BELIEVED in something."")
 
 Your daily random xkcd
