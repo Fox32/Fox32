@@ -1,4 +1,4 @@
-## Babies
-[![I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?](https://imgs.xkcd.com/comics/babies.png)](https://xkcd.com/441/ "I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?")
+## Homeownership
+[![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)](https://xkcd.com/905/ "New research shows over 60% of the financial collapse's toxic assets were created by power drills.")
 
 Your daily random xkcd
