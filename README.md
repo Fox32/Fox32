@@ -1,4 +1,4 @@
-## So Bad It's Worse
-[![You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.](https://imgs.xkcd.com/comics/so_bad_its_worse.png)](https://xkcd.com/653/ "You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.")
+## Sunrise
+[![Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.](https://imgs.xkcd.com/comics/sunrise.jpg)](https://xkcd.com/92/ "Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.")
 
 Your daily random xkcd
