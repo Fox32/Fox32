@@ -1,4 +1,4 @@
-## Sunrise
-[![Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.](https://imgs.xkcd.com/comics/sunrise.jpg)](https://xkcd.com/92/ "Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.")
+## Anti-Mindvirus
+[![I'm as surprised as you!  I didn't think it was possible.](https://imgs.xkcd.com/comics/anti_mind_virus.png)](https://xkcd.com/391/ "I'm as surprised as you!  I didn't think it was possible.")
 
 Your daily random xkcd
