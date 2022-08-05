@@ -1,4 +1,4 @@
-## QR Code
-[![Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.](https://imgs.xkcd.com/comics/qr_code.png)](https://xkcd.com/1237/ "Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.")
+## Linear Regression
+[![The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.](https://imgs.xkcd.com/comics/linear_regression.png)](https://xkcd.com/1725/ "The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.")
 
 Your daily random xkcd
