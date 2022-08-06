@@ -1,4 +1,4 @@
-## Linear Regression
-[![The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.](https://imgs.xkcd.com/comics/linear_regression.png)](https://xkcd.com/1725/ "The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.")
+## Experiment
+[![The other two are still lost on the infinite plane of uniform density.](https://imgs.xkcd.com/comics/experiment.png)](https://xkcd.com/669/ "The other two are still lost on the infinite plane of uniform density.")
 
 Your daily random xkcd
