@@ -1,4 +1,4 @@
-## Glacier
-[![The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.](https://imgs.xkcd.com/comics/glacier.png)](https://xkcd.com/2164/ "The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.")
+## Semicontrolled Demolition
+[![I believe the truth always lies halfway between the most extreme claims.](https://imgs.xkcd.com/comics/semicontrolled_demolition.png)](https://xkcd.com/690/ "I believe the truth always lies halfway between the most extreme claims.")
 
 Your daily random xkcd
