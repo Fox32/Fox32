@@ -1,4 +1,4 @@
-## Next Slide Please
-[!["I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."](https://imgs.xkcd.com/comics/next_slide_please.png)](https://xkcd.com/2470/ ""I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."")
+## Bored with the Internet
+[![I used to do this all the time.](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)](https://xkcd.com/77/ "I used to do this all the time.")
 
 Your daily random xkcd
