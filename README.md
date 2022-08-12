@@ -1,4 +1,4 @@
-## Bored with the Internet
-[![I used to do this all the time.](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)](https://xkcd.com/77/ "I used to do this all the time.")
+## Endorheic Basin
+[![My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.](https://imgs.xkcd.com/comics/endorheic_basin.png)](https://xkcd.com/2325/ "My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.")
 
 Your daily random xkcd
