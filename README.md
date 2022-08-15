@@ -1,4 +1,4 @@
-## Frankenstein
-[!["Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."](https://imgs.xkcd.com/comics/frankenstein.png)](https://xkcd.com/1589/ ""Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."")
+## Seventies
+[![Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"](https://imgs.xkcd.com/comics/seventies.png)](https://xkcd.com/1072/ "Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"")
 
 Your daily random xkcd
