@@ -1,4 +1,4 @@
-## A Hypochondriac's Nightmare
-[![BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT](https://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png)](https://xkcd.com/1097/ "BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT")
+## Great Attractor
+[![Living in the southern hemisphere was nice because I could jump extra high, but I like it here too. Besides, if I ever want to move back, I can just curl up in a ball and wait!](https://imgs.xkcd.com/comics/great_attractor.png)](https://xkcd.com/2310/ "Living in the southern hemisphere was nice because I could jump extra high, but I like it here too. Besides, if I ever want to move back, I can just curl up in a ball and wait!")
 
 Your daily random xkcd
