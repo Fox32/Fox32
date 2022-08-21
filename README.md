@@ -1,4 +1,4 @@
-## UV
-[![Hey, why stop at our house? We could burn down ALL these houses for the insurance money.](https://imgs.xkcd.com/comics/uv.png)](https://xkcd.com/1469/ "Hey, why stop at our house? We could burn down ALL these houses for the insurance money.")
+## Universal Seat Belt
+[![The plug fits really snugly, so it should be safe in a crash.](https://imgs.xkcd.com/comics/universal_seat_belt.png)](https://xkcd.com/2495/ "The plug fits really snugly, so it should be safe in a crash.")
 
 Your daily random xkcd
