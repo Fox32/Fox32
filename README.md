@@ -1,4 +1,4 @@
-## Sports Knowledge
-[![I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!](https://imgs.xkcd.com/comics/sports_knowledge.png)](https://xkcd.com/1859/ "I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!")
+## Ten Thousand
+[![Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.](https://imgs.xkcd.com/comics/ten_thousand.png)](https://xkcd.com/1053/ "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.")
 
 Your daily random xkcd
