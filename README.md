@@ -1,4 +1,4 @@
-## Fight
-[![And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.](https://imgs.xkcd.com/comics/fight.png)](https://xkcd.com/340/ "And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.")
+## Smart Home Security
+[![If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.](https://imgs.xkcd.com/comics/smart_home_security.png)](https://xkcd.com/1966/ "If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.")
 
 Your daily random xkcd
