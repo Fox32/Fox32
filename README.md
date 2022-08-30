@@ -1,4 +1,4 @@
-## Smart Home Security
-[![If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.](https://imgs.xkcd.com/comics/smart_home_security.png)](https://xkcd.com/1966/ "If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.")
+## Letting Go
+[![At least I never gave her the root password.](https://imgs.xkcd.com/comics/letting_go.png)](https://xkcd.com/215/ "At least I never gave her the root password.")
 
 Your daily random xkcd
