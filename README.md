@@ -1,4 +1,4 @@
-## DNA
-[![Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.](https://imgs.xkcd.com/comics/dna.png)](https://xkcd.com/1605/ "Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.")
+## MTV Generation
+[![If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.](https://imgs.xkcd.com/comics/mtv_generation.png)](https://xkcd.com/973/ "If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.")
 
 Your daily random xkcd
