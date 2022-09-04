@@ -1,4 +1,4 @@
-## Baby Names
-[![I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.](https://imgs.xkcd.com/comics/baby_names.png)](https://xkcd.com/1011/ "I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.")
+## Shake That
+[![How do I work it? IT'S ALREADY WORKING!](https://imgs.xkcd.com/comics/shake_that.png)](https://xkcd.com/1261/ "How do I work it? IT'S ALREADY WORKING!")
 
 Your daily random xkcd
