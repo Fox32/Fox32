@@ -1,4 +1,4 @@
-## Lease
-[![You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.](https://imgs.xkcd.com/comics/lease.png)](https://xkcd.com/616/ "You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.")
+## Computers vs Humans
+[![It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.](https://imgs.xkcd.com/comics/computers_vs_humans.png)](https://xkcd.com/1875/ "It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.")
 
 Your daily random xkcd
