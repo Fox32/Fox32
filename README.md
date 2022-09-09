@@ -1,4 +1,4 @@
-## 2016
-[![Want to feel old? Wait.](https://imgs.xkcd.com/comics/2016.png)](https://xkcd.com/1624/ "Want to feel old? Wait.")
+## Toasts
+[![Platonic solids for my real friends and real solids for my platonic friends!](https://imgs.xkcd.com/comics/toasts.png)](https://xkcd.com/1645/ "Platonic solids for my real friends and real solids for my platonic friends!")
 
 Your daily random xkcd
