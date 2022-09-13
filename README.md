@@ -1,4 +1,4 @@
-## Chess Enlightenment
-[![You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.](https://imgs.xkcd.com/comics/chess_enlightenment.png)](https://xkcd.com/232/ "You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.")
+## Tones
+[![I need a lawn, so I can yell at kids to stay off it.](https://imgs.xkcd.com/comics/tones.png)](https://xkcd.com/479/ "I need a lawn, so I can yell at kids to stay off it.")
 
 Your daily random xkcd
