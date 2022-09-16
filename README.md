@@ -1,4 +1,4 @@
-## Winter
-[![Stay warm, little flappers, and find lots of plant eggs!](https://imgs.xkcd.com/comics/winter.png)](https://xkcd.com/1322/ "Stay warm, little flappers, and find lots of plant eggs!")
+## Ballmer Peak
+[![Apple uses automated schnapps IVs.](https://imgs.xkcd.com/comics/ballmer_peak.png)](https://xkcd.com/323/ "Apple uses automated schnapps IVs.")
 
 Your daily random xkcd
