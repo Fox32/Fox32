@@ -1,4 +1,4 @@
-## Writers Strike
-[![He's just jealous because everyone's up in the attic listening to Stephen Colbert.](https://imgs.xkcd.com/comics/writers_strike.png)](https://xkcd.com/360/ "He's just jealous because everyone's up in the attic listening to Stephen Colbert.")
+## Sword in the Stone
+[![That seems like an awful lot of hassle when all I wanted was a cool sword.](https://imgs.xkcd.com/comics/sword_in_the_stone.png)](https://xkcd.com/1521/ "That seems like an awful lot of hassle when all I wanted was a cool sword.")
 
 Your daily random xkcd
