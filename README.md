@@ -1,4 +1,4 @@
-## Bridge
-[![And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.](https://imgs.xkcd.com/comics/bridge.png)](https://xkcd.com/1170/ "And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.")
+## Curbside
+[![The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.](https://imgs.xkcd.com/comics/curbside.png)](https://xkcd.com/2376/ "The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.")
 
 Your daily random xkcd
