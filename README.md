@@ -1,4 +1,4 @@
-## Curbside
-[![The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.](https://imgs.xkcd.com/comics/curbside.png)](https://xkcd.com/2376/ "The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.")
+## Indecision
+[![Hey, I don't make the rules.  It's in the book.](https://imgs.xkcd.com/comics/indecision.png)](https://xkcd.com/330/ "Hey, I don't make the rules.  It's in the book.")
 
 Your daily random xkcd
