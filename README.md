@@ -1,4 +1,4 @@
-## Fixed Width
-[![I wish I knew how to quit this so I wouldn't have to quit you.](https://imgs.xkcd.com/comics/fixed_width.png)](https://xkcd.com/276/ "I wish I knew how to quit this so I wouldn't have to quit you.")
+## Wifi
+[![Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'](https://imgs.xkcd.com/comics/wifi.png)](https://xkcd.com/1785/ "Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'")
 
 Your daily random xkcd
