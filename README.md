@@ -1,4 +1,4 @@
-## Wifi
-[![Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'](https://imgs.xkcd.com/comics/wifi.png)](https://xkcd.com/1785/ "Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'")
+## Types of Editors
+[![m-x machineofdeath-mode](https://imgs.xkcd.com/comics/types_of_editors.png)](https://xkcd.com/1341/ "m-x machineofdeath-mode")
 
 Your daily random xkcd
