@@ -1,4 +1,4 @@
-## Valentine - Heart
-[![Just pretend you're kidding.](https://imgs.xkcd.com/comics/valentine.jpg)](https://xkcd.com/63/ "Just pretend you're kidding.")
+## Movie Seating
+[![It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.](https://imgs.xkcd.com/comics/movie_seating.png)](https://xkcd.com/173/ "It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.")
 
 Your daily random xkcd
