@@ -1,4 +1,4 @@
-## Movie Seating
-[![It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.](https://imgs.xkcd.com/comics/movie_seating.png)](https://xkcd.com/173/ "It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.")
+## Moonfall
+[![Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.](https://imgs.xkcd.com/comics/moonfall.png)](https://xkcd.com/2561/ "Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.")
 
 Your daily random xkcd
