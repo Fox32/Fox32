@@ -1,4 +1,4 @@
-## Scenario 4
-[![Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.](https://imgs.xkcd.com/comics/scenario_4.png)](https://xkcd.com/2289/ "Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.")
+## Parity Conservation
+[![Bloody Mary is made of antimatter. It explains so much.](https://imgs.xkcd.com/comics/parity_conservation.png)](https://xkcd.com/2364/ "Bloody Mary is made of antimatter. It explains so much.")
 
 Your daily random xkcd
