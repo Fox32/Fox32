@@ -1,4 +1,4 @@
-## Parity Conservation
-[![Bloody Mary is made of antimatter. It explains so much.](https://imgs.xkcd.com/comics/parity_conservation.png)](https://xkcd.com/2364/ "Bloody Mary is made of antimatter. It explains so much.")
+## Coronavirus Name
+[![It's important to keep the spider from touching your face.](https://imgs.xkcd.com/comics/coronavirus_name.png)](https://xkcd.com/2275/ "It's important to keep the spider from touching your face.")
 
 Your daily random xkcd
