@@ -1,4 +1,4 @@
-## Coronavirus Name
-[![It's important to keep the spider from touching your face.](https://imgs.xkcd.com/comics/coronavirus_name.png)](https://xkcd.com/2275/ "It's important to keep the spider from touching your face.")
+## Black Hole
+[![It also brings all the boys, and everything else, to the yard.](https://imgs.xkcd.com/comics/black_hole.png)](https://xkcd.com/1680/ "It also brings all the boys, and everything else, to the yard.")
 
 Your daily random xkcd
