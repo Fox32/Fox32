@@ -1,4 +1,4 @@
-## Black Hole
-[![It also brings all the boys, and everything else, to the yard.](https://imgs.xkcd.com/comics/black_hole.png)](https://xkcd.com/1680/ "It also brings all the boys, and everything else, to the yard.")
+## Existential Bug Reports
+[![ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.](https://imgs.xkcd.com/comics/existential_bug_reports.png)](https://xkcd.com/1822/ "ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.")
 
 Your daily random xkcd
