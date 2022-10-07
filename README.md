@@ -1,4 +1,4 @@
-## Existential Bug Reports
-[![ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.](https://imgs.xkcd.com/comics/existential_bug_reports.png)](https://xkcd.com/1822/ "ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.")
+## Zealous Autoconfig
+[![I hear this is an option in the latest Ubuntu release.](https://imgs.xkcd.com/comics/zealous_autoconfig.png)](https://xkcd.com/416/ "I hear this is an option in the latest Ubuntu release.")
 
 Your daily random xkcd
