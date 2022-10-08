@@ -1,4 +1,4 @@
-## Zealous Autoconfig
-[![I hear this is an option in the latest Ubuntu release.](https://imgs.xkcd.com/comics/zealous_autoconfig.png)](https://xkcd.com/416/ "I hear this is an option in the latest Ubuntu release.")
+## T-shirts
+[![It's depressing how many of these are real shirts](https://imgs.xkcd.com/comics/t-shirts.jpg)](https://xkcd.com/23/ "It's depressing how many of these are real shirts")
 
 Your daily random xkcd
