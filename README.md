@@ -1,4 +1,4 @@
-## Nine
-[![FYI: If you get curious and start trying to calculate the time adjustment function that minimizes the gap between the most-used and least-used digit (for a representative sample of common cook times) without altering any time by more than 10%, and someone asks you what you're doing, it's easier to just lie.](https://imgs.xkcd.com/comics/nine.png)](https://xkcd.com/1103/ "FYI: If you get curious and start trying to calculate the time adjustment function that minimizes the gap between the most-used and least-used digit (for a representative sample of common cook times) without altering any time by more than 10%, and someone asks you what you're doing, it's easier to just lie.")
+## Metallurgy
+[![This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!](https://imgs.xkcd.com/comics/metallurgy.png)](https://xkcd.com/1114/ "This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!")
 
 Your daily random xkcd
