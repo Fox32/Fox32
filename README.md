@@ -1,4 +1,4 @@
-## Eclipse Review
-[![I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.](https://imgs.xkcd.com/comics/eclipse_review.png)](https://xkcd.com/1880/ "I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.")
+## Bun Trend
+[![Our experts have characterized the ecological impact of this trend as "adorable."](https://imgs.xkcd.com/comics/bun_trend.png)](https://xkcd.com/1903/ "Our experts have characterized the ecological impact of this trend as "adorable."")
 
 Your daily random xkcd
