@@ -1,4 +1,4 @@
-## Bun Trend
-[![Our experts have characterized the ecological impact of this trend as "adorable."](https://imgs.xkcd.com/comics/bun_trend.png)](https://xkcd.com/1903/ "Our experts have characterized the ecological impact of this trend as "adorable."")
+## Barrel - Part 3
+[![A whirlpool!](https://imgs.xkcd.com/comics/barrel_whirlpool.jpg)](https://xkcd.com/22/ "A whirlpool!")
 
 Your daily random xkcd
