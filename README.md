@@ -1,4 +1,4 @@
-## Coronavirus Charts
-[![Adding data for South Korea but with their cases scaled to match the population of Japan and the land area of Australia, and vice versa.](https://imgs.xkcd.com/comics/coronavirus_charts.png)](https://xkcd.com/2294/ "Adding data for South Korea but with their cases scaled to match the population of Japan and the land area of Australia, and vice versa.")
+## What xkcd Means
+[![It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.](https://imgs.xkcd.com/comics/what_xkcd_means.png)](https://xkcd.com/207/ "It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.")
 
 Your daily random xkcd
