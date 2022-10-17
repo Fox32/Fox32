@@ -1,4 +1,4 @@
-## What xkcd Means
-[![It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.](https://imgs.xkcd.com/comics/what_xkcd_means.png)](https://xkcd.com/207/ "It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.")
+## Feel Old
+[!['How long are you going to keep this up?' 'Statistically, only four or five more decades.'](https://imgs.xkcd.com/comics/feel_old.png)](https://xkcd.com/1686/ "'How long are you going to keep this up?' 'Statistically, only four or five more decades.'")
 
 Your daily random xkcd
