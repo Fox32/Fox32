@@ -1,4 +1,4 @@
-## Eclipse Science
-[![I was thinking of observing stars to verify Einstein's theory of relativity again, but I gotta say, that thing is looking pretty solid at this point.](https://imgs.xkcd.com/comics/eclipse_science.png)](https://xkcd.com/1877/ "I was thinking of observing stars to verify Einstein's theory of relativity again, but I gotta say, that thing is looking pretty solid at this point.")
+## Fire Ants
+[![Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.](https://imgs.xkcd.com/comics/fire_ants.png)](https://xkcd.com/1610/ "Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.")
 
 Your daily random xkcd
