@@ -1,4 +1,4 @@
-## Space Basketball
-[![My shooting will improve over the short term, but over the long term the universe will take more shots.](https://imgs.xkcd.com/comics/space_basketball.png)](https://xkcd.com/2328/ "My shooting will improve over the short term, but over the long term the universe will take more shots.")
+## Groundhog Day
+[![If you closely examine the cosmic background radiation, you can pick up lingering echoes of 'I Got You Babe'.](https://imgs.xkcd.com/comics/groundhog_day.png)](https://xkcd.com/1076/ "If you closely examine the cosmic background radiation, you can pick up lingering echoes of 'I Got You Babe'.")
 
 Your daily random xkcd
