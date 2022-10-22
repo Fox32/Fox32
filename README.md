@@ -1,4 +1,4 @@
-## Groundhog Day
-[![If you closely examine the cosmic background radiation, you can pick up lingering echoes of 'I Got You Babe'.](https://imgs.xkcd.com/comics/groundhog_day.png)](https://xkcd.com/1076/ "If you closely examine the cosmic background radiation, you can pick up lingering echoes of 'I Got You Babe'.")
+## Eventual Consistency
+[![Later I'm going to get a head start on the heat bath.](https://imgs.xkcd.com/comics/eventual_consistency.png)](https://xkcd.com/2315/ "Later I'm going to get a head start on the heat bath.")
 
 Your daily random xkcd
