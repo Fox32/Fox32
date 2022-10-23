@@ -1,4 +1,4 @@
-## Eventual Consistency
-[![Later I'm going to get a head start on the heat bath.](https://imgs.xkcd.com/comics/eventual_consistency.png)](https://xkcd.com/2315/ "Later I'm going to get a head start on the heat bath.")
+## Chaos
+[![Although the oral exam for the doctorate was just 'can you do that weird laugh?'](https://imgs.xkcd.com/comics/chaos.png)](https://xkcd.com/1399/ "Although the oral exam for the doctorate was just 'can you do that weird laugh?'")
 
 Your daily random xkcd
