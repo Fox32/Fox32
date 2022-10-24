@@ -1,4 +1,4 @@
-## Chaos
-[![Although the oral exam for the doctorate was just 'can you do that weird laugh?'](https://imgs.xkcd.com/comics/chaos.png)](https://xkcd.com/1399/ "Although the oral exam for the doctorate was just 'can you do that weird laugh?'")
+## Amazon
+[![Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.](https://imgs.xkcd.com/comics/amazon.png)](https://xkcd.com/1165/ "Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.")
 
 Your daily random xkcd
