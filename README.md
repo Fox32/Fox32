@@ -1,4 +1,4 @@
-## Amazon
-[![Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.](https://imgs.xkcd.com/comics/amazon.png)](https://xkcd.com/1165/ "Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.")
+## Geologist
+[!['It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."](https://imgs.xkcd.com/comics/geologist.png)](https://xkcd.com/1198/ "'It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."")
 
 Your daily random xkcd
