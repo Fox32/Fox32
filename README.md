@@ -1,4 +1,4 @@
-## Birthday
-[![I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.](https://imgs.xkcd.com/comics/birthday.png)](https://xkcd.com/1581/ "I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.")
+## Mac/PC
+[![It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.](https://imgs.xkcd.com/comics/mac_pc.png)](https://xkcd.com/934/ "It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.")
 
 Your daily random xkcd
