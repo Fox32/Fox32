@@ -1,4 +1,4 @@
-## Matrix Revisited
-[![I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.](https://imgs.xkcd.com/comics/matrix_revisited.png)](https://xkcd.com/566/ "I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.")
+## Etymology-Man
+[!['I can't believe I'm saying this, but I wish Aquaman were here instead--HE'D be able to help.'](https://imgs.xkcd.com/comics/etymology_man.png)](https://xkcd.com/1010/ "'I can't believe I'm saying this, but I wish Aquaman were here instead--HE'D be able to help.'")
 
 Your daily random xkcd
