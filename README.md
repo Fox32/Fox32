@@ -1,4 +1,4 @@
-## Earth Temperature Timeline
-[![[After setting your car on fire] Listen, your car's temperature has changed before.](https://imgs.xkcd.com/comics/earth_temperature_timeline.png)](https://xkcd.com/1732/ "[After setting your car on fire] Listen, your car's temperature has changed before.")
+## Salt Mine
+[![This one is a little bland. Pass the saltshaker?](https://imgs.xkcd.com/comics/salt_mine.png)](https://xkcd.com/1637/ "This one is a little bland. Pass the saltshaker?")
 
 Your daily random xkcd
