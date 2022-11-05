@@ -1,4 +1,4 @@
-## Old Days
-[![Lot of drama in those days, including constant efforts to force the "Reflections on Trusting Trust" guy into retirement so we could stop being so paranoid about compilers.](https://imgs.xkcd.com/comics/old_days.png)](https://xkcd.com/1755/ "Lot of drama in those days, including constant efforts to force the "Reflections on Trusting Trust" guy into retirement so we could stop being so paranoid about compilers.")
+## Increased Risk
+[![You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!](https://imgs.xkcd.com/comics/increased_risk.png)](https://xkcd.com/1252/ "You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!")
 
 Your daily random xkcd
