@@ -1,4 +1,4 @@
-## Increased Risk
-[![You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!](https://imgs.xkcd.com/comics/increased_risk.png)](https://xkcd.com/1252/ "You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!")
+## Outbreak
+[![Let's get dinner after we promptly destroy all the X-7 we've manufactured.](https://imgs.xkcd.com/comics/outbreak.png)](https://xkcd.com/734/ "Let's get dinner after we promptly destroy all the X-7 we've manufactured.")
 
 Your daily random xkcd
