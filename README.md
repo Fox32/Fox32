@@ -1,4 +1,4 @@
-## Keyboard Mash
-[![WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.](https://imgs.xkcd.com/comics/keyboard_mash.png)](https://xkcd.com/1530/ "WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.")
+## IATA Airport Abbreviations
+[![IATA stands for International AirporT Abbreviation.](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)](https://xkcd.com/1937/ "IATA stands for International AirporT Abbreviation.")
 
 Your daily random xkcd
