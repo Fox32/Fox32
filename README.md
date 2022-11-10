@@ -1,4 +1,4 @@
-## The Carriage
-[![I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.](https://imgs.xkcd.com/comics/the_carriage.png)](https://xkcd.com/788/ "I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.")
+## Fiction vs Nonfiction
+[![The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546/ "The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.")
 
 Your daily random xkcd
