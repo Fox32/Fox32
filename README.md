@@ -1,4 +1,4 @@
-## Dark Arts
-[![You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong.](https://imgs.xkcd.com/comics/dark_arts.png)](https://xkcd.com/2531/ "You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong.")
+## Reverse Identity Theft
+[![I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis.](https://imgs.xkcd.com/comics/reverse_identity_theft.png)](https://xkcd.com/1279/ "I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis.")
 
 Your daily random xkcd
