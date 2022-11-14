@@ -1,4 +1,4 @@
-## Tattoo Ideas
-[![The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.](https://imgs.xkcd.com/comics/tattoo_ideas.png)](https://xkcd.com/2255/ "The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.")
+## Addiction
+[![But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.](https://imgs.xkcd.com/comics/addiction.png)](https://xkcd.com/597/ "But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.")
 
 Your daily random xkcd
