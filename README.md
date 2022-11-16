@@ -1,4 +1,4 @@
-## Pinouts
-[![The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.](https://imgs.xkcd.com/comics/pinouts.png)](https://xkcd.com/2317/ "The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.")
+## Leap Smearing
+[![Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.](https://imgs.xkcd.com/comics/leap_smearing.png)](https://xkcd.com/2266/ "Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.")
 
 Your daily random xkcd
