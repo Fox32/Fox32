@@ -1,4 +1,4 @@
-## Eclipse Searches
-[![There were traffic jams for the eclipses in 1970 and 1979, and that was *before* we had the potential for overnight viral social media frenzies.](https://imgs.xkcd.com/comics/eclipse_searches.png)](https://xkcd.com/1876/ "There were traffic jams for the eclipses in 1970 and 1979, and that was *before* we had the potential for overnight viral social media frenzies.")
+## Morning News
+[![Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.](https://imgs.xkcd.com/comics/morning_news.png)](https://xkcd.com/1996/ "Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.")
 
 Your daily random xkcd
