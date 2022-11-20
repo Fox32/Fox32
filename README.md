@@ -1,4 +1,4 @@
-## Scientists
-[![A leading expert characterized the situation as 'retarded'](https://imgs.xkcd.com/comics/scientists.jpg)](https://xkcd.com/36/ "A leading expert characterized the situation as 'retarded'")
+## With Apologies to The Who
+[![Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.](https://imgs.xkcd.com/comics/with_apologies_to_the_who.png)](https://xkcd.com/274/ "Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.")
 
 Your daily random xkcd
