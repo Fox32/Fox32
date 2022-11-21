@@ -1,4 +1,4 @@
-## With Apologies to The Who
-[![Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.](https://imgs.xkcd.com/comics/with_apologies_to_the_who.png)](https://xkcd.com/274/ "Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.")
+## Geico
+[![David did this](https://imgs.xkcd.com/comics/geico.jpg)](https://xkcd.com/42/ "David did this")
 
 Your daily random xkcd
