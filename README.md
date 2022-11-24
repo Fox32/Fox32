@@ -1,4 +1,4 @@
-## Gastroenterology
-[!["Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."](https://imgs.xkcd.com/comics/gastroenterology.png)](https://xkcd.com/2177/ ""Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."")
+## Perspective
+[![I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.](https://imgs.xkcd.com/comics/perspective.png)](https://xkcd.com/198/ "I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.")
 
 Your daily random xkcd
