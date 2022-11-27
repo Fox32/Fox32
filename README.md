@@ -1,4 +1,4 @@
-## Aversion Fads
-[![Hey, are you friends with any hamsters?  This kite needs a passenger.](https://imgs.xkcd.com/comics/aversion_fads.png)](https://xkcd.com/471/ "Hey, are you friends with any hamsters?  This kite needs a passenger.")
+## Faculty:Student Ratio
+[![They managed to briefly hit the top of the rankings when they rejected everyone except one applicant, published 5 billion research papers that just said "Hi," and hired one of their graduates for $50 trillion/year (then fired them after 10 microseconds.)](https://imgs.xkcd.com/comics/faculty_student_ratio.png)](https://xkcd.com/2215/ "They managed to briefly hit the top of the rankings when they rejected everyone except one applicant, published 5 billion research papers that just said "Hi," and hired one of their graduates for $50 trillion/year (then fired them after 10 microseconds.)")
 
 Your daily random xkcd
