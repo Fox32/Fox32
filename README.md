@@ -1,4 +1,4 @@
-## Paperwork
-[![Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.](https://imgs.xkcd.com/comics/paperwork.png)](https://xkcd.com/1977/ "Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.")
+## Full-Width Justification
+[![Gonna start bugging the Unicode consortium to add snake segment characters that can be combined into an arbitrary-length non-breaking snake.](https://imgs.xkcd.com/comics/full_width_justification.png)](https://xkcd.com/1676/ "Gonna start bugging the Unicode consortium to add snake segment characters that can be combined into an arbitrary-length non-breaking snake.")
 
 Your daily random xkcd
