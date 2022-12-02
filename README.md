@@ -1,4 +1,4 @@
-## Full-Width Justification
-[![Gonna start bugging the Unicode consortium to add snake segment characters that can be combined into an arbitrary-length non-breaking snake.](https://imgs.xkcd.com/comics/full_width_justification.png)](https://xkcd.com/1676/ "Gonna start bugging the Unicode consortium to add snake segment characters that can be combined into an arbitrary-length non-breaking snake.")
+## Substitutions 3
+[![BREAKING: Channing Tatum and his friends explore haunted city](https://imgs.xkcd.com/comics/substitutions_3.png)](https://xkcd.com/1679/ "BREAKING: Channing Tatum and his friends explore haunted city")
 
 Your daily random xkcd
