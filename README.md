@@ -1,4 +1,4 @@
-## Email Settings
-[![What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.](https://imgs.xkcd.com/comics/email_settings.png)](https://xkcd.com/2139/ "What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.")
+## xkcd Phone 3
+[![If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.](https://imgs.xkcd.com/comics/xkcd_phone_3.png)](https://xkcd.com/1549/ "If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.")
 
 Your daily random xkcd
