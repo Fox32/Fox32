@@ -1,4 +1,4 @@
-## Resonance
-[![It's really hard to control the frequency, actually.](https://imgs.xkcd.com/comics/resonance.png)](https://xkcd.com/228/ "It's really hard to control the frequency, actually.")
+## Rabbit Introduction
+[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
 
 Your daily random xkcd
