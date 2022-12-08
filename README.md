@@ -1,4 +1,4 @@
-## Rabbit Introduction
-[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
+## Fashion Police and Grammar Police
+[![* Mad about jorts](https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png)](https://xkcd.com/1735/ "* Mad about jorts")
 
 Your daily random xkcd
