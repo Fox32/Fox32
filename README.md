@@ -1,4 +1,4 @@
-## Fashion Police and Grammar Police
-[![* Mad about jorts](https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png)](https://xkcd.com/1735/ "* Mad about jorts")
+## Oxidation
+[![Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.](https://imgs.xkcd.com/comics/oxidation.png)](https://xkcd.com/1693/ "Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.")
 
 Your daily random xkcd
