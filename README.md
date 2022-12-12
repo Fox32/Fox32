@@ -1,4 +1,4 @@
-## Goldbach Conjectures
-[![The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.](https://imgs.xkcd.com/comics/goldbach_conjectures.png)](https://xkcd.com/1310/ "The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.")
+## Motivated Reasoning Olympics
+[![[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.](https://imgs.xkcd.com/comics/motivated_reasoning_olympics.png)](https://xkcd.com/2167/ "[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.")
 
 Your daily random xkcd
