@@ -1,4 +1,4 @@
-## Chin-Up Bar
-[![Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.](https://imgs.xkcd.com/comics/chin_up_bar.png)](https://xkcd.com/954/ "Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.")
+## Sleet
+[![I mean, I can barely hear myself complaining about Battlestar Galactica.](https://imgs.xkcd.com/comics/sleet.png)](https://xkcd.com/511/ "I mean, I can barely hear myself complaining about Battlestar Galactica.")
 
 Your daily random xkcd
