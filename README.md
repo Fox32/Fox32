@@ -1,4 +1,4 @@
-## Science Fair
-[![This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.](https://imgs.xkcd.com/comics/science_fair.png)](https://xkcd.com/136/ "This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.")
+## Clickbait-Corrected p-Value
+[![When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.](https://imgs.xkcd.com/comics/clickbait_corrected_p_value.png)](https://xkcd.com/2001/ "When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.")
 
 Your daily random xkcd
