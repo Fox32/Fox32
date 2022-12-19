@@ -1,4 +1,4 @@
-## Clickbait-Corrected p-Value
-[![When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.](https://imgs.xkcd.com/comics/clickbait_corrected_p_value.png)](https://xkcd.com/2001/ "When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.")
+## Dress Color
+[![This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.](https://imgs.xkcd.com/comics/dress_color.png)](https://xkcd.com/1492/ "This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.")
 
 Your daily random xkcd
