@@ -1,4 +1,4 @@
-## Who Sends the First Text?
-[![I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.](https://imgs.xkcd.com/comics/who_sends_the_first_text.png)](https://xkcd.com/2065/ "I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.")
+## Sierpinski Valentine
+[![Especially you mouseover-text readers.  You're the best.  <3](https://imgs.xkcd.com/comics/sierpinski_valentine.png)](https://xkcd.com/543/ "Especially you mouseover-text readers.  You're the best.  <3")
 
 Your daily random xkcd
