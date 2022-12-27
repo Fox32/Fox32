@@ -1,4 +1,4 @@
-## Secretary: Part 1
-[![The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.](https://imgs.xkcd.com/comics/secretary_part_1.png)](https://xkcd.com/494/ "The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.")
+## Mars Rovers
+[![I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!](https://imgs.xkcd.com/comics/mars_rovers.png)](https://xkcd.com/2433/ "I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!")
 
 Your daily random xkcd
