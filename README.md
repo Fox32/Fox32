@@ -1,4 +1,4 @@
-## Mars Rovers
-[![I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!](https://imgs.xkcd.com/comics/mars_rovers.png)](https://xkcd.com/2433/ "I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!")
+## December 25th Launch
+[![Update: Santa has been destroyed by the range safety officer.](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559/ "Update: Santa has been destroyed by the range safety officer.")
 
 Your daily random xkcd
