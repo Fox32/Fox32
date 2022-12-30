@@ -1,4 +1,4 @@
-## Brand Identity
-[![Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.](https://imgs.xkcd.com/comics/brand_identity.png)](https://xkcd.com/993/ "Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.")
+## PermaCal
+[![The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.](https://imgs.xkcd.com/comics/permacal.png)](https://xkcd.com/1514/ "The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.")
 
 Your daily random xkcd
