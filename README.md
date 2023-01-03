@@ -1,4 +1,4 @@
-## Alpha Centauri
-[![And let's be honest, it's more like two and a half stars. Proxima is barely a star and barely bound to the system.](https://imgs.xkcd.com/comics/alpha_centauri.png)](https://xkcd.com/2079/ "And let's be honest, it's more like two and a half stars. Proxima is barely a star and barely bound to the system.")
+## Profile Creation Flowchart
+[![This one goes out to xxCrazyPixie1987xx](https://imgs.xkcd.com/comics/profile_flowchart.jpg)](https://xkcd.com/94/ "This one goes out to xxCrazyPixie1987xx")
 
 Your daily random xkcd
