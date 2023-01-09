@@ -1,4 +1,4 @@
-## Marketing Interview
-[![There are a lot of books on marketing out there.  I wonder if you're safest just buying the most popular one.](https://imgs.xkcd.com/comics/marketing_interview.png)](https://xkcd.com/125/ "There are a lot of books on marketing out there.  I wonder if you're safest just buying the most popular one.")
+## Escher Bracelet
+[![The only downside is that it would be a little uncomfortable](https://imgs.xkcd.com/comics/escher_wristband.jpg)](https://xkcd.com/88/ "The only downside is that it would be a little uncomfortable")
 
 Your daily random xkcd
