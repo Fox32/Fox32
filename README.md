@@ -1,4 +1,4 @@
-## Escher Bracelet
-[![The only downside is that it would be a little uncomfortable](https://imgs.xkcd.com/comics/escher_wristband.jpg)](https://xkcd.com/88/ "The only downside is that it would be a little uncomfortable")
+## Forest Walk
+[![The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.](https://imgs.xkcd.com/comics/forest_walk.png)](https://xkcd.com/2498/ "The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.")
 
 Your daily random xkcd
