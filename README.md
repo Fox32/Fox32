@@ -1,4 +1,4 @@
-## Forest Walk
-[![The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.](https://imgs.xkcd.com/comics/forest_walk.png)](https://xkcd.com/2498/ "The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.")
+## Emoticon
+[![U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.](https://imgs.xkcd.com/comics/emoticon.png)](https://xkcd.com/380/ "U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.")
 
 Your daily random xkcd
