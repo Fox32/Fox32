@@ -1,4 +1,4 @@
-## Emoticon
-[![U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.](https://imgs.xkcd.com/comics/emoticon.png)](https://xkcd.com/380/ "U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.")
+## Use or Discard By
+[![One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!](https://imgs.xkcd.com/comics/use_or_discard_by.png)](https://xkcd.com/2297/ "One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!")
 
 Your daily random xkcd
