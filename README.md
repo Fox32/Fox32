@@ -1,4 +1,4 @@
-## Research Areas by Size and Countedness
-[![Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."](https://imgs.xkcd.com/comics/research_areas_by_size_and_countedness.png)](https://xkcd.com/1991/ "Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."")
+## Color Pattern
+[![♫ When the spacing is tight / And the difference is slight / That's a moiré ♫](https://imgs.xkcd.com/comics/color_pattern.png)](https://xkcd.com/1814/ "♫ When the spacing is tight / And the difference is slight / That's a moiré ♫")
 
 Your daily random xkcd
