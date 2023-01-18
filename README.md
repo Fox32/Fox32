@@ -1,4 +1,4 @@
-## Clumsy Foreshadowing
-[!['... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'](https://imgs.xkcd.com/comics/clumsy_foreshadowing.png)](https://xkcd.com/1387/ "'... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'")
+## Increased Risk
+[![You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!](https://imgs.xkcd.com/comics/increased_risk.png)](https://xkcd.com/1252/ "You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!")
 
 Your daily random xkcd
