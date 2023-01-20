@@ -1,4 +1,4 @@
-## Making Friends
-[!["This seems more like a way to attract turkey vultures." "My mom always told me a turkey vulture is just a friend you haven't met yet, usually because you don't smell enough like decaying meat."](https://imgs.xkcd.com/comics/making_friends.png)](https://xkcd.com/1746/ ""This seems more like a way to attract turkey vultures." "My mom always told me a turkey vulture is just a friend you haven't met yet, usually because you don't smell enough like decaying meat."")
+## Flash Gatsby
+[![Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."](https://imgs.xkcd.com/comics/flash_gatsby.png)](https://xkcd.com/2405/ "Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."")
 
 Your daily random xkcd
