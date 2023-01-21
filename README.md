@@ -1,4 +1,4 @@
-## Flash Gatsby
-[![Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."](https://imgs.xkcd.com/comics/flash_gatsby.png)](https://xkcd.com/2405/ "Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."")
+## The Universal Label
+[![Works for any grocery or non-grocery. Even thyme is just H and time.](https://imgs.xkcd.com/comics/the_universal_label.png)](https://xkcd.com/1123/ "Works for any grocery or non-grocery. Even thyme is just H and time.")
 
 Your daily random xkcd
