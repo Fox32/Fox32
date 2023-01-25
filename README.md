@@ -1,4 +1,4 @@
-## Nerd Girls
-[![Nothing personal, high schoolers.](https://imgs.xkcd.com/comics/nerd_girls.jpg)](https://xkcd.com/67/ "Nothing personal, high schoolers.")
+## Toot
+[![This is also one of only five identified situations in which a vuvuzela is actually appropriate.](https://imgs.xkcd.com/comics/toot.png)](https://xkcd.com/757/ "This is also one of only five identified situations in which a vuvuzela is actually appropriate.")
 
 Your daily random xkcd
