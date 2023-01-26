@@ -1,4 +1,4 @@
-## Toot
-[![This is also one of only five identified situations in which a vuvuzela is actually appropriate.](https://imgs.xkcd.com/comics/toot.png)](https://xkcd.com/757/ "This is also one of only five identified situations in which a vuvuzela is actually appropriate.")
+## Squirrelphone
+[![After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.](https://imgs.xkcd.com/comics/squirrelphone.png)](https://xkcd.com/1578/ "After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.")
 
 Your daily random xkcd
