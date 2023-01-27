@@ -1,4 +1,4 @@
-## Squirrelphone
-[![After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.](https://imgs.xkcd.com/comics/squirrelphone.png)](https://xkcd.com/1578/ "After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.")
+## My Phone is Dying
+[![When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.](https://imgs.xkcd.com/comics/my_phone_is_dying.png)](https://xkcd.com/1422/ "When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.")
 
 Your daily random xkcd
