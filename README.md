@@ -1,4 +1,4 @@
-## Rocket Packs
-[![Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'](https://imgs.xkcd.com/comics/rocket_packs.png)](https://xkcd.com/1382/ "Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'")
+## Cutest-Sounding Scientific Effects
+[![The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)](https://xkcd.com/2611/ "The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.")
 
 Your daily random xkcd
