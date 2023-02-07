@@ -1,4 +1,4 @@
-## Standards
-[![Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/ "Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.")
+## Retro Virus
+[![He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!](https://imgs.xkcd.com/comics/retro_virus.png)](https://xkcd.com/694/ "He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!")
 
 Your daily random xkcd
