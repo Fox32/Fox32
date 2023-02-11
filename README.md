@@ -1,4 +1,4 @@
-## One Two
-[![Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!](https://imgs.xkcd.com/comics/one_two.png)](https://xkcd.com/764/ "Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!")
+## Argument Timing
+[![Of course, everyone has their own profile. There are morning arguers, hangry arguers, meal-time arguers, late-night arguers, and people who get in a meta-argument over what their argument timing is, dredge up examples of past arguments, and end up fighting over THOSE again as well.](https://imgs.xkcd.com/comics/argument_timing.png)](https://xkcd.com/1929/ "Of course, everyone has their own profile. There are morning arguers, hangry arguers, meal-time arguers, late-night arguers, and people who get in a meta-argument over what their argument timing is, dredge up examples of past arguments, and end up fighting over THOSE again as well.")
 
 Your daily random xkcd
