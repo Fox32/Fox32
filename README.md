@@ -1,4 +1,4 @@
-## Woosh
-[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
+## Seven
+[![The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.](https://imgs.xkcd.com/comics/seven.png)](https://xkcd.com/1417/ "The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.")
 
 Your daily random xkcd
