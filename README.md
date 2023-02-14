@@ -1,4 +1,4 @@
-## Seven
-[![The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.](https://imgs.xkcd.com/comics/seven.png)](https://xkcd.com/1417/ "The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.")
+## Balloon
+[![So I'm a bad person.](https://imgs.xkcd.com/comics/balloon.png)](https://xkcd.com/121/ "So I'm a bad person.")
 
 Your daily random xkcd
