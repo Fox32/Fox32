@@ -1,4 +1,4 @@
-## Balloon
-[![So I'm a bad person.](https://imgs.xkcd.com/comics/balloon.png)](https://xkcd.com/121/ "So I'm a bad person.")
+## Subliminal
+[![Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.](https://imgs.xkcd.com/comics/subliminal.png)](https://xkcd.com/960/ "Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.")
 
 Your daily random xkcd
