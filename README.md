@@ -1,4 +1,4 @@
-## Subliminal
-[![Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.](https://imgs.xkcd.com/comics/subliminal.png)](https://xkcd.com/960/ "Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.")
+## Data Error
+[![Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!](https://imgs.xkcd.com/comics/data_error.png)](https://xkcd.com/2239/ "Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!")
 
 Your daily random xkcd
