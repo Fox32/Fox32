@@ -1,4 +1,4 @@
-## Substitutions 2
-[![Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.](https://imgs.xkcd.com/comics/substitutions_2.png)](https://xkcd.com/1625/ "Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.")
+## Unsubscribe Message
+[![A mix of the two is even worse: 'Thanks for unsubscribing and helping us pare this list down to reliable supporters.'](https://imgs.xkcd.com/comics/unsubscribe_message.png)](https://xkcd.com/2257/ "A mix of the two is even worse: 'Thanks for unsubscribing and helping us pare this list down to reliable supporters.'")
 
 Your daily random xkcd
