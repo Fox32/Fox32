@@ -1,4 +1,4 @@
-## Repair or Replace
-[![Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.](https://imgs.xkcd.com/comics/repair_or_replace.png)](https://xkcd.com/2033/ "Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.")
+## I in Team
+[![There's no "I" in "VOWELS".](https://imgs.xkcd.com/comics/i_in_team.png)](https://xkcd.com/1562/ "There's no "I" in "VOWELS".")
 
 Your daily random xkcd
