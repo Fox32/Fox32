@@ -1,4 +1,4 @@
-## ISS Solar Transit
-[![I guess it's also the right setting for pictures of the Moon at night.](https://imgs.xkcd.com/comics/iss_solar_transit.png)](https://xkcd.com/1828/ "I guess it's also the right setting for pictures of the Moon at night.")
+## Experimentation
+[![I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?](https://imgs.xkcd.com/comics/experimentation.png)](https://xkcd.com/507/ "I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?")
 
 Your daily random xkcd
