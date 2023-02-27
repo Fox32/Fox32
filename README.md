@@ -1,4 +1,4 @@
-## Positive Attitude
-[![Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit.](https://imgs.xkcd.com/comics/positive_attitude.png)](https://xkcd.com/828/ "Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit.")
+## A Bunch of Rocks
+[![I call Rule 34 on Wolfram's Rule 34.](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)](https://xkcd.com/505/ "I call Rule 34 on Wolfram's Rule 34.")
 
 Your daily random xkcd
