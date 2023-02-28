@@ -1,4 +1,4 @@
-## A Bunch of Rocks
-[![I call Rule 34 on Wolfram's Rule 34.](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)](https://xkcd.com/505/ "I call Rule 34 on Wolfram's Rule 34.")
+## Contingency Plan
+[![Kids are genetic experiments.  We're just experimenting responsibly!](https://imgs.xkcd.com/comics/contingency_plan.png)](https://xkcd.com/531/ "Kids are genetic experiments.  We're just experimenting responsibly!")
 
 Your daily random xkcd
