@@ -1,4 +1,4 @@
-## Contingency Plan
-[![Kids are genetic experiments.  We're just experimenting responsibly!](https://imgs.xkcd.com/comics/contingency_plan.png)](https://xkcd.com/531/ "Kids are genetic experiments.  We're just experimenting responsibly!")
+## Depth
+[![The Planck length is another thousand or two pixels below the comic.](https://imgs.xkcd.com/comics/depth.png)](https://xkcd.com/485/ "The Planck length is another thousand or two pixels below the comic.")
 
 Your daily random xkcd
