@@ -1,4 +1,4 @@
-## Depth
-[![The Planck length is another thousand or two pixels below the comic.](https://imgs.xkcd.com/comics/depth.png)](https://xkcd.com/485/ "The Planck length is another thousand or two pixels below the comic.")
+## Settling
+[![Of course, "Number of times I've gotten to make a decision twice to know for sure how it would have turned out" is still at 0.](https://imgs.xkcd.com/comics/settling.png)](https://xkcd.com/1768/ "Of course, "Number of times I've gotten to make a decision twice to know for sure how it would have turned out" is still at 0.")
 
 Your daily random xkcd
