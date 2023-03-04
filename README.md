@@ -1,4 +1,4 @@
-## Launch Conditions
-[![Though I do think the tiny vent on one of the boosters labeled "O-RING" is in poor taste.](https://imgs.xkcd.com/comics/launch_conditions.png)](https://xkcd.com/2114/ "Though I do think the tiny vent on one of the boosters labeled "O-RING" is in poor taste.")
+## Nomenclature
+[![[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'](https://imgs.xkcd.com/comics/nomenclature.png)](https://xkcd.com/1221/ "[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'")
 
 Your daily random xkcd
