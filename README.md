@@ -1,4 +1,4 @@
-## Nomenclature
-[![[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'](https://imgs.xkcd.com/comics/nomenclature.png)](https://xkcd.com/1221/ "[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'")
+## Console Lines
+[![If I get a Wii, it will be the first game console I've owned.](https://imgs.xkcd.com/comics/console_lines.png)](https://xkcd.com/186/ "If I get a Wii, it will be the first game console I've owned.")
 
 Your daily random xkcd
