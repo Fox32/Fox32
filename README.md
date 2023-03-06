@@ -1,4 +1,4 @@
-## Console Lines
-[![If I get a Wii, it will be the first game console I've owned.](https://imgs.xkcd.com/comics/console_lines.png)](https://xkcd.com/186/ "If I get a Wii, it will be the first game console I've owned.")
+## Edge Cake
+[![Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549/ "Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.")
 
 Your daily random xkcd
