@@ -1,4 +1,4 @@
-## Edge Cake
-[![Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549/ "Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.")
+## Slideshow
+[![Points to anyone who hacks the Flickr devs' computers to make their text editors do this when you click on anything.](https://imgs.xkcd.com/comics/slideshow.gif)](https://xkcd.com/1264/ "Points to anyone who hacks the Flickr devs' computers to make their text editors do this when you click on anything.")
 
 Your daily random xkcd
