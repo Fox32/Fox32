@@ -1,4 +1,4 @@
-## Election Commentary
-[![This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.](https://imgs.xkcd.com/comics/election_commentary.png)](https://xkcd.com/2136/ "This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.")
+## P-Values
+[![If all else fails, use "significant at a p>0.05 level" and hope no one notices.](https://imgs.xkcd.com/comics/p_values.png)](https://xkcd.com/1478/ "If all else fails, use "significant at a p>0.05 level" and hope no one notices.")
 
 Your daily random xkcd
