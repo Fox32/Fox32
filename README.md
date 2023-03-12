@@ -1,4 +1,4 @@
-## Making Rules
-[![I never understood why someone would expect me to accept their rules right after they'd punched me.  I'm sure it's all very symbolic or something.](https://imgs.xkcd.com/comics/making_rules.png)](https://xkcd.com/392/ "I never understood why someone would expect me to accept their rules right after they'd punched me.  I'm sure it's all very symbolic or something.")
+## HDTV
+[![We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.](https://imgs.xkcd.com/comics/hdtv.png)](https://xkcd.com/732/ "We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.")
 
 Your daily random xkcd
