@@ -1,4 +1,4 @@
-## HDTV
-[![We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.](https://imgs.xkcd.com/comics/hdtv.png)](https://xkcd.com/732/ "We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.")
+## Temper
+[![Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.](https://imgs.xkcd.com/comics/temper.png)](https://xkcd.com/767/ "Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.")
 
 Your daily random xkcd
