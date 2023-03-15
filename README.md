@@ -1,4 +1,4 @@
-## I Could Care Less
-[![I literally could care less.](https://imgs.xkcd.com/comics/i_could_care_less.png)](https://xkcd.com/1576/ "I literally could care less.")
+## 2018
+[![We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.](https://imgs.xkcd.com/comics/2018.png)](https://xkcd.com/1935/ "We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.")
 
 Your daily random xkcd
