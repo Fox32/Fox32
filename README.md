@@ -1,4 +1,4 @@
-## Timeline of Bicycle Design
-[![I'll be honest--the 1950s were a rough time for cycling.](https://imgs.xkcd.com/comics/timeline_of_bicycle_design.png)](https://xkcd.com/1673/ "I'll be honest--the 1950s were a rough time for cycling.")
+## Outbreak
+[![Let's get dinner after we promptly destroy all the X-7 we've manufactured.](https://imgs.xkcd.com/comics/outbreak.png)](https://xkcd.com/734/ "Let's get dinner after we promptly destroy all the X-7 we've manufactured.")
 
 Your daily random xkcd
