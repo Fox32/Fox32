@@ -1,4 +1,4 @@
-## Pirate Bay
-[![We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.](https://imgs.xkcd.com/comics/pirate_bay.png)](https://xkcd.com/553/ "We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.")
+## Complex Vowels
+[![Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.](https://imgs.xkcd.com/comics/complex_vowels.png)](https://xkcd.com/2657/ "Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.")
 
 Your daily random xkcd
