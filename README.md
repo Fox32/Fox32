@@ -1,4 +1,4 @@
-## Two Down, One to Go
-[![The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3.](https://imgs.xkcd.com/comics/two_down_one_to_go.png)](https://xkcd.com/1887/ "The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3.")
+## Voting Referendum
+[![The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.](https://imgs.xkcd.com/comics/voting_referendum.png)](https://xkcd.com/2225/ "The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.")
 
 Your daily random xkcd
