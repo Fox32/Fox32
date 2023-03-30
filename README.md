@@ -1,4 +1,4 @@
-## Voting Referendum
-[![The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.](https://imgs.xkcd.com/comics/voting_referendum.png)](https://xkcd.com/2225/ "The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.")
+## Mount St. Helens
+[![It's a good mountain but it really peaked in the 80s.](https://imgs.xkcd.com/comics/mount_st_helens.png)](https://xkcd.com/2308/ "It's a good mountain but it really peaked in the 80s.")
 
 Your daily random xkcd
