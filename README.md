@@ -1,4 +1,4 @@
-## Choices: Part 2
-[![Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.](https://imgs.xkcd.com/comics/choices_part_2.jpg)](https://xkcd.com/265/ "Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.")
+## Brain Hemispheres
+[![Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/ "Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.")
 
 Your daily random xkcd
