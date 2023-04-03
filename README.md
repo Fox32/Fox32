@@ -1,4 +1,4 @@
-## Brain Hemispheres
-[![Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/ "Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.")
+## Genetic Algorithms
+[![Just make sure you don't have it maximize instead of minimize.](https://imgs.xkcd.com/comics/genetic_algorithms.png)](https://xkcd.com/534/ "Just make sure you don't have it maximize instead of minimize.")
 
 Your daily random xkcd
