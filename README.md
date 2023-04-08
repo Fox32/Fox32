@@ -1,4 +1,4 @@
-## Meta Collecting
-[![I'm trying to get the page locked because some jerk keeps adding "Yachts".](https://imgs.xkcd.com/comics/meta_collecting.png)](https://xkcd.com/2123/ "I'm trying to get the page locked because some jerk keeps adding "Yachts".")
+## Pixels
+[![It's turtles all the way down.](https://imgs.xkcd.com/comics/pixels.png)](https://xkcd.com/1416/ "It's turtles all the way down.")
 
 Your daily random xkcd
