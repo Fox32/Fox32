@@ -1,4 +1,4 @@
-## Extended NFPA Hazard Diamond
-[![With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling.](https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png)](https://xkcd.com/2638/ "With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling.")
+## Colds
+[![The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.](https://imgs.xkcd.com/comics/colds.png)](https://xkcd.com/1612/ "The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.")
 
 Your daily random xkcd
