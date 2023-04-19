@@ -1,4 +1,4 @@
-## The Race: Part 5
-[![It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.](https://imgs.xkcd.com/comics/the_race_part_5.png)](https://xkcd.com/581/ "It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.")
+## Epsilon and Zeta
+[![The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.](https://imgs.xkcd.com/comics/epsilon_and_zeta.png)](https://xkcd.com/1126/ "The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.")
 
 Your daily random xkcd
