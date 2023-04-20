@@ -1,4 +1,4 @@
-## Epsilon and Zeta
-[![The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.](https://imgs.xkcd.com/comics/epsilon_and_zeta.png)](https://xkcd.com/1126/ "The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.")
+## I Am Not Good with Boomerangs
+[![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/ "Bonus strip: just read the rightmost panels straight down. ")
 
 Your daily random xkcd
