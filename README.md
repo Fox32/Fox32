@@ -1,4 +1,4 @@
-## I Am Not Good with Boomerangs
-[![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/ "Bonus strip: just read the rightmost panels straight down. ")
+## Every Data Table
+[![I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.](https://imgs.xkcd.com/comics/every_data_table.png)](https://xkcd.com/2502/ "I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.")
 
 Your daily random xkcd
