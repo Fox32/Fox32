@@ -1,4 +1,4 @@
-## Every Data Table
-[![I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.](https://imgs.xkcd.com/comics/every_data_table.png)](https://xkcd.com/2502/ "I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.")
+## Robots
+[![Don't be nervous about the robots, be nervous about the people with the resources to build them.](https://imgs.xkcd.com/comics/robots.png)](https://xkcd.com/1955/ "Don't be nervous about the robots, be nervous about the people with the resources to build them.")
 
 Your daily random xkcd
