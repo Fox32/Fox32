@@ -1,4 +1,4 @@
-## ADD
-[![20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'](https://imgs.xkcd.com/comics/add.png)](https://xkcd.com/1106/ "20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'")
+## Friendship
+[![The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".](https://imgs.xkcd.com/comics/friendship.png)](https://xkcd.com/1485/ "The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".")
 
 Your daily random xkcd
