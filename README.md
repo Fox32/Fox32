@@ -1,4 +1,4 @@
-## Friendship
-[![The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".](https://imgs.xkcd.com/comics/friendship.png)](https://xkcd.com/1485/ "The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".")
+## I Am Not Good with Boomerangs
+[![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/ "Bonus strip: just read the rightmost panels straight down. ")
 
 Your daily random xkcd
