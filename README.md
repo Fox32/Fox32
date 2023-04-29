@@ -1,4 +1,4 @@
-## I Am Not Good with Boomerangs
-[![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/ "Bonus strip: just read the rightmost panels straight down. ")
+## Air Travel Packing List
+[![I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.](https://imgs.xkcd.com/comics/air_travel_packing_list.png)](https://xkcd.com/2525/ "I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.")
 
 Your daily random xkcd
