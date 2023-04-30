@@ -1,4 +1,4 @@
-## Air Travel Packing List
-[![I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.](https://imgs.xkcd.com/comics/air_travel_packing_list.png)](https://xkcd.com/2525/ "I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.")
+## Turnabout
+[![Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.](https://imgs.xkcd.com/comics/turnabout.png)](https://xkcd.com/1441/ "Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.")
 
 Your daily random xkcd
