@@ -1,4 +1,4 @@
-## Turnabout
-[![Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.](https://imgs.xkcd.com/comics/turnabout.png)](https://xkcd.com/1441/ "Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.")
+## Map of the Internet
+[![For the IPv6 map just imagine the XP default desktop picture.](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)](https://xkcd.com/195/ "For the IPv6 map just imagine the XP default desktop picture.")
 
 Your daily random xkcd
