@@ -1,4 +1,4 @@
-## Map of the Internet
-[![For the IPv6 map just imagine the XP default desktop picture.](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)](https://xkcd.com/195/ "For the IPv6 map just imagine the XP default desktop picture.")
+## s/keyboard/leopard/
+[![Problem Exists Between Leopard And Chair](https://imgs.xkcd.com/comics/s_keyboard_leopard.png)](https://xkcd.com/1031/ "Problem Exists Between Leopard And Chair")
 
 Your daily random xkcd
