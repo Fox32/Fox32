@@ -1,4 +1,4 @@
-## Chain of Command
-[![Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.](https://imgs.xkcd.com/comics/chain_of_command.png)](https://xkcd.com/898/ "Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.")
+## All Your Base
+[![The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.](https://imgs.xkcd.com/comics/all_your_base.png)](https://xkcd.com/286/ "The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.")
 
 Your daily random xkcd
