@@ -1,4 +1,4 @@
-## Donner
-[![Some people haven't heard of the Donner Party.  They were pioneers who got stranded and likely resorted to cannibalism.](https://imgs.xkcd.com/comics/donner.jpg)](https://xkcd.com/30/ "Some people haven't heard of the Donner Party.  They were pioneers who got stranded and likely resorted to cannibalism.")
+## Reductionism
+[!["I've noticed you physics people can be a little on the reductionist side." "That's ridiculous. Name ONE reductionist word I've ever said."](https://imgs.xkcd.com/comics/reductionism.png)](https://xkcd.com/1734/ ""I've noticed you physics people can be a little on the reductionist side." "That's ridiculous. Name ONE reductionist word I've ever said."")
 
 Your daily random xkcd
