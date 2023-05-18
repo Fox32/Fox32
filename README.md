@@ -1,4 +1,4 @@
-## Robots
-[![Don't be nervous about the robots, be nervous about the people with the resources to build them.](https://imgs.xkcd.com/comics/robots.png)](https://xkcd.com/1955/ "Don't be nervous about the robots, be nervous about the people with the resources to build them.")
+## 50 ccs
+[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
 
 Your daily random xkcd
