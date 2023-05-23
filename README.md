@@ -1,4 +1,4 @@
-## Math Paper
-[![That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.](https://imgs.xkcd.com/comics/math_paper.png)](https://xkcd.com/410/ "That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.")
+## Invisible Formatting
+[![To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.](https://imgs.xkcd.com/comics/invisible_formatting.png)](https://xkcd.com/2109/ "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.")
 
 Your daily random xkcd
