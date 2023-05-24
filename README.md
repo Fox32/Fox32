@@ -1,4 +1,4 @@
-## Invisible Formatting
-[![To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.](https://imgs.xkcd.com/comics/invisible_formatting.png)](https://xkcd.com/2109/ "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.")
+## Apple Spectrum
+[![If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I'd be like, "How did this situation happen?"](https://imgs.xkcd.com/comics/apple_spectrum.png)](https://xkcd.com/1766/ "If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I'd be like, "How did this situation happen?"")
 
 Your daily random xkcd
