@@ -1,4 +1,4 @@
-## Pokémon Go
-[![Still waiting for the Pokémon Go update that lets you capture strangers' pets.](https://imgs.xkcd.com/comics/pokemon_go.png)](https://xkcd.com/1705/ "Still waiting for the Pokémon Go update that lets you capture strangers' pets.")
+## Keyboard Mash
+[![WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.](https://imgs.xkcd.com/comics/keyboard_mash.png)](https://xkcd.com/1530/ "WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.")
 
 Your daily random xkcd
