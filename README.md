@@ -1,4 +1,4 @@
-## Tax AI
-[![I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg.](https://imgs.xkcd.com/comics/tax_ai.png)](https://xkcd.com/2265/ "I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg.")
+## Dimensional Chess
+[![In Dimensional Chess, every move is annotated '?!'.](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465/ "In Dimensional Chess, every move is annotated '?!'.")
 
 Your daily random xkcd
