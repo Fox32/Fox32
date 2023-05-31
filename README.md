@@ -1,4 +1,4 @@
-## Rey and Kylo
-[![We're like 10+ movies in and the focus has been almost entirely on the WARS half.](https://imgs.xkcd.com/comics/rey_and_kylo.png)](https://xkcd.com/2229/ "We're like 10+ movies in and the focus has been almost entirely on the WARS half.")
+## Flatland
+[![Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.](https://imgs.xkcd.com/comics/flatland.png)](https://xkcd.com/721/ "Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.")
 
 Your daily random xkcd
