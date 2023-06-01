@@ -1,4 +1,4 @@
-## Flatland
-[![Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.](https://imgs.xkcd.com/comics/flatland.png)](https://xkcd.com/721/ "Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.")
+## Like I'm Five
+[!['Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'](https://imgs.xkcd.com/comics/like_im_five.png)](https://xkcd.com/1364/ "'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'")
 
 Your daily random xkcd
