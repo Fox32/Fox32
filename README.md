@@ -1,4 +1,4 @@
-## Like I'm Five
-[!['Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'](https://imgs.xkcd.com/comics/like_im_five.png)](https://xkcd.com/1364/ "'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'")
+## Complex Numbers
+[![I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.](https://imgs.xkcd.com/comics/complex_numbers.png)](https://xkcd.com/2028/ "I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.")
 
 Your daily random xkcd
