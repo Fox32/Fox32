@@ -1,4 +1,4 @@
-## Complex Numbers
-[![I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.](https://imgs.xkcd.com/comics/complex_numbers.png)](https://xkcd.com/2028/ "I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.")
+## Particle Properties
+[![Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.](https://imgs.xkcd.com/comics/particle_properties.png)](https://xkcd.com/1862/ "Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.")
 
 Your daily random xkcd
