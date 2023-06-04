@@ -1,4 +1,4 @@
-## Particle Properties
-[![Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.](https://imgs.xkcd.com/comics/particle_properties.png)](https://xkcd.com/1862/ "Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.")
+## Obsolete Technology
+[![And I can't believe some places still use fax machines. The electrical signals waste so much time going AROUND the Earth when neutrino beams can go straight through!](https://imgs.xkcd.com/comics/obsolete_technology.png)](https://xkcd.com/1891/ "And I can't believe some places still use fax machines. The electrical signals waste so much time going AROUND the Earth when neutrino beams can go straight through!")
 
 Your daily random xkcd
