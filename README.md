@@ -1,4 +1,4 @@
-## One Of The
-[!['The world's greatest [whatever]' is subjective, but 'One of the world's greatest [whatever]s' is clearly objective. Anyway, that's why I got you this 'one of the world's greatest moms' mug!](https://imgs.xkcd.com/comics/one_of_the.png)](https://xkcd.com/1368/ "'The world's greatest [whatever]' is subjective, but 'One of the world's greatest [whatever]s' is clearly objective. Anyway, that's why I got you this 'one of the world's greatest moms' mug!")
+## Tag Combination
+[![I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)](https://imgs.xkcd.com/comics/tag_combination.png)](https://xkcd.com/575/ "I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)")
 
 Your daily random xkcd
