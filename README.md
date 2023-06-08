@@ -1,4 +1,4 @@
-## Tag Combination
-[![I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)](https://imgs.xkcd.com/comics/tag_combination.png)](https://xkcd.com/575/ "I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)")
+## Conjunction
+[![The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.](https://imgs.xkcd.com/comics/conjunction.png)](https://xkcd.com/2401/ "The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.")
 
 Your daily random xkcd
