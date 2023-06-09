@@ -1,4 +1,4 @@
-## Conjunction
-[![The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.](https://imgs.xkcd.com/comics/conjunction.png)](https://xkcd.com/2401/ "The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.")
+## Or Whatever
+[![Oh yeah, I didn't even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers.](https://imgs.xkcd.com/comics/or_whatever.png)](https://xkcd.com/2629/ "Oh yeah, I didn't even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers.")
 
 Your daily random xkcd
