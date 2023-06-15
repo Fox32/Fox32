@@ -1,4 +1,4 @@
-## What If
-[![I once made an anniversary card for my then-girlfriend with this layout.](https://imgs.xkcd.com/comics/what_if.jpg)](https://xkcd.com/17/ "I once made an anniversary card for my then-girlfriend with this layout.")
+## December 25th Launch
+[![Update: Santa has been destroyed by the range safety officer.](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559/ "Update: Santa has been destroyed by the range safety officer.")
 
 Your daily random xkcd
