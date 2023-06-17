@@ -1,4 +1,4 @@
-## Never Seen Star Wars
-[![If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.](https://imgs.xkcd.com/comics/never_seen_star_wars.png)](https://xkcd.com/1769/ "If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.")
+## Radians are Cursed
+[![Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can't argue with results.](https://imgs.xkcd.com/comics/radians_are_cursed.png)](https://xkcd.com/2748/ "Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can't argue with results.")
 
 Your daily random xkcd
