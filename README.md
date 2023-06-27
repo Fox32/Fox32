@@ -1,4 +1,4 @@
-## Metaball
-[![Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!](https://imgs.xkcd.com/comics/metaball.png)](https://xkcd.com/1507/ "Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!")
+## K-Means Clustering
+[![According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.](https://imgs.xkcd.com/comics/k_means_clustering.png)](https://xkcd.com/2731/ "According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.")
 
 Your daily random xkcd
