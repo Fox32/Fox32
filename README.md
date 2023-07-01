@@ -1,4 +1,4 @@
-## A Better Idea
-[![It's *almost* enough to make me want to redo high school.](https://imgs.xkcd.com/comics/a_better_idea.png)](https://xkcd.com/422/ "It's *almost* enough to make me want to redo high school.")
+## Objects In Mirror
+[![Universes in mirror, like those in windshield, are larger than they appear.](https://imgs.xkcd.com/comics/objects_in_mirror.png)](https://xkcd.com/1125/ "Universes in mirror, like those in windshield, are larger than they appear.")
 
 Your daily random xkcd
