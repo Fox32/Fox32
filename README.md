@@ -1,4 +1,4 @@
-## Objects In Mirror
-[![Universes in mirror, like those in windshield, are larger than they appear.](https://imgs.xkcd.com/comics/objects_in_mirror.png)](https://xkcd.com/1125/ "Universes in mirror, like those in windshield, are larger than they appear.")
+## Rainbow
+[![Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.](https://imgs.xkcd.com/comics/rainbow.png)](https://xkcd.com/1684/ "Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.")
 
 Your daily random xkcd
