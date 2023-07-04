@@ -1,4 +1,4 @@
-## Epsilon and Zeta
-[![The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.](https://imgs.xkcd.com/comics/epsilon_and_zeta.png)](https://xkcd.com/1126/ "The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.")
+## State Borders
+[![A schism between the pro-panhandle and anti-panhandle factions eventually led to war, but both sides spent too much time working on their flag designs to actually do much fighting.](https://imgs.xkcd.com/comics/state_borders.png)](https://xkcd.com/1902/ "A schism between the pro-panhandle and anti-panhandle factions eventually led to war, but both sides spent too much time working on their flag designs to actually do much fighting.")
 
 Your daily random xkcd
