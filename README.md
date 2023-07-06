@@ -1,4 +1,4 @@
-## Salt Dome
-[![The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.](https://imgs.xkcd.com/comics/salt_dome.png)](https://xkcd.com/2752/ "The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.")
+## Plastic Bags
+[![The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/ "The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.")
 
 Your daily random xkcd
