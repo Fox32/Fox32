@@ -1,4 +1,4 @@
-## Plastic Bags
-[![The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/ "The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.")
+## Throw
+[![this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to](https://imgs.xkcd.com/comics/throw.png)](https://xkcd.com/2198/ "this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to")
 
 Your daily random xkcd
