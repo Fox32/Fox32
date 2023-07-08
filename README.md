@@ -1,4 +1,4 @@
-## Throw
-[![this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to](https://imgs.xkcd.com/comics/throw.png)](https://xkcd.com/2198/ "this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to")
+## Bee Orchid
+[![In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.](https://imgs.xkcd.com/comics/bee_orchid.png)](https://xkcd.com/1259/ "In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.")
 
 Your daily random xkcd
