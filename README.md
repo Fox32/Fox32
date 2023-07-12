@@ -1,4 +1,4 @@
-## All-in-One
-[![Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.](https://imgs.xkcd.com/comics/all_in_one.png)](https://xkcd.com/2369/ "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.")
+## 1991 and 2021
+[!["Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."](https://imgs.xkcd.com/comics/1991_and_2021.png)](https://xkcd.com/2481/ ""Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."")
 
 Your daily random xkcd
