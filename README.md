@@ -1,4 +1,4 @@
-## War
-[![They offered to make me a green beret, but I liked my regular one. Although it gets kind of squashed under my helmet.](https://imgs.xkcd.com/comics/war.png)](https://xkcd.com/769/ "They offered to make me a green beret, but I liked my regular one. Although it gets kind of squashed under my helmet.")
+## Couple
+[![Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'](https://imgs.xkcd.com/comics/couple.png)](https://xkcd.com/355/ "Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'")
 
 Your daily random xkcd
