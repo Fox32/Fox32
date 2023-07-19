@@ -1,4 +1,4 @@
-## Peer Review
-[![Your manuscript "Don't Pay $25 to Access Any of the Articles in this Journal: A Review of Preprint Repositories and Author Willingness to Email PDF Copies for Free" has also been rejected, but nice try.](https://imgs.xkcd.com/comics/peer_review.png)](https://xkcd.com/2025/ "Your manuscript "Don't Pay $25 to Access Any of the Articles in this Journal: A Review of Preprint Repositories and Author Willingness to Email PDF Copies for Free" has also been rejected, but nice try.")
+## I Shouldn't Complain
+[![Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.](https://imgs.xkcd.com/comics/i_shouldnt_complain.png)](https://xkcd.com/2590/ "Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.")
 
 Your daily random xkcd
