@@ -1,4 +1,4 @@
-## I Shouldn't Complain
-[![Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.](https://imgs.xkcd.com/comics/i_shouldnt_complain.png)](https://xkcd.com/2590/ "Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.")
+## Depth
+[![The Planck length is another thousand or two pixels below the comic.](https://imgs.xkcd.com/comics/depth.png)](https://xkcd.com/485/ "The Planck length is another thousand or two pixels below the comic.")
 
 Your daily random xkcd
