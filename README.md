@@ -1,4 +1,4 @@
-## Depth
-[![The Planck length is another thousand or two pixels below the comic.](https://imgs.xkcd.com/comics/depth.png)](https://xkcd.com/485/ "The Planck length is another thousand or two pixels below the comic.")
+## Cadbury Eggs
+[![When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.](https://imgs.xkcd.com/comics/cadbury_eggs.png)](https://xkcd.com/1035/ "When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.")
 
 Your daily random xkcd
