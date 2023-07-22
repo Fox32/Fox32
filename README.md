@@ -1,4 +1,4 @@
-## Cadbury Eggs
-[![When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.](https://imgs.xkcd.com/comics/cadbury_eggs.png)](https://xkcd.com/1035/ "When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.")
+## Gyroscopes
+[![We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.](https://imgs.xkcd.com/comics/gyroscopes.png)](https://xkcd.com/332/ "We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.")
 
 Your daily random xkcd
