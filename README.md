@@ -1,4 +1,4 @@
-## Gyroscopes
-[![We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.](https://imgs.xkcd.com/comics/gyroscopes.png)](https://xkcd.com/332/ "We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.")
+## xkcd Phone 6
+[![We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.](https://imgs.xkcd.com/comics/xkcd_phone_6.png)](https://xkcd.com/1889/ "We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.")
 
 Your daily random xkcd
