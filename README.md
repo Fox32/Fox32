@@ -1,4 +1,4 @@
-## xkcd Phone 6
-[![We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.](https://imgs.xkcd.com/comics/xkcd_phone_6.png)](https://xkcd.com/1889/ "We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.")
+## Rover Replies
+[![I'm so glad NASA let you take your phone to Mars!](https://imgs.xkcd.com/comics/rover_replies.png)](https://xkcd.com/2517/ "I'm so glad NASA let you take your phone to Mars!")
 
 Your daily random xkcd
