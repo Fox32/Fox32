@@ -1,4 +1,4 @@
-## The Flake Equation
-[![Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.](https://imgs.xkcd.com/comics/the_flake_equation.png)](https://xkcd.com/718/ "Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.")
+## Christmas GPS
+[![If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.](https://imgs.xkcd.com/comics/christmas_gps.png)](https://xkcd.com/201/ "If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.")
 
 Your daily random xkcd
