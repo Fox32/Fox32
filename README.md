@@ -1,4 +1,4 @@
-## Christmas GPS
-[![If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.](https://imgs.xkcd.com/comics/christmas_gps.png)](https://xkcd.com/201/ "If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.")
+## Children's Fantasy
+[![I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/ "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.")
 
 Your daily random xkcd
