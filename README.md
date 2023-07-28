@@ -1,4 +1,4 @@
-## Children's Fantasy
-[![I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/ "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.")
+## New Car
+[![Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.](https://imgs.xkcd.com/comics/new_car.png)](https://xkcd.com/570/ "Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.")
 
 Your daily random xkcd
