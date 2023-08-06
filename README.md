@@ -1,4 +1,4 @@
-## Business Update
-[![Our customers keep sending us their personal information, even though we've repeatedly asked them to stop. The EU told me I'm the heir to some ancient European throne that makes me exempt from the GDPR, but we should probably still try to fix that.](https://imgs.xkcd.com/comics/business_update.png)](https://xkcd.com/1997/ "Our customers keep sending us their personal information, even though we've repeatedly asked them to stop. The EU told me I'm the heir to some ancient European throne that makes me exempt from the GDPR, but we should probably still try to fix that.")
+## Digital Rights Management
+[![If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)](https://xkcd.com/86/ "If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good")
 
 Your daily random xkcd
