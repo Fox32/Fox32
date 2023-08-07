@@ -1,4 +1,4 @@
-## Digital Rights Management
-[![If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)](https://xkcd.com/86/ "If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good")
+## Cell Phone Functions
+[![... tazer ... fire extinguisher ... bird feeder ... toilet paper ...](https://imgs.xkcd.com/comics/cell_phone_functions.png)](https://xkcd.com/2212/ "... tazer ... fire extinguisher ... bird feeder ... toilet paper ...")
 
 Your daily random xkcd
