@@ -1,4 +1,4 @@
-## Party
-[![I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!](https://imgs.xkcd.com/comics/party.png)](https://xkcd.com/524/ "I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!")
+## E Scooters
+[![Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.](https://imgs.xkcd.com/comics/e_scooters.png)](https://xkcd.com/2188/ "Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.")
 
 Your daily random xkcd
