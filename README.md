@@ -1,4 +1,4 @@
-## Feathers
-[![Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)](https://imgs.xkcd.com/comics/feathers.png)](https://xkcd.com/1104/ "Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)")
+## Cloud Swirls
+[!['Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'](https://imgs.xkcd.com/comics/cloud_swirls.png)](https://xkcd.com/2664/ "'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'")
 
 Your daily random xkcd
