@@ -1,4 +1,4 @@
-## Cloud Swirls
-[!['Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'](https://imgs.xkcd.com/comics/cloud_swirls.png)](https://xkcd.com/2664/ "'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'")
+## The Cure
+[![My first try at drawing a real face in years](https://imgs.xkcd.com/comics/the_cure.jpg)](https://xkcd.com/56/ "My first try at drawing a real face in years")
 
 Your daily random xkcd
