@@ -1,4 +1,4 @@
-## Captain Picard Tea Order
-[![We can ask the Earl for his order once he's fully extruded from the dispenser.](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)](https://xkcd.com/2570/ "We can ask the Earl for his order once he's fully extruded from the dispenser.")
+## Food Rule
+[![I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.](https://imgs.xkcd.com/comics/food_rule.png)](https://xkcd.com/1587/ "I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.")
 
 Your daily random xkcd
