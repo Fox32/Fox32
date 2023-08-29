@@ -1,4 +1,4 @@
-## Historical Dates
-[![Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.](https://imgs.xkcd.com/comics/historical_dates.png)](https://xkcd.com/2676/ "Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.")
+## One-Sided
+[![He continued, 'Okay, Bernanke is uncontaminated.  Find a crossbow and get him into position behind one of the columns at the Fed entrance.  This is gonna get ugly.'](https://imgs.xkcd.com/comics/one-sided.png)](https://xkcd.com/476/ "He continued, 'Okay, Bernanke is uncontaminated.  Find a crossbow and get him into position behind one of the columns at the Fed entrance.  This is gonna get ugly.'")
 
 Your daily random xkcd
