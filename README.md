@@ -1,4 +1,4 @@
-## Planet Killer Comet Margarita
-[![I'll take mine on the rocks, no ice.](https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png)](https://xkcd.com/2729/ "I'll take mine on the rocks, no ice.")
+## Cryogenics
+[!['Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.](https://imgs.xkcd.com/comics/cryogenics.png)](https://xkcd.com/989/ "'Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.")
 
 Your daily random xkcd
