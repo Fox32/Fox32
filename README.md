@@ -1,4 +1,4 @@
-## Borrow Your Laptop
-[![If used with software that could keep up, a scroll wheel mapped to send a stream of 'undo' and 'redo' events could be kind of cool.](https://imgs.xkcd.com/comics/borrow_your_laptop.png)](https://xkcd.com/1806/ "If used with software that could keep up, a scroll wheel mapped to send a stream of 'undo' and 'redo' events could be kind of cool.")
+## Trapped
+[![Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.](https://imgs.xkcd.com/comics/trapped.png)](https://xkcd.com/876/ "Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.")
 
 Your daily random xkcd
