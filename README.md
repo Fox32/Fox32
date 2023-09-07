@@ -1,4 +1,4 @@
-## Trapped
-[![Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.](https://imgs.xkcd.com/comics/trapped.png)](https://xkcd.com/876/ "Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.")
+## Good Cop, Dadaist Cop
+[![NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)](https://xkcd.com/1018/ "NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.")
 
 Your daily random xkcd
