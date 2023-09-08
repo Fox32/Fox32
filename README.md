@@ -1,4 +1,4 @@
-## Good Cop, Dadaist Cop
-[![NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)](https://xkcd.com/1018/ "NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.")
+## Mouse Turbines
+[![It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.](https://imgs.xkcd.com/comics/mouse_turbines.png)](https://xkcd.com/2641/ "It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.")
 
 Your daily random xkcd
