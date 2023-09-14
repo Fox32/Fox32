@@ -1,4 +1,4 @@
-## Ten Thousand
-[![Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.](https://imgs.xkcd.com/comics/ten_thousand.png)](https://xkcd.com/1053/ "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.")
+## Okeanos
+[![WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT](https://imgs.xkcd.com/comics/okeanos.png)](https://xkcd.com/1836/ "WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT")
 
 Your daily random xkcd
