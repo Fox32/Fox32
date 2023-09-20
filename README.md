@@ -1,4 +1,4 @@
-## Rabbit Introduction
-[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
+## 1000 Times
+[![And 0.002 dollars will NEVER equal 0.002 cents.](https://imgs.xkcd.com/comics/1000_times.png)](https://xkcd.com/558/ "And 0.002 dollars will NEVER equal 0.002 cents.")
 
 Your daily random xkcd
