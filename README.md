@@ -1,4 +1,4 @@
-## Cron Mail
-[![Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.](https://imgs.xkcd.com/comics/cron_mail.png)](https://xkcd.com/1728/ "Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.")
+## Old Drawing
+[![I don't want to talk about it](https://imgs.xkcd.com/comics/unspeakable_pun.jpg)](https://xkcd.com/41/ "I don't want to talk about it")
 
 Your daily random xkcd
