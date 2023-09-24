@@ -1,4 +1,4 @@
-## Old Drawing
-[![I don't want to talk about it](https://imgs.xkcd.com/comics/unspeakable_pun.jpg)](https://xkcd.com/41/ "I don't want to talk about it")
+## Flash Gatsby
+[![Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."](https://imgs.xkcd.com/comics/flash_gatsby.png)](https://xkcd.com/2405/ "Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."")
 
 Your daily random xkcd
