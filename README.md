@@ -1,4 +1,4 @@
-## Base System
-[![I once got to second base with a basketball player.  She was so confused.](https://imgs.xkcd.com/comics/base_system.png)](https://xkcd.com/540/ "I once got to second base with a basketball player.  She was so confused.")
+## Coverage
+[![My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.](https://imgs.xkcd.com/comics/coverage.png)](https://xkcd.com/1142/ "My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.")
 
 Your daily random xkcd
