@@ -1,4 +1,4 @@
-## Coverage
-[![My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.](https://imgs.xkcd.com/comics/coverage.png)](https://xkcd.com/1142/ "My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.")
+## Sheep
+[![I think it's the sheep zapping the cactus and not vice-versa](https://imgs.xkcd.com/comics/sheep.jpg)](https://xkcd.com/35/ "I think it's the sheep zapping the cactus and not vice-versa")
 
 Your daily random xkcd
