@@ -1,4 +1,4 @@
-## Reassuring
-[!['At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.](https://imgs.xkcd.com/comics/reassuring.png)](https://xkcd.com/1263/ "'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.")
+## Subjectivity
+[![Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)](https://imgs.xkcd.com/comics/subjectivity.png)](https://xkcd.com/255/ "Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)")
 
 Your daily random xkcd
