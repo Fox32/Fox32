@@ -1,4 +1,4 @@
-## Subjectivity
-[![Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)](https://imgs.xkcd.com/comics/subjectivity.png)](https://xkcd.com/255/ "Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)")
+## Recycling
+[![And given how much of my stuff they go through, they definitely know where I live.](https://imgs.xkcd.com/comics/recycling.png)](https://xkcd.com/885/ "And given how much of my stuff they go through, they definitely know where I live.")
 
 Your daily random xkcd
