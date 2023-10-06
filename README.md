@@ -1,4 +1,4 @@
-## Not Enough Work
-[![It's even harder if you're an asshole who pronounces <> brackets.](https://imgs.xkcd.com/comics/not_enough_work.png)](https://xkcd.com/554/ "It's even harder if you're an asshole who pronounces <> brackets.")
+## Skynet
+[!['YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'](https://imgs.xkcd.com/comics/skynet.png)](https://xkcd.com/1046/ "'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'")
 
 Your daily random xkcd
