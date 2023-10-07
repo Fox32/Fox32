@@ -1,4 +1,4 @@
-## Skynet
-[!['YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'](https://imgs.xkcd.com/comics/skynet.png)](https://xkcd.com/1046/ "'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'")
+## Fixed Width
+[![I wish I knew how to quit this so I wouldn't have to quit you.](https://imgs.xkcd.com/comics/fixed_width.png)](https://xkcd.com/276/ "I wish I knew how to quit this so I wouldn't have to quit you.")
 
 Your daily random xkcd
