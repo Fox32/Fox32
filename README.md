@@ -1,4 +1,4 @@
-## Voting Software
-[![There are lots of very smart people doing fascinating work on cryptographic voting protocols. We should be funding and encouraging them, and doing all our elections with paper ballots until everyone currently working in that field has retired.](https://imgs.xkcd.com/comics/voting_software.png)](https://xkcd.com/2030/ "There are lots of very smart people doing fascinating work on cryptographic voting protocols. We should be funding and encouraging them, and doing all our elections with paper ballots until everyone currently working in that field has retired.")
+## Age Milestone Privileges
+[![If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.](https://imgs.xkcd.com/comics/age_milestone_privileges.png)](https://xkcd.com/2661/ "If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.")
 
 Your daily random xkcd
