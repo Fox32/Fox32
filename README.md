@@ -1,4 +1,4 @@
-## Age Milestone Privileges
-[![If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.](https://imgs.xkcd.com/comics/age_milestone_privileges.png)](https://xkcd.com/2661/ "If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.")
+## Trade Expert
+[![I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.](https://imgs.xkcd.com/comics/trade_expert.png)](https://xkcd.com/727/ "I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.")
 
 Your daily random xkcd
