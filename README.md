@@ -1,4 +1,4 @@
-## Children's Fantasy
-[![I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/ "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.")
+## Dual USB-C
+[![Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.](https://imgs.xkcd.com/comics/dual_usb_c.png)](https://xkcd.com/2493/ "Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.")
 
 Your daily random xkcd
