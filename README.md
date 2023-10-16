@@ -1,4 +1,4 @@
-## Pre-Pandemic Ketchup
-[![I wonder what year I'll discard the last weird food item that I bought online in early 2020.](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)](https://xkcd.com/2490/ "I wonder what year I'll discard the last weird food item that I bought online in early 2020.")
+## Escape Speed
+[![Gotta go fast](https://imgs.xkcd.com/comics/escape_speed.png)](https://xkcd.com/2765/ "Gotta go fast")
 
 Your daily random xkcd
