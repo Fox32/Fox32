@@ -1,4 +1,4 @@
-## Infrastructures
-[![The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.](https://imgs.xkcd.com/comics/infrastructures.png)](https://xkcd.com/743/ "The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.")
+## Making Hash Browns
+[![There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)](https://imgs.xkcd.com/comics/making_hash_browns.png)](https://xkcd.com/421/ "There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)")
 
 Your daily random xkcd
