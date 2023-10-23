@@ -1,4 +1,4 @@
-## Pandora
-[![What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...](https://imgs.xkcd.com/comics/pandora.png)](https://xkcd.com/668/ "What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...")
+## Brain Upload
+[![I just spent 20 minutes deciding whether to start an email with 'Hi' or 'Hey', so I think it transferred correctly.](https://imgs.xkcd.com/comics/brain_upload.png)](https://xkcd.com/1666/ "I just spent 20 minutes deciding whether to start an email with 'Hi' or 'Hey', so I think it transferred correctly.")
 
 Your daily random xkcd
