@@ -1,4 +1,4 @@
-## Arachnoneurology
-[![SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).](https://imgs.xkcd.com/comics/arachnoneurology.png)](https://xkcd.com/1135/ "SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).")
+## Public Opinion
+[![News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.](https://imgs.xkcd.com/comics/public_opinion.png)](https://xkcd.com/756/ "News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.")
 
 Your daily random xkcd
