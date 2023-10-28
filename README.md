@@ -1,4 +1,4 @@
-## Public Opinion
-[![News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.](https://imgs.xkcd.com/comics/public_opinion.png)](https://xkcd.com/756/ "News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.")
+## Transformers
+[![A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.](https://imgs.xkcd.com/comics/transformers.png)](https://xkcd.com/1336/ "A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.")
 
 Your daily random xkcd
