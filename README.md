@@ -1,4 +1,4 @@
-## App
-[![If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks.](https://imgs.xkcd.com/comics/app.png)](https://xkcd.com/1174/ "If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks.")
+## The End of the Rainbow
+[![The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends.](https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png)](https://xkcd.com/1944/ "The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends.")
 
 Your daily random xkcd
