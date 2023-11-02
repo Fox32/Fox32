@@ -1,4 +1,4 @@
-## I am Not a Ninja
-[!['The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'](https://imgs.xkcd.com/comics/i_am_not_a_ninja.png)](https://xkcd.com/486/ "'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'")
+## Salt Dome
+[![The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.](https://imgs.xkcd.com/comics/salt_dome.png)](https://xkcd.com/2752/ "The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.")
 
 Your daily random xkcd
