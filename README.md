@@ -1,4 +1,4 @@
-## Salt Dome
-[![The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.](https://imgs.xkcd.com/comics/salt_dome.png)](https://xkcd.com/2752/ "The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.")
+## First News Memory
+[![Psychology researchers say our 'flashbulb' memories of big events can be unreliable, but I clearly remember watching live on CNN as Challenger crashed into and destroyed the Berlin Wall.](https://imgs.xkcd.com/comics/first_news_memory.png)](https://xkcd.com/2174/ "Psychology researchers say our 'flashbulb' memories of big events can be unreliable, but I clearly remember watching live on CNN as Challenger crashed into and destroyed the Berlin Wall.")
 
 Your daily random xkcd
