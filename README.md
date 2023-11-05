@@ -1,4 +1,4 @@
-## Pore Strips
-[![I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result.](https://imgs.xkcd.com/comics/pore_strips.png)](https://xkcd.com/777/ "I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result.")
+## 30 Days Hath September
+[![There's a cool mental calculation hack I recently learned for this: If you open the calendar app on your phone or computer, the highest-numbered box along the bottom is equal to the number of days in the month!](https://imgs.xkcd.com/comics/30_days_hath_september.png)](https://xkcd.com/1595/ "There's a cool mental calculation hack I recently learned for this: If you open the calendar app on your phone or computer, the highest-numbered box along the bottom is equal to the number of days in the month!")
 
 Your daily random xkcd
