@@ -1,4 +1,4 @@
-## Substitutions 2
-[![Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.](https://imgs.xkcd.com/comics/substitutions_2.png)](https://xkcd.com/1625/ "Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.")
+## Eclipse Review
+[![I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.](https://imgs.xkcd.com/comics/eclipse_review.png)](https://xkcd.com/1880/ "I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.")
 
 Your daily random xkcd
