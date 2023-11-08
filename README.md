@@ -1,4 +1,4 @@
-## Eclipse Review
-[![I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.](https://imgs.xkcd.com/comics/eclipse_review.png)](https://xkcd.com/1880/ "I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.")
+## All Adobe Updates
+[![ALERT: Some pending mandatory software updates require version 21.1.2 of the Oracle/Sun Java(tm) JDK(tm) Update Manager Runtime Environment Meta-Updater, which is not available for your platform.](https://imgs.xkcd.com/comics/all_adobe_updates.png)](https://xkcd.com/1197/ "ALERT: Some pending mandatory software updates require version 21.1.2 of the Oracle/Sun Java(tm) JDK(tm) Update Manager Runtime Environment Meta-Updater, which is not available for your platform.")
 
 Your daily random xkcd
