@@ -1,4 +1,4 @@
-## Ninja Turtles
-[![The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.](https://imgs.xkcd.com/comics/ninja_turtles.png)](https://xkcd.com/197/ "The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.")
+## Heat Index
+[![The heat index is calculated via looking up the "effective temperature" in a table of air temperature and humidity values, and then adding a bunch more degrees because it feels WAY hotter than that.](https://imgs.xkcd.com/comics/heat_index.png)](https://xkcd.com/2026/ "The heat index is calculated via looking up the "effective temperature" in a table of air temperature and humidity values, and then adding a bunch more degrees because it feels WAY hotter than that.")
 
 Your daily random xkcd
