@@ -1,4 +1,4 @@
-## Hypotheticals
-[![What if someone broke out of a hypothetical situation in your room right now?](https://imgs.xkcd.com/comics/hypotheticals.png)](https://xkcd.com/248/ "What if someone broke out of a hypothetical situation in your room right now?")
+## Drapes
+[![Wait, what?](https://imgs.xkcd.com/comics/drapes.png)](https://xkcd.com/508/ "Wait, what?")
 
 Your daily random xkcd
