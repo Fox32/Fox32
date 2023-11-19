@@ -1,4 +1,4 @@
-## Anti-Vaxxers
-[![The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.](https://imgs.xkcd.com/comics/anti_vaxxers.png)](https://xkcd.com/2806/ "The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.")
+## Questions
+[![To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.](https://imgs.xkcd.com/comics/questions.png)](https://xkcd.com/1256/ "To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.")
 
 Your daily random xkcd
