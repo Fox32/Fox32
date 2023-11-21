@@ -1,4 +1,4 @@
-## Answers
-[![Stanford sleep researcher William Dement said that after 50 years of studying sleep, the only really solid explanation he knows for why we do it is 'because we get sleepy'.](https://imgs.xkcd.com/comics/answers.png)](https://xkcd.com/1345/ "Stanford sleep researcher William Dement said that after 50 years of studying sleep, the only really solid explanation he knows for why we do it is 'because we get sleepy'.")
+## Citogenesis
+[![I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.](https://imgs.xkcd.com/comics/citogenesis.png)](https://xkcd.com/978/ "I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.")
 
 Your daily random xkcd
