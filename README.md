@@ -1,4 +1,4 @@
-## Cuttlefish
-[![Unless the CS students finish the robot revolution before you finish the cephalopod one.](https://imgs.xkcd.com/comics/cuttlefish.png)](https://xkcd.com/520/ "Unless the CS students finish the robot revolution before you finish the cephalopod one.")
+## National Language
+[![She's pretty sharp when provoked.](https://imgs.xkcd.com/comics/national_language.jpg)](https://xkcd.com/84/ "She's pretty sharp when provoked.")
 
 Your daily random xkcd
