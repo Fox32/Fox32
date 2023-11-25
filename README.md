@@ -1,4 +1,4 @@
-## National Language
-[![She's pretty sharp when provoked.](https://imgs.xkcd.com/comics/national_language.jpg)](https://xkcd.com/84/ "She's pretty sharp when provoked.")
+## Theft of the Magi
+[![Every Roomba needs a dueling harness.](https://imgs.xkcd.com/comics/theft_of_the_magi.png)](https://xkcd.com/506/ "Every Roomba needs a dueling harness.")
 
 Your daily random xkcd
