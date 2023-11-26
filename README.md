@@ -1,4 +1,4 @@
-## Theft of the Magi
-[![Every Roomba needs a dueling harness.](https://imgs.xkcd.com/comics/theft_of_the_magi.png)](https://xkcd.com/506/ "Every Roomba needs a dueling harness.")
+## Empiricism
+[![The problems started with my resolution next year to reject temporal causality.](https://imgs.xkcd.com/comics/empiricism.png)](https://xkcd.com/2855/ "The problems started with my resolution next year to reject temporal causality.")
 
 Your daily random xkcd
