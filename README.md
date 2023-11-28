@@ -1,4 +1,4 @@
-## Flies
-[![I don't know about houseflies, but we definitely caught a lot of fruit flies with our vinegar bowl.  Hooray science!](https://imgs.xkcd.com/comics/flies.png)](https://xkcd.com/357/ "I don't know about houseflies, but we definitely caught a lot of fruit flies with our vinegar bowl.  Hooray science!")
+## Deer Turrets
+[![When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!](https://imgs.xkcd.com/comics/deer_turrets.png)](https://xkcd.com/2350/ "When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!")
 
 Your daily random xkcd
