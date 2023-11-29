@@ -1,4 +1,4 @@
-## Deer Turrets
-[![When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!](https://imgs.xkcd.com/comics/deer_turrets.png)](https://xkcd.com/2350/ "When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!")
+## Diffraction Spikes
+[![Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.](https://imgs.xkcd.com/comics/diffraction_spikes.png)](https://xkcd.com/2762/ "Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.")
 
 Your daily random xkcd
