@@ -1,4 +1,4 @@
-## Quantum Teleportation
-[![Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.](https://imgs.xkcd.com/comics/quantum_teleportation.png)](https://xkcd.com/465/ "Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.")
+## Pickup Lines
+[![That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.](https://imgs.xkcd.com/comics/pickup_lines.png)](https://xkcd.com/279/ "That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.")
 
 Your daily random xkcd
