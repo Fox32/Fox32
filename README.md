@@ -1,4 +1,4 @@
-## Pickup Lines
-[![That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.](https://imgs.xkcd.com/comics/pickup_lines.png)](https://xkcd.com/279/ "That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.")
+## Cadbury Eggs
+[![When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.](https://imgs.xkcd.com/comics/cadbury_eggs.png)](https://xkcd.com/1035/ "When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.")
 
 Your daily random xkcd
