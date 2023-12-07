@@ -1,4 +1,4 @@
-## Cadbury Eggs
-[![When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.](https://imgs.xkcd.com/comics/cadbury_eggs.png)](https://xkcd.com/1035/ "When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.")
+## Time Travel
+[![She also starts every letter with "Dear Future <your name>".](https://imgs.xkcd.com/comics/time_travel.png)](https://xkcd.com/630/ "She also starts every letter with "Dear Future <your name>".")
 
 Your daily random xkcd
