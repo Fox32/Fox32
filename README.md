@@ -1,4 +1,4 @@
-## Threesome
-[![I wanted us to try finding an approximate numeric solution, but noooo.](https://imgs.xkcd.com/comics/threesome.png)](https://xkcd.com/613/ "I wanted us to try finding an approximate numeric solution, but noooo.")
+## ContextBot
+[![If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.](https://imgs.xkcd.com/comics/contextbot.png)](https://xkcd.com/1085/ "If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.")
 
 Your daily random xkcd
