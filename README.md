@@ -1,4 +1,4 @@
-## ContextBot
-[![If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.](https://imgs.xkcd.com/comics/contextbot.png)](https://xkcd.com/1085/ "If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.")
+## Godel, Escher, Kurt Halsey
+[![I love the idea here, though of course it's not a great-quality drawing or scan.](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)](https://xkcd.com/24/ "I love the idea here, though of course it's not a great-quality drawing or scan.")
 
 Your daily random xkcd
