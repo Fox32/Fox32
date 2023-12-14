@@ -1,4 +1,4 @@
-## Godel, Escher, Kurt Halsey
-[![I love the idea here, though of course it's not a great-quality drawing or scan.](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)](https://xkcd.com/24/ "I love the idea here, though of course it's not a great-quality drawing or scan.")
+## Alternative Energy Revolution
+[![The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)](https://xkcd.com/556/ "The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.")
 
 Your daily random xkcd
