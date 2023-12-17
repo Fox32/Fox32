@@ -1,4 +1,4 @@
-## Free Speech
-[![I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express.](https://imgs.xkcd.com/comics/free_speech.png)](https://xkcd.com/1357/ "I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express.")
+## Glass Trolling
+[![Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.](https://imgs.xkcd.com/comics/glass_trolling.png)](https://xkcd.com/1304/ "Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.")
 
 Your daily random xkcd
