@@ -1,4 +1,4 @@
-## Glass Trolling
-[![Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.](https://imgs.xkcd.com/comics/glass_trolling.png)](https://xkcd.com/1304/ "Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.")
+## PGP
+[![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)](https://xkcd.com/1181/ "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.")
 
 Your daily random xkcd
