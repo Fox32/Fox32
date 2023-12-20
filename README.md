@@ -1,4 +1,4 @@
-## Existential Bug Reports
-[![ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.](https://imgs.xkcd.com/comics/existential_bug_reports.png)](https://xkcd.com/1822/ "ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.")
+## Phobia
+[![Oh God, the tornado picked up snakes!](https://imgs.xkcd.com/comics/phobia.png)](https://xkcd.com/752/ "Oh God, the tornado picked up snakes!")
 
 Your daily random xkcd
