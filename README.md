@@ -1,4 +1,4 @@
-## United States Map
-[![It would be pretty unfair to give to someone a blank version of this map as a 'how many states can you name?' quiz. (If you include Alaska and Hawaii, you should swap the Aleutian Islands with the Hawaiian ones.)](https://imgs.xkcd.com/comics/united_states_map.png)](https://xkcd.com/1653/ "It would be pretty unfair to give to someone a blank version of this map as a 'how many states can you name?' quiz. (If you include Alaska and Hawaii, you should swap the Aleutian Islands with the Hawaiian ones.)")
+## NASA Press Conference
+[![Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?](https://imgs.xkcd.com/comics/nasa_press_conference.png)](https://xkcd.com/1583/ "Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?")
 
 Your daily random xkcd
