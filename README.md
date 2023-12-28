@@ -1,4 +1,4 @@
-## UI Change
-[![I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.](https://imgs.xkcd.com/comics/ui_change.png)](https://xkcd.com/1770/ "I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.")
+## 6/6 Time
+[![You know how Einstein figured out that the speed of light was constant, and everything else had to change for consistency? My theory is like his, except not smart or good.](https://imgs.xkcd.com/comics/6_6_time.png)](https://xkcd.com/2050/ "You know how Einstein figured out that the speed of light was constant, and everything else had to change for consistency? My theory is like his, except not smart or good.")
 
 Your daily random xkcd
