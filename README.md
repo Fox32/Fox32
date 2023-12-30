@@ -1,4 +1,4 @@
-## A Halloween Carol
-[![[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"](https://imgs.xkcd.com/comics/a_halloween_carol.png)](https://xkcd.com/2836/ "[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"")
+## Moving
+[![We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.](https://imgs.xkcd.com/comics/moving.png)](https://xkcd.com/466/ "We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.")
 
 Your daily random xkcd
