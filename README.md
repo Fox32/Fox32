@@ -1,4 +1,4 @@
-## Hamster Ball Heist
-[![First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.](https://imgs.xkcd.com/comics/hamster_ball_heist.png)](https://xkcd.com/211/ "First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.")
+## Choices: Part 5
+[![I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!](https://imgs.xkcd.com/comics/choices_part_5.png)](https://xkcd.com/268/ "I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!")
 
 Your daily random xkcd
