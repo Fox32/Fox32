@@ -1,4 +1,4 @@
-## Guest Week: David Troupes (Buttercup Festival)
-[![Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.](https://imgs.xkcd.com/comics/guest_week_david_troupes_buttercup_festival.png)](https://xkcd.com/823/ "Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.")
+## Choices: Part 2
+[![Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.](https://imgs.xkcd.com/comics/choices_part_2.jpg)](https://xkcd.com/265/ "Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.")
 
 Your daily random xkcd
