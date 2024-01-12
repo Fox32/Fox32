@@ -1,4 +1,4 @@
-## Baking Soda and Vinegar
-[![Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.](https://imgs.xkcd.com/comics/baking_soda_and_vinegar.png)](https://xkcd.com/1611/ "Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.")
+## Recipe Relativity
+[![It says to cut the onions into 1/4" slices, but I'd better correct for length contraction.](https://imgs.xkcd.com/comics/recipe_relativity.png)](https://xkcd.com/2767/ "It says to cut the onions into 1/4" slices, but I'd better correct for length contraction.")
 
 Your daily random xkcd
