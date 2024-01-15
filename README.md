@@ -1,4 +1,4 @@
-## The Simpsons
-[![In-universe, Bart Simpson and Harry Potter were the same age in 1990. Bart is perpetually 10 years old because of a spell put on his town by someone trying to keep him from getting his Hogwarts letter.](https://imgs.xkcd.com/comics/the_simpsons.png)](https://xkcd.com/1959/ "In-universe, Bart Simpson and Harry Potter were the same age in 1990. Bart is perpetually 10 years old because of a spell put on his town by someone trying to keep him from getting his Hogwarts letter.")
+## Road Space Comparison
+[![I wonder how hard it would be to ride an electric scooter in a hamster ball.](https://imgs.xkcd.com/comics/road_space_comparison.png)](https://xkcd.com/2684/ "I wonder how hard it would be to ride an electric scooter in a hamster ball.")
 
 Your daily random xkcd
