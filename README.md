@@ -1,4 +1,4 @@
-## Childhood Toys
-[![The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.](https://imgs.xkcd.com/comics/childhood_toys.png)](https://xkcd.com/2603/ "The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.")
+## Hydrogen Isotopes
+[![Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)](https://xkcd.com/2719/ "Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.")
 
 Your daily random xkcd
