@@ -1,4 +1,4 @@
-## Launch Risk
-[![Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!](https://imgs.xkcd.com/comics/launch_risk.png)](https://xkcd.com/2107/ "Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!")
+## Ice
+[![On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.](https://imgs.xkcd.com/comics/ice.png)](https://xkcd.com/914/ "On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.")
 
 Your daily random xkcd
