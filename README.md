@@ -1,4 +1,4 @@
-## Gnome Ann
-[![President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet."](https://imgs.xkcd.com/comics/gnome_ann.png)](https://xkcd.com/1704/ "President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet."")
+## Pep Rally
+[![You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.](https://imgs.xkcd.com/comics/pep_rally.png)](https://xkcd.com/588/ "You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.")
 
 Your daily random xkcd
