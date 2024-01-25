@@ -1,4 +1,4 @@
-## Pep Rally
-[![You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.](https://imgs.xkcd.com/comics/pep_rally.png)](https://xkcd.com/588/ "You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.")
+## Feature Comparison
+[![Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.](https://imgs.xkcd.com/comics/feature_comparison.png)](https://xkcd.com/2699/ "Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.")
 
 Your daily random xkcd
