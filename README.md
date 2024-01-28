@@ -1,4 +1,4 @@
-## Period Speech
-[![The same people who spend their weekends at the Blogger Reenactment Festivals will whine about the anachronisms in historical movies, but no one else will care.](https://imgs.xkcd.com/comics/period_speech.png)](https://xkcd.com/771/ "The same people who spend their weekends at the Blogger Reenactment Festivals will whine about the anachronisms in historical movies, but no one else will care.")
+## Tornado Safety Tips
+[![It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.](https://imgs.xkcd.com/comics/tornado_safety_tips.png)](https://xkcd.com/1754/ "It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.")
 
 Your daily random xkcd
