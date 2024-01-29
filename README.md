@@ -1,4 +1,4 @@
-## Tornado Safety Tips
-[![It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.](https://imgs.xkcd.com/comics/tornado_safety_tips.png)](https://xkcd.com/1754/ "It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.")
+## Gravitational Mass
+[![She's so fat the attraction goes up as the CUBE of the distance instead of the square](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/ "She's so fat the attraction goes up as the CUBE of the distance instead of the square")
 
 Your daily random xkcd
