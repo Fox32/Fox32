@@ -1,4 +1,4 @@
-## Gravitational Mass
-[![She's so fat the attraction goes up as the CUBE of the distance instead of the square](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/ "She's so fat the attraction goes up as the CUBE of the distance instead of the square")
+## Movie Folder
+[![That's actually the original Japanese version of A Million Random Digits, which is much better than the American remake the book was based on.](https://imgs.xkcd.com/comics/movie_folder.png)](https://xkcd.com/1751/ "That's actually the original Japanese version of A Million Random Digits, which is much better than the American remake the book was based on.")
 
 Your daily random xkcd
