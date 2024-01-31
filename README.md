@@ -1,4 +1,4 @@
-## Movie Folder
-[![That's actually the original Japanese version of A Million Random Digits, which is much better than the American remake the book was based on.](https://imgs.xkcd.com/comics/movie_folder.png)](https://xkcd.com/1751/ "That's actually the original Japanese version of A Million Random Digits, which is much better than the American remake the book was based on.")
+## Down
+[![It's just that I get nervous about heights.](https://imgs.xkcd.com/comics/down.png)](https://xkcd.com/2800/ "It's just that I get nervous about heights.")
 
 Your daily random xkcd
