@@ -1,4 +1,4 @@
-## Popper
-[![At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.](https://imgs.xkcd.com/comics/popper.png)](https://xkcd.com/2078/ "At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.")
+## Quirky Girls
+[![Romantic comedy heroines, I'm talking to you.](https://imgs.xkcd.com/comics/quirky_girls.png)](https://xkcd.com/122/ "Romantic comedy heroines, I'm talking to you.")
 
 Your daily random xkcd
