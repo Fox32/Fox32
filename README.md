@@ -1,4 +1,4 @@
-## Sagan-Man
-[![They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.](https://imgs.xkcd.com/comics/sagan-man.png)](https://xkcd.com/663/ "They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.")
+## Percent Milkfat
+[!["So what's dark energy?" "Cosmologists and the FDA are both trying very hard to find out."](https://imgs.xkcd.com/comics/percent_milkfat.png)](https://xkcd.com/2216/ ""So what's dark energy?" "Cosmologists and the FDA are both trying very hard to find out."")
 
 Your daily random xkcd
