@@ -1,4 +1,4 @@
-## Software Updates
-[![Everything is a cloud application; the ping times just vary a lot.](https://imgs.xkcd.com/comics/software_updates.png)](https://xkcd.com/2224/ "Everything is a cloud application; the ping times just vary a lot.")
+## Budget News
+[![I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'](https://imgs.xkcd.com/comics/budget_news.png)](https://xkcd.com/1062/ "I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'")
 
 Your daily random xkcd
