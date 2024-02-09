@@ -1,4 +1,4 @@
-## Budget News
-[![I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'](https://imgs.xkcd.com/comics/budget_news.png)](https://xkcd.com/1062/ "I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'")
+## A Better Idea
+[![It's *almost* enough to make me want to redo high school.](https://imgs.xkcd.com/comics/a_better_idea.png)](https://xkcd.com/422/ "It's *almost* enough to make me want to redo high school.")
 
 Your daily random xkcd
