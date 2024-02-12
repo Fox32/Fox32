@@ -1,4 +1,4 @@
-## SafetySat
-[![During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.](https://imgs.xkcd.com/comics/safetysat.png)](https://xkcd.com/1992/ "During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.")
+## The Economic Argument
+[![Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.](https://imgs.xkcd.com/comics/the_economic_argument.png)](https://xkcd.com/808/ "Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.")
 
 Your daily random xkcd
