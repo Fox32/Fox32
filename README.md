@@ -1,4 +1,4 @@
-## The Economic Argument
-[![Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.](https://imgs.xkcd.com/comics/the_economic_argument.png)](https://xkcd.com/808/ "Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.")
+## Blagofaire
+[![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)](https://xkcd.com/239/ "Things were better before the Structuring and the Levels.")
 
 Your daily random xkcd
