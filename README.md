@@ -1,4 +1,4 @@
-## Blagofaire
-[![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)](https://xkcd.com/239/ "Things were better before the Structuring and the Levels.")
+## Quotative Like
+[![God was like, "Let there be light," and there was light.](https://imgs.xkcd.com/comics/quotative_like.png)](https://xkcd.com/1483/ "God was like, "Let there be light," and there was light.")
 
 Your daily random xkcd
