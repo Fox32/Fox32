@@ -1,4 +1,4 @@
-## Iceberg Efficiency
-[![Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.](https://imgs.xkcd.com/comics/iceberg_efficiency.png)](https://xkcd.com/2829/ "Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.")
+## Useful Geometry Formulas
+[![Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509/ "Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.")
 
 Your daily random xkcd
