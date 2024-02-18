@@ -1,4 +1,4 @@
-## Useful Geometry Formulas
-[![Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509/ "Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.")
+## Manual Override
+[![I think you mean 'GNU Info Override'.](https://imgs.xkcd.com/comics/manual_override.png)](https://xkcd.com/912/ "I think you mean 'GNU Info Override'.")
 
 Your daily random xkcd
