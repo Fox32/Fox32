@@ -1,4 +1,4 @@
-## Infinite Scrolling
-[![Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.](https://imgs.xkcd.com/comics/infinite_scrolling.png)](https://xkcd.com/1309/ "Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.")
+## Linguistics Degree
+[![You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.](https://imgs.xkcd.com/comics/linguistics_degree.png)](https://xkcd.com/2602/ "You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.")
 
 Your daily random xkcd
