@@ -1,4 +1,4 @@
-## Comet Visitor
-[![It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!](https://imgs.xkcd.com/comics/comet_visitor.png)](https://xkcd.com/2524/ "It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!")
+## Fountain
+[![Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!](https://imgs.xkcd.com/comics/fountain.png)](https://xkcd.com/1038/ "Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!")
 
 Your daily random xkcd
