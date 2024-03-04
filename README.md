@@ -1,4 +1,4 @@
-## e to the pi Minus pi
-[![Also, I hear the 4th root of (9^2 + 19^2/22) is pi.](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)](https://xkcd.com/217/ "Also, I hear the 4th root of (9^2 + 19^2/22) is pi.")
+## Breaker Box
+[![Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.](https://imgs.xkcd.com/comics/breaker_box.png)](https://xkcd.com/2848/ "Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.")
 
 Your daily random xkcd
