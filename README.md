@@ -1,4 +1,4 @@
-## Brightness
-[![Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.](https://imgs.xkcd.com/comics/brightness.png)](https://xkcd.com/1371/ "Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.")
+## Ineffective Sorts
+[![StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.](https://imgs.xkcd.com/comics/ineffective_sorts.png)](https://xkcd.com/1185/ "StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.")
 
 Your daily random xkcd
