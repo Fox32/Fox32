@@ -1,4 +1,4 @@
-## Exposure Models
-[!["Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.](https://imgs.xkcd.com/comics/exposure_models.png)](https://xkcd.com/2429/ ""Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.")
+## Proofs
+[![Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...](https://imgs.xkcd.com/comics/proofs.png)](https://xkcd.com/1724/ "Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...")
 
 Your daily random xkcd
