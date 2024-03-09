@@ -1,4 +1,4 @@
-## Proofs
-[![Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...](https://imgs.xkcd.com/comics/proofs.png)](https://xkcd.com/1724/ "Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...")
+## Normal Distribution
+[![It's the NORMAL distribution, not the TANGENT distribution.](https://imgs.xkcd.com/comics/normal_distribution.png)](https://xkcd.com/2118/ "It's the NORMAL distribution, not the TANGENT distribution.")
 
 Your daily random xkcd
