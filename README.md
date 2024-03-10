@@ -1,4 +1,4 @@
-## Normal Distribution
-[![It's the NORMAL distribution, not the TANGENT distribution.](https://imgs.xkcd.com/comics/normal_distribution.png)](https://xkcd.com/2118/ "It's the NORMAL distribution, not the TANGENT distribution.")
+## 50 ccs
+[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
 
 Your daily random xkcd
