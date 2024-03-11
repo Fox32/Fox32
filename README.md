@@ -1,4 +1,4 @@
-## 50 ccs
-[![There's been a raccoon accident at an accordion bacchanalia! Double doses!](https://imgs.xkcd.com/comics/50_ccs.png)](https://xkcd.com/1713/ "There's been a raccoon accident at an accordion bacchanalia! Double doses!")
+## Frontiers
+[![Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.](https://imgs.xkcd.com/comics/frontiers.png)](https://xkcd.com/2041/ "Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.")
 
 Your daily random xkcd
