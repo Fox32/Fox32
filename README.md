@@ -1,4 +1,4 @@
-## Frontiers
-[![Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.](https://imgs.xkcd.com/comics/frontiers.png)](https://xkcd.com/2041/ "Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.")
+## Astronaut Vandalism
+[![That night, retired USAF pilots covertly replaced the '62' with '50'.](https://imgs.xkcd.com/comics/astronaut_vandalism.png)](https://xkcd.com/1375/ "That night, retired USAF pilots covertly replaced the '62' with '50'.")
 
 Your daily random xkcd
