@@ -1,4 +1,4 @@
-## Astronaut Vandalism
-[![That night, retired USAF pilots covertly replaced the '62' with '50'.](https://imgs.xkcd.com/comics/astronaut_vandalism.png)](https://xkcd.com/1375/ "That night, retired USAF pilots covertly replaced the '62' with '50'.")
+## Windows 7
+[![Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/ "Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.")
 
 Your daily random xkcd
