@@ -1,4 +1,4 @@
-## Windows 7
-[![Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/ "Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.")
+## Boombox
+[![And she's gonna feel like a jerk when she realizes it was actually Under Pressure.](https://imgs.xkcd.com/comics/boombox.png)](https://xkcd.com/159/ "And she's gonna feel like a jerk when she realizes it was actually Under Pressure.")
 
 Your daily random xkcd
