@@ -1,4 +1,4 @@
-## Mine Captcha
-[![This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496/ "This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.")
+## Error Code
+[![It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.](https://imgs.xkcd.com/comics/error_code.png)](https://xkcd.com/1024/ "It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.")
 
 Your daily random xkcd
