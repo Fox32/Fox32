@@ -1,4 +1,4 @@
-## Error Code
-[![It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.](https://imgs.xkcd.com/comics/error_code.png)](https://xkcd.com/1024/ "It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.")
+## Fucking Blue Shells
+[![You can evade blue shells in Double Dash, but it is deep magic.](https://imgs.xkcd.com/comics/fucking_blue_shells.png)](https://xkcd.com/290/ "You can evade blue shells in Double Dash, but it is deep magic.")
 
 Your daily random xkcd
