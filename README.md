@@ -1,4 +1,4 @@
-## Fucking Blue Shells
-[![You can evade blue shells in Double Dash, but it is deep magic.](https://imgs.xkcd.com/comics/fucking_blue_shells.png)](https://xkcd.com/290/ "You can evade blue shells in Double Dash, but it is deep magic.")
+## Macgyver Gets Lazy
+[![At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'.](https://imgs.xkcd.com/comics/macgyver_gets_lazy.png)](https://xkcd.com/444/ "At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'.")
 
 Your daily random xkcd
