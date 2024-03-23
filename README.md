@@ -1,4 +1,4 @@
-## EHT Black Hole Picture
-[![[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!](https://imgs.xkcd.com/comics/eht_black_hole_picture.png)](https://xkcd.com/2133/ "[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!")
+## The Mother of All Suspicious Files
+[![Better change the URL to 'https' before downloading.](https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png)](https://xkcd.com/1247/ "Better change the URL to 'https' before downloading.")
 
 Your daily random xkcd
