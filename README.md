@@ -1,4 +1,4 @@
-## The Mother of All Suspicious Files
-[![Better change the URL to 'https' before downloading.](https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png)](https://xkcd.com/1247/ "Better change the URL to 'https' before downloading.")
+## Walmart
+[![What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.](https://imgs.xkcd.com/comics/walmart.png)](https://xkcd.com/1320/ "What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.")
 
 Your daily random xkcd
