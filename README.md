@@ -1,4 +1,4 @@
-## Walmart
-[![What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.](https://imgs.xkcd.com/comics/walmart.png)](https://xkcd.com/1320/ "What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.")
+## Wanna See the Code?
+[![And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.](https://imgs.xkcd.com/comics/wanna_see_the_code.png)](https://xkcd.com/2138/ "And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.")
 
 Your daily random xkcd
