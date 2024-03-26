@@ -1,4 +1,4 @@
-## Wanna See the Code?
-[![And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.](https://imgs.xkcd.com/comics/wanna_see_the_code.png)](https://xkcd.com/2138/ "And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.")
+## Middle Latitudes
+[![Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!](https://imgs.xkcd.com/comics/middle_latitudes.png)](https://xkcd.com/2081/ "Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!")
 
 Your daily random xkcd
