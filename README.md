@@ -1,4 +1,4 @@
-## Middle Latitudes
-[![Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!](https://imgs.xkcd.com/comics/middle_latitudes.png)](https://xkcd.com/2081/ "Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!")
+## Hypothesis Generation
+[![Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.](https://imgs.xkcd.com/comics/hypothesis_generation.png)](https://xkcd.com/2569/ "Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.")
 
 Your daily random xkcd
