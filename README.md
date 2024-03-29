@@ -1,4 +1,4 @@
-## Jurassic World
-[![Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.](https://imgs.xkcd.com/comics/jurassic_world.png)](https://xkcd.com/1452/ "Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.")
+## Scrabble
+[![A veteran Scrabble player will spot the 'OSTRICH' option.](https://imgs.xkcd.com/comics/scrabble.png)](https://xkcd.com/492/ "A veteran Scrabble player will spot the 'OSTRICH' option.")
 
 Your daily random xkcd
