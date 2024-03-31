@@ -1,4 +1,4 @@
-## Six Months
-[![But then she does that thing with her tongue and I remember why I left you.](https://imgs.xkcd.com/comics/six_months.png)](https://xkcd.com/158/ "But then she does that thing with her tongue and I remember why I left you.")
+## Acceptable Risk
+[![Good thing I'm not already prone to overthinking everyday decisions!](https://imgs.xkcd.com/comics/acceptable_risk.png)](https://xkcd.com/2330/ "Good thing I'm not already prone to overthinking everyday decisions!")
 
 Your daily random xkcd
