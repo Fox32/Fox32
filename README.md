@@ -1,4 +1,4 @@
-## Acceptable Risk
-[![Good thing I'm not already prone to overthinking everyday decisions!](https://imgs.xkcd.com/comics/acceptable_risk.png)](https://xkcd.com/2330/ "Good thing I'm not already prone to overthinking everyday decisions!")
+## Appropriate Term
+[![I know a lot of people hate these, but I prefer them to touchpads.](https://imgs.xkcd.com/comics/appropriate_term.png)](https://xkcd.com/243/ "I know a lot of people hate these, but I prefer them to touchpads.")
 
 Your daily random xkcd
