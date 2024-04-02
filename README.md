@@ -1,4 +1,4 @@
-## Appropriate Term
-[![I know a lot of people hate these, but I prefer them to touchpads.](https://imgs.xkcd.com/comics/appropriate_term.png)](https://xkcd.com/243/ "I know a lot of people hate these, but I prefer them to touchpads.")
+## Bonding
+[![I'm trying to build character but Eclipse is really confusing.](https://imgs.xkcd.com/comics/bonding.png)](https://xkcd.com/1188/ "I'm trying to build character but Eclipse is really confusing.")
 
 Your daily random xkcd
