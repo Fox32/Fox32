@@ -1,4 +1,4 @@
-## Bonding
-[![I'm trying to build character but Eclipse is really confusing.](https://imgs.xkcd.com/comics/bonding.png)](https://xkcd.com/1188/ "I'm trying to build character but Eclipse is really confusing.")
+## Date
+[![Well, the kid's definitely getting the biology geek phenotype.](https://imgs.xkcd.com/comics/date.png)](https://xkcd.com/634/ "Well, the kid's definitely getting the biology geek phenotype.")
 
 Your daily random xkcd
