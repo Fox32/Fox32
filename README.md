@@ -1,4 +1,4 @@
-## Date
-[![Well, the kid's definitely getting the biology geek phenotype.](https://imgs.xkcd.com/comics/date.png)](https://xkcd.com/634/ "Well, the kid's definitely getting the biology geek phenotype.")
+## Stove Ownership
+[![Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.](https://imgs.xkcd.com/comics/stove_ownership.png)](https://xkcd.com/418/ "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.")
 
 Your daily random xkcd
