@@ -1,4 +1,4 @@
-## Stove Ownership
-[![Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.](https://imgs.xkcd.com/comics/stove_ownership.png)](https://xkcd.com/418/ "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.")
+## Sky Spotters
+[![Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.](https://imgs.xkcd.com/comics/sky_spotters.png)](https://xkcd.com/1910/ "Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.")
 
 Your daily random xkcd
