@@ -1,4 +1,4 @@
-## Sky Spotters
-[![Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.](https://imgs.xkcd.com/comics/sky_spotters.png)](https://xkcd.com/1910/ "Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.")
+## Null Hypothesis
+[![Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.](https://imgs.xkcd.com/comics/null_hypothesis.png)](https://xkcd.com/892/ "Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.")
 
 Your daily random xkcd
