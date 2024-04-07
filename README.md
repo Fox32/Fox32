@@ -1,4 +1,4 @@
-## Null Hypothesis
-[![Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.](https://imgs.xkcd.com/comics/null_hypothesis.png)](https://xkcd.com/892/ "Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.")
+## PGP
+[![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)](https://xkcd.com/1181/ "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.")
 
 Your daily random xkcd
