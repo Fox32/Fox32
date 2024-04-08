@@ -1,4 +1,4 @@
-## PGP
-[![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)](https://xkcd.com/1181/ "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.")
+## Ancient Stars
+[!['The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/ "'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.")
 
 Your daily random xkcd
