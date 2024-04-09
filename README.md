@@ -1,4 +1,4 @@
-## Ancient Stars
-[!['The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/ "'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.")
+## Identification Chart
+[![Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.](https://imgs.xkcd.com/comics/identification_chart.png)](https://xkcd.com/1824/ "Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.")
 
 Your daily random xkcd
