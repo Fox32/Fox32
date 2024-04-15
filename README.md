@@ -1,4 +1,4 @@
-## Los Alamos
-[![The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.](https://imgs.xkcd.com/comics/los_alamos.png)](https://xkcd.com/809/ "The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.")
+## Once Per Day
+[![I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.](https://imgs.xkcd.com/comics/once_per_day.png)](https://xkcd.com/1853/ "I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.")
 
 Your daily random xkcd
