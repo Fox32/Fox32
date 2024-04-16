@@ -1,4 +1,4 @@
-## Once Per Day
-[![I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.](https://imgs.xkcd.com/comics/once_per_day.png)](https://xkcd.com/1853/ "I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.")
+## My Other Car
+[![It's much better than the other one.](https://imgs.xkcd.com/comics/other_car.jpg)](https://xkcd.com/80/ "It's much better than the other one.")
 
 Your daily random xkcd
