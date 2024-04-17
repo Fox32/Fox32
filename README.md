@@ -1,4 +1,4 @@
-## My Other Car
-[![It's much better than the other one.](https://imgs.xkcd.com/comics/other_car.jpg)](https://xkcd.com/80/ "It's much better than the other one.")
+## Hyphen
+[![I do this constantly](https://imgs.xkcd.com/comics/hyphen.jpg)](https://xkcd.com/37/ "I do this constantly")
 
 Your daily random xkcd
