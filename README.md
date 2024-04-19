@@ -1,4 +1,4 @@
-## Heaven
-[![If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.](https://imgs.xkcd.com/comics/heaven.png)](https://xkcd.com/888/ "If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.")
+## Post Vaccine Social Scheduling
+[![As if these problems weren't NP-hard enough.](https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png)](https://xkcd.com/2450/ "As if these problems weren't NP-hard enough.")
 
 Your daily random xkcd
