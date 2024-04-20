@@ -1,4 +1,4 @@
-## Post Vaccine Social Scheduling
-[![As if these problems weren't NP-hard enough.](https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png)](https://xkcd.com/2450/ "As if these problems weren't NP-hard enough.")
+## Wake Up Sheeple
+[![You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/ "You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.")
 
 Your daily random xkcd
