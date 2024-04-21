@@ -1,4 +1,4 @@
-## Wake Up Sheeple
-[![You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/ "You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.")
+## Honor Societies
+[![Hey, why do YOU get to be the president of Tautology Clu-- wait, I can guess.](https://imgs.xkcd.com/comics/honor_societies.png)](https://xkcd.com/703/ "Hey, why do YOU get to be the president of Tautology Clu-- wait, I can guess.")
 
 Your daily random xkcd
