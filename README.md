@@ -1,4 +1,4 @@
-## Rotation
-[![It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671/ "It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.")
+## Moria
+[![Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.](https://imgs.xkcd.com/comics/moria.png)](https://xkcd.com/760/ "Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.")
 
 Your daily random xkcd
