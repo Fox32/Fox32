@@ -1,4 +1,4 @@
-## Snow
-[![For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.](https://imgs.xkcd.com/comics/snow.png)](https://xkcd.com/2866/ "For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.")
+## Conversational Dynamics
+[!["You should make it so people can search for and jump into hundreds of conversations at once if they want." "Ooh, good idea! I imagine only the most well-informed people with the most critical information to share will use that feature."](https://imgs.xkcd.com/comics/conversational_dynamics.png)](https://xkcd.com/1974/ ""You should make it so people can search for and jump into hundreds of conversations at once if they want." "Ooh, good idea! I imagine only the most well-informed people with the most critical information to share will use that feature."")
 
 Your daily random xkcd
