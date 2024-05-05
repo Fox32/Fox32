@@ -1,4 +1,4 @@
-## Sagan-Man
-[![They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.](https://imgs.xkcd.com/comics/sagan-man.png)](https://xkcd.com/663/ "They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.")
+## Lisp Cycles
+[![I've just received word that the Emperor has dissolved the MIT computer science program permanently.](https://imgs.xkcd.com/comics/lisp_cycles.png)](https://xkcd.com/297/ "I've just received word that the Emperor has dissolved the MIT computer science program permanently.")
 
 Your daily random xkcd
