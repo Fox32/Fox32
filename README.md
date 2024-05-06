@@ -1,4 +1,4 @@
-## Lisp Cycles
-[![I've just received word that the Emperor has dissolved the MIT computer science program permanently.](https://imgs.xkcd.com/comics/lisp_cycles.png)](https://xkcd.com/297/ "I've just received word that the Emperor has dissolved the MIT computer science program permanently.")
+## Numerical Sex Positions
+[![We didn't even get to the continued fractions!](https://imgs.xkcd.com/comics/numerical_sex_positions.png)](https://xkcd.com/487/ "We didn't even get to the continued fractions!")
 
 Your daily random xkcd
