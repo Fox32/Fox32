@@ -1,4 +1,4 @@
-## Writers Strike
-[![He's just jealous because everyone's up in the attic listening to Stephen Colbert.](https://imgs.xkcd.com/comics/writers_strike.png)](https://xkcd.com/360/ "He's just jealous because everyone's up in the attic listening to Stephen Colbert.")
+## Light Hacks
+[![Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.](https://imgs.xkcd.com/comics/light_hacks.png)](https://xkcd.com/2024/ "Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.")
 
 Your daily random xkcd
