@@ -1,4 +1,4 @@
-## Drainage Basins
-[![After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.](https://imgs.xkcd.com/comics/drainage_basins.png)](https://xkcd.com/2784/ "After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.")
+## Polls vs the Street
+[![Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.](https://imgs.xkcd.com/comics/polls_vs_the_street.png)](https://xkcd.com/2357/ "Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.")
 
 Your daily random xkcd
