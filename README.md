@@ -1,4 +1,4 @@
-## Common Cold Viruses
-[!["It's not an influenza, but the onset has notes of the '09 H1N1 strain." "Ah yes, that was a good year for H1N1."](https://imgs.xkcd.com/comics/common_cold_viruses.png)](https://xkcd.com/2535/ ""It's not an influenza, but the onset has notes of the '09 H1N1 strain." "Ah yes, that was a good year for H1N1."")
+## 2017
+[![Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.](https://imgs.xkcd.com/comics/2017.png)](https://xkcd.com/1779/ "Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.")
 
 Your daily random xkcd
