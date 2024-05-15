@@ -1,4 +1,4 @@
-## 2017
-[![Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.](https://imgs.xkcd.com/comics/2017.png)](https://xkcd.com/1779/ "Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.")
+## Retractable Rocket
+[![Hard to believe that for so many years once they were fully extended we just let them tip over.](https://imgs.xkcd.com/comics/retractable_rocket.png)](https://xkcd.com/2534/ "Hard to believe that for so many years once they were fully extended we just let them tip over.")
 
 Your daily random xkcd
