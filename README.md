@@ -1,4 +1,4 @@
-## Rejection
-[![Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.](https://imgs.xkcd.com/comics/rejection.png)](https://xkcd.com/1325/ "Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.")
+## Upside-Down Map
+[![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)](https://xkcd.com/1500/ "Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.")
 
 Your daily random xkcd
