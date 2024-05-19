@@ -1,4 +1,4 @@
-## Upside-Down Map
-[![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)](https://xkcd.com/1500/ "Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.")
+## Customer Rewards
+[![We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.](https://imgs.xkcd.com/comics/customer_rewards.png)](https://xkcd.com/2006/ "We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.")
 
 Your daily random xkcd
