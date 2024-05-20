@@ -1,4 +1,4 @@
-## Customer Rewards
-[![We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.](https://imgs.xkcd.com/comics/customer_rewards.png)](https://xkcd.com/2006/ "We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.")
+## Speed and Danger
+[![NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."](https://imgs.xkcd.com/comics/speed_and_danger.png)](https://xkcd.com/1701/ "NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."")
 
 Your daily random xkcd
