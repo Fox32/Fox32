@@ -1,4 +1,4 @@
-## Speed and Danger
-[![NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."](https://imgs.xkcd.com/comics/speed_and_danger.png)](https://xkcd.com/1701/ "NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."")
+## Appliances
+[![If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.](https://imgs.xkcd.com/comics/appliances.png)](https://xkcd.com/2420/ "If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.")
 
 Your daily random xkcd
