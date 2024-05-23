@@ -1,4 +1,4 @@
-## Election Impact Score Sheet
-[![You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.](https://imgs.xkcd.com/comics/election_impact_score_sheet.png)](https://xkcd.com/2380/ "You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.")
+## Amelia's Farm Fresh Cookies
+[![I told her I'd take her address off the packaging if she'd stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies.](https://imgs.xkcd.com/comics/amelias_farm_fresh_cookies.png)](https://xkcd.com/2366/ "I told her I'd take her address off the packaging if she'd stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies.")
 
 Your daily random xkcd
