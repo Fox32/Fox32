@@ -1,4 +1,4 @@
-## Relative Terms
-[![Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.](https://imgs.xkcd.com/comics/relative_terms.png)](https://xkcd.com/2754/ "Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.")
+## Emoticon
+[![U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.](https://imgs.xkcd.com/comics/emoticon.png)](https://xkcd.com/380/ "U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.")
 
 Your daily random xkcd
