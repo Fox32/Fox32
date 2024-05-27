@@ -1,4 +1,4 @@
-## Emoticon
-[![U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.](https://imgs.xkcd.com/comics/emoticon.png)](https://xkcd.com/380/ "U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.")
+## Westley's a Dick
+[![Inigo/Buttercup 4eva <3](https://imgs.xkcd.com/comics/westleys_a_dick.png)](https://xkcd.com/549/ "Inigo/Buttercup 4eva <3")
 
 Your daily random xkcd
