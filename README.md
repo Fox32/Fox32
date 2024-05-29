@@ -1,4 +1,4 @@
-## Alternate Universe
-[![As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.](https://imgs.xkcd.com/comics/alternate_universe.png)](https://xkcd.com/1268/ "As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.")
+## Dimensional Chess
+[![In Dimensional Chess, every move is annotated '?!'.](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465/ "In Dimensional Chess, every move is annotated '?!'.")
 
 Your daily random xkcd
