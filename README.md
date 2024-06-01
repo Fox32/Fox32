@@ -1,4 +1,4 @@
-## Meltdown and Spectre
-[![New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)](https://xkcd.com/1938/ "New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.")
+## Juno
+[!["The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."](https://imgs.xkcd.com/comics/juno.png)](https://xkcd.com/1703/ ""The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."")
 
 Your daily random xkcd
