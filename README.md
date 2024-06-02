@@ -1,4 +1,4 @@
-## Juno
-[!["The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."](https://imgs.xkcd.com/comics/juno.png)](https://xkcd.com/1703/ ""The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."")
+## Redshift
+[![So do you have any plans for z=-0.000000000000045?](https://imgs.xkcd.com/comics/redshift.png)](https://xkcd.com/2853/ "So do you have any plans for z=-0.000000000000045?")
 
 Your daily random xkcd
