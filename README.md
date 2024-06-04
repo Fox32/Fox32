@@ -1,4 +1,4 @@
-## Helium Reserve
-[![The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.](https://imgs.xkcd.com/comics/helium_reserve.png)](https://xkcd.com/2766/ "The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.")
+## Recurring Nightmare
+[![Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.](https://imgs.xkcd.com/comics/recurring_nightmare.png)](https://xkcd.com/2285/ "Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.")
 
 Your daily random xkcd
