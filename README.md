@@ -1,4 +1,4 @@
-## Recurring Nightmare
-[![Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.](https://imgs.xkcd.com/comics/recurring_nightmare.png)](https://xkcd.com/2285/ "Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.")
+## Conversation
+[![Later, at home: 'Dear diary: Still can't figure out what to write here ...'](https://imgs.xkcd.com/comics/conversation.png)](https://xkcd.com/1423/ "Later, at home: 'Dear diary: Still can't figure out what to write here ...'")
 
 Your daily random xkcd
