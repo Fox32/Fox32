@@ -1,4 +1,4 @@
-## Conversation
-[![Later, at home: 'Dear diary: Still can't figure out what to write here ...'](https://imgs.xkcd.com/comics/conversation.png)](https://xkcd.com/1423/ "Later, at home: 'Dear diary: Still can't figure out what to write here ...'")
+## Vomiting Emoji
+[![My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.](https://imgs.xkcd.com/comics/vomiting_emoji.png)](https://xkcd.com/1813/ "My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.")
 
 Your daily random xkcd
