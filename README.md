@@ -1,4 +1,4 @@
-## Vomiting Emoji
-[![My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.](https://imgs.xkcd.com/comics/vomiting_emoji.png)](https://xkcd.com/1813/ "My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.")
+## Can't Sleep
+[![If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.](https://imgs.xkcd.com/comics/cant_sleep.png)](https://xkcd.com/571/ "If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.")
 
 Your daily random xkcd
