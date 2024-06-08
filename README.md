@@ -1,4 +1,4 @@
-## Can't Sleep
-[![If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.](https://imgs.xkcd.com/comics/cant_sleep.png)](https://xkcd.com/571/ "If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.")
+## Exploits of a Mom
+[![Her daughter is named Help I'm trapped in a driver's license factory.](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)](https://xkcd.com/327/ "Her daughter is named Help I'm trapped in a driver's license factory.")
 
 Your daily random xkcd
