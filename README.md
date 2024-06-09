@@ -1,4 +1,4 @@
-## Exploits of a Mom
-[![Her daughter is named Help I'm trapped in a driver's license factory.](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)](https://xkcd.com/327/ "Her daughter is named Help I'm trapped in a driver's license factory.")
+## Blagofaire
+[![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)](https://xkcd.com/239/ "Things were better before the Structuring and the Levels.")
 
 Your daily random xkcd
