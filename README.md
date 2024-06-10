@@ -1,4 +1,4 @@
-## Blagofaire
-[![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)](https://xkcd.com/239/ "Things were better before the Structuring and the Levels.")
+## IN UR REALITY
+[![Hey, at least I ran out of staples.](https://imgs.xkcd.com/comics/in_ur_reality.png)](https://xkcd.com/262/ "Hey, at least I ran out of staples.")
 
 Your daily random xkcd
