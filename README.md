@@ -1,4 +1,4 @@
-## IN UR REALITY
-[![Hey, at least I ran out of staples.](https://imgs.xkcd.com/comics/in_ur_reality.png)](https://xkcd.com/262/ "Hey, at least I ran out of staples.")
+## Ineffective Sorts
+[![StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.](https://imgs.xkcd.com/comics/ineffective_sorts.png)](https://xkcd.com/1185/ "StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.")
 
 Your daily random xkcd
