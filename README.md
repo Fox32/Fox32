@@ -1,4 +1,4 @@
-## I Don't Own a TV
-[![Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.](https://imgs.xkcd.com/comics/i_dont_own_a_tv.png)](https://xkcd.com/1299/ "Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.")
+## Black Hole
+[![It also brings all the boys, and everything else, to the yard.](https://imgs.xkcd.com/comics/black_hole.png)](https://xkcd.com/1680/ "It also brings all the boys, and everything else, to the yard.")
 
 Your daily random xkcd
