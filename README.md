@@ -1,4 +1,4 @@
-## 3D Printer
-[![I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.](https://imgs.xkcd.com/comics/3d_printer.png)](https://xkcd.com/924/ "I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.")
+## Loud Sex
+[![Spherical or parabolic reflectors would of course lead to aberrant behavior.](https://imgs.xkcd.com/comics/loud_sex.png)](https://xkcd.com/316/ "Spherical or parabolic reflectors would of course lead to aberrant behavior.")
 
 Your daily random xkcd
