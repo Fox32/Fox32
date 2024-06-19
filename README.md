@@ -1,4 +1,4 @@
-## Worst Hurricane
-[!['Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.](https://imgs.xkcd.com/comics/worst_hurricane.png)](https://xkcd.com/1407/ "'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.")
+## Coupon Code
+[![This also guarantees he won't be one of the ones to get a bobcat.](https://imgs.xkcd.com/comics/coupon_code.png)](https://xkcd.com/837/ "This also guarantees he won't be one of the ones to get a bobcat.")
 
 Your daily random xkcd
