@@ -1,4 +1,4 @@
-## Circuit Symbols
-[![A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.](https://imgs.xkcd.com/comics/circuit_symbols.png)](https://xkcd.com/2818/ "A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.")
+## Two Key System
+[![Our company can be your one-stop shop for decentralization.](https://imgs.xkcd.com/comics/two_key_system.png)](https://xkcd.com/2677/ "Our company can be your one-stop shop for decentralization.")
 
 Your daily random xkcd
