@@ -1,4 +1,4 @@
-## Intervocalic Fortition
-[![These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."](https://imgs.xkcd.com/comics/intervocalic_fortition.png)](https://xkcd.com/1697/ "These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."")
+## Unsubscribe Message
+[![A mix of the two is even worse: 'Thanks for unsubscribing and helping us pare this list down to reliable supporters.'](https://imgs.xkcd.com/comics/unsubscribe_message.png)](https://xkcd.com/2257/ "A mix of the two is even worse: 'Thanks for unsubscribing and helping us pare this list down to reliable supporters.'")
 
 Your daily random xkcd
