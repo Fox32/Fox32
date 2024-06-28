@@ -1,4 +1,4 @@
-## Curiosity
-[![As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.](https://imgs.xkcd.com/comics/curiosity.png)](https://xkcd.com/1091/ "As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.")
+## Katamari
+[![As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'](https://imgs.xkcd.com/comics/katamari.jpg)](https://xkcd.com/83/ "As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'")
 
 Your daily random xkcd
