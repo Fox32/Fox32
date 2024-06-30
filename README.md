@@ -1,4 +1,4 @@
-## Dark Flow
-[![The Pioneer anomaly is due to the force of my love.](https://imgs.xkcd.com/comics/dark_flow.png)](https://xkcd.com/502/ "The Pioneer anomaly is due to the force of my love.")
+## 30 Days Hath September
+[![There's a cool mental calculation hack I recently learned for this: If you open the calendar app on your phone or computer, the highest-numbered box along the bottom is equal to the number of days in the month!](https://imgs.xkcd.com/comics/30_days_hath_september.png)](https://xkcd.com/1595/ "There's a cool mental calculation hack I recently learned for this: If you open the calendar app on your phone or computer, the highest-numbered box along the bottom is equal to the number of days in the month!")
 
 Your daily random xkcd
