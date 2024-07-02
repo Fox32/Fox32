@@ -1,4 +1,4 @@
-## Bee Orchid
-[![In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.](https://imgs.xkcd.com/comics/bee_orchid.png)](https://xkcd.com/1259/ "In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.")
+## Motion Blur
+[![I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.](https://imgs.xkcd.com/comics/motion_blur.png)](https://xkcd.com/2628/ "I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.")
 
 Your daily random xkcd
