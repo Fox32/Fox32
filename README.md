@@ -1,4 +1,4 @@
-## Motion Blur
-[![I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.](https://imgs.xkcd.com/comics/motion_blur.png)](https://xkcd.com/2628/ "I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.")
+## Elefino
+[![Hell if I know](https://imgs.xkcd.com/comics/elefino.jpg)](https://xkcd.com/28/ "Hell if I know")
 
 Your daily random xkcd
