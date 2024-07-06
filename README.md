@@ -1,4 +1,4 @@
-## Like I'm Five
-[!['Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'](https://imgs.xkcd.com/comics/like_im_five.png)](https://xkcd.com/1364/ "'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'")
+## Profile Info
+[![It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.](https://imgs.xkcd.com/comics/profile_info.png)](https://xkcd.com/1303/ "It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.")
 
 Your daily random xkcd
