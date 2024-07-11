@@ -1,4 +1,4 @@
-## Malamanteau
-[![The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.](https://imgs.xkcd.com/comics/malamanteau.png)](https://xkcd.com/739/ "The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.")
+## The Six Platonic Solids
+[![Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)](https://xkcd.com/2781/ "Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.")
 
 Your daily random xkcd
