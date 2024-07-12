@@ -1,4 +1,4 @@
-## The Six Platonic Solids
-[![Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)](https://xkcd.com/2781/ "Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.")
+## H-alpha
+[!["All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron."](https://imgs.xkcd.com/comics/h_alpha.png)](https://xkcd.com/2484/ ""All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron."")
 
 Your daily random xkcd
