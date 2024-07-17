@@ -1,4 +1,4 @@
-## Back to the Future
-[![He's kind of an asshole, when you think about it](https://imgs.xkcd.com/comics/back_to_the_future.jpg)](https://xkcd.com/102/ "He's kind of an asshole, when you think about it")
+## Who Sends the First Text?
+[![I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.](https://imgs.xkcd.com/comics/who_sends_the_first_text.png)](https://xkcd.com/2065/ "I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.")
 
 Your daily random xkcd
