@@ -1,4 +1,4 @@
-## Fiction Rule of Thumb
-[![Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.](https://imgs.xkcd.com/comics/fiction_rule_of_thumb.png)](https://xkcd.com/483/ "Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.")
+## Skynet
+[!['YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'](https://imgs.xkcd.com/comics/skynet.png)](https://xkcd.com/1046/ "'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'")
 
 Your daily random xkcd
