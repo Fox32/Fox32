@@ -1,4 +1,4 @@
-## Debugger
-[![It can take a site a while to figure out that there's a problem with their 'report a bug' form.](https://imgs.xkcd.com/comics/debugger.png)](https://xkcd.com/1163/ "It can take a site a while to figure out that there's a problem with their 'report a bug' form.")
+## New Horizons
+[![Last-minute course change: Let's see if we can hit Steve's house.](https://imgs.xkcd.com/comics/new_horizons.png)](https://xkcd.com/1532/ "Last-minute course change: Let's see if we can hit Steve's house.")
 
 Your daily random xkcd
