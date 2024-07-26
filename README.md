@@ -1,4 +1,4 @@
-## New Horizons
-[![Last-minute course change: Let's see if we can hit Steve's house.](https://imgs.xkcd.com/comics/new_horizons.png)](https://xkcd.com/1532/ "Last-minute course change: Let's see if we can hit Steve's house.")
+## All You Can Eat
+[![After my absent-mindedness resulted in a bad posterboard-related stomachache, I learned to do the sign-making place last.](https://imgs.xkcd.com/comics/all_you_can_eat.png)](https://xkcd.com/1795/ "After my absent-mindedness resulted in a bad posterboard-related stomachache, I learned to do the sign-making place last.")
 
 Your daily random xkcd
