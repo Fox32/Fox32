@@ -1,4 +1,4 @@
-## All You Can Eat
-[![After my absent-mindedness resulted in a bad posterboard-related stomachache, I learned to do the sign-making place last.](https://imgs.xkcd.com/comics/all_you_can_eat.png)](https://xkcd.com/1795/ "After my absent-mindedness resulted in a bad posterboard-related stomachache, I learned to do the sign-making place last.")
+## Ineffective Sorts
+[![StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.](https://imgs.xkcd.com/comics/ineffective_sorts.png)](https://xkcd.com/1185/ "StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.")
 
 Your daily random xkcd
