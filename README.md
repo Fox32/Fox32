@@ -1,4 +1,4 @@
-## Gastroenterology
-[!["Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."](https://imgs.xkcd.com/comics/gastroenterology.png)](https://xkcd.com/2177/ ""Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."")
+## Two-Party System
+[![I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.](https://imgs.xkcd.com/comics/two_party_system.png)](https://xkcd.com/661/ "I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.")
 
 Your daily random xkcd
