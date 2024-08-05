@@ -1,4 +1,4 @@
-## Woosh
-[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
+## Join Myspace
+[![I really shouldn't abuse that power so heavily.](https://imgs.xkcd.com/comics/join_myspace.png)](https://xkcd.com/146/ "I really shouldn't abuse that power so heavily.")
 
 Your daily random xkcd
