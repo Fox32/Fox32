@@ -1,4 +1,4 @@
-## Budget News
-[![I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'](https://imgs.xkcd.com/comics/budget_news.png)](https://xkcd.com/1062/ "I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'")
+## Bonding
+[![I'm trying to build character but Eclipse is really confusing.](https://imgs.xkcd.com/comics/bonding.png)](https://xkcd.com/1188/ "I'm trying to build character but Eclipse is really confusing.")
 
 Your daily random xkcd
