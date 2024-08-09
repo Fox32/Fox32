@@ -1,4 +1,4 @@
-## Blanket Fort
-[![Also, we have a fort out in the woods where we stashed that hooker's body.](https://imgs.xkcd.com/comics/blanket_fort.png)](https://xkcd.com/219/ "Also, we have a fort out in the woods where we stashed that hooker's body.")
+## TSP vs TBSP
+[![It's like one teraspoon / when all you need is a kilonife](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)](https://xkcd.com/2526/ "It's like one teraspoon / when all you need is a kilonife")
 
 Your daily random xkcd
