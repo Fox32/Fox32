@@ -1,4 +1,4 @@
-## TSP vs TBSP
-[![It's like one teraspoon / when all you need is a kilonife](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)](https://xkcd.com/2526/ "It's like one teraspoon / when all you need is a kilonife")
+## Security Advice
+[![Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.](https://imgs.xkcd.com/comics/security_advice.png)](https://xkcd.com/1820/ "Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.")
 
 Your daily random xkcd
