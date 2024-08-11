@@ -1,4 +1,4 @@
-## Security Advice
-[![Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.](https://imgs.xkcd.com/comics/security_advice.png)](https://xkcd.com/1820/ "Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.")
+## Edge Cake
+[![Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549/ "Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.")
 
 Your daily random xkcd
