@@ -1,4 +1,4 @@
-## Chemistry Nobel
-[![Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.](https://imgs.xkcd.com/comics/chemistry_nobel.png)](https://xkcd.com/2214/ "Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.")
+## ContextBot
+[![If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.](https://imgs.xkcd.com/comics/contextbot.png)](https://xkcd.com/1085/ "If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.")
 
 Your daily random xkcd
