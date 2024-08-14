@@ -1,4 +1,4 @@
-## ContextBot
-[![If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.](https://imgs.xkcd.com/comics/contextbot.png)](https://xkcd.com/1085/ "If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.")
+## Days of the Week
+[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
 
 Your daily random xkcd
