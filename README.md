@@ -1,4 +1,4 @@
-## Days of the Week
-[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
+## Commitment
+[![Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.](https://imgs.xkcd.com/comics/commitment.png)](https://xkcd.com/310/ "Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.")
 
 Your daily random xkcd
