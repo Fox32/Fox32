@@ -1,4 +1,4 @@
-## Commitment
-[![Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.](https://imgs.xkcd.com/comics/commitment.png)](https://xkcd.com/310/ "Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.")
+## Roman Numerals
+[![100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?](https://imgs.xkcd.com/comics/roman_numerals.png)](https://xkcd.com/2637/ "100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?")
 
 Your daily random xkcd
