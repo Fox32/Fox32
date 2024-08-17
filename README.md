@@ -1,4 +1,4 @@
-## Roman Numerals
-[![100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?](https://imgs.xkcd.com/comics/roman_numerals.png)](https://xkcd.com/2637/ "100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?")
+## Appliance Repair
+[![[holding up a three-phase motor] As you can see here, the problem is that the humidifier I took this from is broken.](https://imgs.xkcd.com/comics/appliance_repair.png)](https://xkcd.com/1780/ "[holding up a three-phase motor] As you can see here, the problem is that the humidifier I took this from is broken.")
 
 Your daily random xkcd
