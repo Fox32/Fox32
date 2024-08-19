@@ -1,4 +1,4 @@
-## Car Problems
-[![Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.](https://imgs.xkcd.com/comics/car_problems.png)](https://xkcd.com/1014/ "Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.")
+## Can't Sleep
+[![If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.](https://imgs.xkcd.com/comics/cant_sleep.png)](https://xkcd.com/571/ "If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.")
 
 Your daily random xkcd
