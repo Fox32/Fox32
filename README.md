@@ -1,4 +1,4 @@
-## Cougars
-[![If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!](https://imgs.xkcd.com/comics/cougars.png)](https://xkcd.com/999/ "If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!")
+## Caroling
+[![For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.](https://imgs.xkcd.com/comics/caroling.png)](https://xkcd.com/959/ "For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.")
 
 Your daily random xkcd
