@@ -1,4 +1,4 @@
-## Data Quality
-[![[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]](https://imgs.xkcd.com/comics/data_quality.png)](https://xkcd.com/2739/ "[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]")
+## Standing
+[![At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks.](https://imgs.xkcd.com/comics/standing.png)](https://xkcd.com/1329/ "At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks.")
 
 Your daily random xkcd
