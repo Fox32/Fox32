@@ -1,4 +1,4 @@
-## Emoji Movie Reviews
-[![There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.](https://imgs.xkcd.com/comics/emoji_movie_reviews.png)](https://xkcd.com/1870/ "There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.")
+## Argument
+[![The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.](https://imgs.xkcd.com/comics/argument.png)](https://xkcd.com/1166/ "The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.")
 
 Your daily random xkcd
