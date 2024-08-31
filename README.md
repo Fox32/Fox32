@@ -1,4 +1,4 @@
-## Goodhart's Law
-[![[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.](https://imgs.xkcd.com/comics/goodharts_law.png)](https://xkcd.com/2899/ "[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.")
+## The Past
+[![If history has taught us anything, we can use that information to destroy it.](https://imgs.xkcd.com/comics/the_past.png)](https://xkcd.com/1191/ "If history has taught us anything, we can use that information to destroy it.")
 
 Your daily random xkcd
