@@ -1,4 +1,4 @@
-## History
-[![HISTORIANS: We've decided to trim the past down to make things more manageable. Using BCE/CE, would you rather we lose the odd-numbered or even-numbered years?](https://imgs.xkcd.com/comics/history.png)](https://xkcd.com/1979/ "HISTORIANS: We've decided to trim the past down to make things more manageable. Using BCE/CE, would you rather we lose the odd-numbered or even-numbered years?")
+## Linux User at Best Buy
+[![We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.](https://imgs.xkcd.com/comics/linux_user_at_best_buy.png)](https://xkcd.com/272/ "We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.")
 
 Your daily random xkcd
