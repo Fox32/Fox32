@@ -1,4 +1,4 @@
-## Linux User at Best Buy
-[![We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.](https://imgs.xkcd.com/comics/linux_user_at_best_buy.png)](https://xkcd.com/272/ "We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.")
+## Rickrolling Anniversary
+[![Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.](https://imgs.xkcd.com/comics/rickrolling_anniversary.png)](https://xkcd.com/1981/ "Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.")
 
 Your daily random xkcd
