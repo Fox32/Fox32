@@ -1,4 +1,4 @@
-## Rickrolling Anniversary
-[![Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.](https://imgs.xkcd.com/comics/rickrolling_anniversary.png)](https://xkcd.com/1981/ "Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.")
+## Teaching Physics
+[![Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.](https://imgs.xkcd.com/comics/teaching_physics.png)](https://xkcd.com/895/ "Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.")
 
 Your daily random xkcd
