@@ -1,4 +1,4 @@
-## Valentine - Heart
-[![Just pretend you're kidding.](https://imgs.xkcd.com/comics/valentine.jpg)](https://xkcd.com/63/ "Just pretend you're kidding.")
+## Lyrics
+[![To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄](https://imgs.xkcd.com/comics/lyrics.png)](https://xkcd.com/1538/ "To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄")
 
 Your daily random xkcd
