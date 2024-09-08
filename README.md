@@ -1,4 +1,4 @@
-## Lyrics
-[![To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄](https://imgs.xkcd.com/comics/lyrics.png)](https://xkcd.com/1538/ "To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄")
+## Latitude
+[![The G1, especially with the new Android upgrade, is way better than I originally thought.](https://imgs.xkcd.com/comics/latitude.png)](https://xkcd.com/596/ "The G1, especially with the new Android upgrade, is way better than I originally thought.")
 
 Your daily random xkcd
