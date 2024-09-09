@@ -1,4 +1,4 @@
-## Latitude
-[![The G1, especially with the new Android upgrade, is way better than I originally thought.](https://imgs.xkcd.com/comics/latitude.png)](https://xkcd.com/596/ "The G1, especially with the new Android upgrade, is way better than I originally thought.")
+## My Friend Catherine
+[![I can't get any work done because my friend Catherine is sitting on my keyboard.](https://imgs.xkcd.com/comics/my_friend_catherine.png)](https://xkcd.com/1689/ "I can't get any work done because my friend Catherine is sitting on my keyboard.")
 
 Your daily random xkcd
