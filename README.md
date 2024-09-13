@@ -1,4 +1,4 @@
-## 3D
-[![The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.](https://imgs.xkcd.com/comics/3d.png)](https://xkcd.com/848/ "The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.")
+## Blame
+[![I bet if I yell at my scared friends I will feel better.](https://imgs.xkcd.com/comics/blame.png)](https://xkcd.com/1761/ "I bet if I yell at my scared friends I will feel better.")
 
 Your daily random xkcd
