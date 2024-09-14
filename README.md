@@ -1,4 +1,4 @@
-## Blame
-[![I bet if I yell at my scared friends I will feel better.](https://imgs.xkcd.com/comics/blame.png)](https://xkcd.com/1761/ "I bet if I yell at my scared friends I will feel better.")
+## Never Do This
+[![I call Rule 34 on The Secret House.](https://imgs.xkcd.com/comics/never_do_this.png)](https://xkcd.com/860/ "I call Rule 34 on The Secret House.")
 
 Your daily random xkcd
