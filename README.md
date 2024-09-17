@@ -1,4 +1,4 @@
-## Flowers
-[![This is actually pencil on paper, just inverted and colored](https://imgs.xkcd.com/comics/flowers.jpg)](https://xkcd.com/34/ "This is actually pencil on paper, just inverted and colored")
+## Aeris Dies
+[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
 
 Your daily random xkcd
