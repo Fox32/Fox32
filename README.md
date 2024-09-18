@@ -1,4 +1,4 @@
-## Aeris Dies
-[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
+## Kepler
+[![Science joke.  You should probably just move along.](https://imgs.xkcd.com/comics/kepler.jpg)](https://xkcd.com/21/ "Science joke.  You should probably just move along.")
 
 Your daily random xkcd
