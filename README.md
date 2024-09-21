@@ -1,4 +1,4 @@
-## Hitler
-[![So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.](https://imgs.xkcd.com/comics/hitler.jpg)](https://xkcd.com/29/ "So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.")
+## Epistemic Uncertainty
+[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
 
 Your daily random xkcd
