@@ -1,4 +1,4 @@
-## Epistemic Uncertainty
-[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
+## Robot Future
+[![I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to.](https://imgs.xkcd.com/comics/robot_future.png)](https://xkcd.com/1968/ "I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to.")
 
 Your daily random xkcd
