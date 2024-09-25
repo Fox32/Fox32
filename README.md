@@ -1,4 +1,4 @@
-## Reverse Euphemisms
-[![I'm still waiting for a chance to use 'I have to see a man about a horse'.](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/ "I'm still waiting for a chance to use 'I have to see a man about a horse'.")
+## XKeyboarCD
+[![The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.](https://imgs.xkcd.com/comics/xkeyboarcd.png)](https://xkcd.com/2150/ "The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.")
 
 Your daily random xkcd
