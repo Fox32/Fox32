@@ -1,4 +1,4 @@
-## XKeyboarCD
-[![The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.](https://imgs.xkcd.com/comics/xkeyboarcd.png)](https://xkcd.com/2150/ "The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.")
+## Webb
+[![Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.](https://imgs.xkcd.com/comics/webb.png)](https://xkcd.com/2550/ "Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.")
 
 Your daily random xkcd
