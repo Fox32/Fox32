@@ -1,4 +1,4 @@
-## Webb
-[![Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.](https://imgs.xkcd.com/comics/webb.png)](https://xkcd.com/2550/ "Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.")
+## Flatten the Planets
+[![We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.](https://imgs.xkcd.com/comics/flatten_the_planets.png)](https://xkcd.com/2750/ "We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.")
 
 Your daily random xkcd
