@@ -1,4 +1,4 @@
-## Flatten the Planets
-[![We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.](https://imgs.xkcd.com/comics/flatten_the_planets.png)](https://xkcd.com/2750/ "We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.")
+## YouTube Parties
+[![This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.](https://imgs.xkcd.com/comics/youtube_parties.png)](https://xkcd.com/920/ "This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.")
 
 Your daily random xkcd
