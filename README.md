@@ -1,4 +1,4 @@
-## Will It Work
-[!['Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.](https://imgs.xkcd.com/comics/will_it_work.png)](https://xkcd.com/1742/ "'Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.")
+## 2045
+[!["Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."](https://imgs.xkcd.com/comics/2045.png)](https://xkcd.com/2685/ ""Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."")
 
 Your daily random xkcd
