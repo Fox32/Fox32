@@ -1,4 +1,4 @@
-## Voting Referendum
-[![The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.](https://imgs.xkcd.com/comics/voting_referendum.png)](https://xkcd.com/2225/ "The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.")
+## 2
+[![It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.](https://imgs.xkcd.com/comics/2.png)](https://xkcd.com/2614/ "It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.")
 
 Your daily random xkcd
