@@ -1,4 +1,4 @@
-## MarketWatch
-[![Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.](https://imgs.xkcd.com/comics/marketwatch.png)](https://xkcd.com/1600/ "Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.")
+## Purity
+[![On the other hand, physicists like to say physics is to math as sex is to masturbation.](https://imgs.xkcd.com/comics/purity.png)](https://xkcd.com/435/ "On the other hand, physicists like to say physics is to math as sex is to masturbation.")
 
 Your daily random xkcd
