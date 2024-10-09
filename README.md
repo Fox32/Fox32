@@ -1,4 +1,4 @@
-## Purity
-[![On the other hand, physicists like to say physics is to math as sex is to masturbation.](https://imgs.xkcd.com/comics/purity.png)](https://xkcd.com/435/ "On the other hand, physicists like to say physics is to math as sex is to masturbation.")
+## Headlines
+[![1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]](https://imgs.xkcd.com/comics/headlines.png)](https://xkcd.com/1283/ "1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]")
 
 Your daily random xkcd
