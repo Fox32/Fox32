@@ -1,4 +1,4 @@
-## Headlines
-[![1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]](https://imgs.xkcd.com/comics/headlines.png)](https://xkcd.com/1283/ "1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]")
+## Contact Merge
+[![I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.](https://imgs.xkcd.com/comics/contact_merge.png)](https://xkcd.com/2801/ "I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.")
 
 Your daily random xkcd
