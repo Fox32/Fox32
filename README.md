@@ -1,4 +1,4 @@
-## Contact Merge
-[![I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.](https://imgs.xkcd.com/comics/contact_merge.png)](https://xkcd.com/2801/ "I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.")
+## Family Decals
+[![My decal set has no adults, just a sea of hundreds of the little girl figures closing in around a single cat.](https://imgs.xkcd.com/comics/family_decals.png)](https://xkcd.com/946/ "My decal set has no adults, just a sea of hundreds of the little girl figures closing in around a single cat.")
 
 Your daily random xkcd
