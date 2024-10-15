@@ -1,4 +1,4 @@
-## AAAAAA
-[!['ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'](https://imgs.xkcd.com/comics/aaaaaa.png)](https://xkcd.com/1001/ "'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'")
+## Guest Week: Jeffrey Rowland (Overcompensating)
+[![Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)](https://xkcd.com/825/ "Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.")
 
 Your daily random xkcd
