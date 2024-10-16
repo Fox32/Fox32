@@ -1,4 +1,4 @@
-## Guest Week: Jeffrey Rowland (Overcompensating)
-[![Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)](https://xkcd.com/825/ "Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.")
+## Color Codes
+[![(It's the TMBG Dial-a-Song line, to save you some time.)](https://imgs.xkcd.com/comics/color_codes.png)](https://xkcd.com/227/ "(It's the TMBG Dial-a-Song line, to save you some time.)")
 
 Your daily random xkcd
