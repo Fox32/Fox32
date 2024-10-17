@@ -1,4 +1,4 @@
-## Color Codes
-[![(It's the TMBG Dial-a-Song line, to save you some time.)](https://imgs.xkcd.com/comics/color_codes.png)](https://xkcd.com/227/ "(It's the TMBG Dial-a-Song line, to save you some time.)")
+## Driving Cars
+[![It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!](https://imgs.xkcd.com/comics/driving_cars.png)](https://xkcd.com/1990/ "It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!")
 
 Your daily random xkcd
