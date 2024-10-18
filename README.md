@@ -1,4 +1,4 @@
-## Driving Cars
-[![It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!](https://imgs.xkcd.com/comics/driving_cars.png)](https://xkcd.com/1990/ "It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!")
+## Paperwork
+[![Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.](https://imgs.xkcd.com/comics/paperwork.png)](https://xkcd.com/1977/ "Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.")
 
 Your daily random xkcd
