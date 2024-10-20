@@ -1,4 +1,4 @@
-## Ballooning
-[![Time to dance in front of Mary Jane! If I'm lucky, she'll turn out not to practice pre-copulatory sexual cannibalism!](https://imgs.xkcd.com/comics/ballooning.png)](https://xkcd.com/1415/ "Time to dance in front of Mary Jane! If I'm lucky, she'll turn out not to practice pre-copulatory sexual cannibalism!")
+## Nothing to Offer
+[![cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.](https://imgs.xkcd.com/comics/nothing_to_offer.png)](https://xkcd.com/1148/ "cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.")
 
 Your daily random xkcd
