@@ -1,4 +1,4 @@
-## XKCDE
-[![4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land](https://imgs.xkcd.com/comics/xkcde.png)](https://xkcd.com/1764/ "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land")
+## Pod Bay Doors
+[![As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.](https://imgs.xkcd.com/comics/pod_bay_doors.png)](https://xkcd.com/375/ "As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.")
 
 Your daily random xkcd
