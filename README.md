@@ -1,4 +1,4 @@
-## Pod Bay Doors
-[![As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.](https://imgs.xkcd.com/comics/pod_bay_doors.png)](https://xkcd.com/375/ "As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.")
+## Diffraction Spikes
+[![Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.](https://imgs.xkcd.com/comics/diffraction_spikes.png)](https://xkcd.com/2762/ "Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.")
 
 Your daily random xkcd
