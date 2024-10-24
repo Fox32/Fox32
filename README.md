@@ -1,4 +1,4 @@
-## Diffraction Spikes
-[![Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.](https://imgs.xkcd.com/comics/diffraction_spikes.png)](https://xkcd.com/2762/ "Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.")
+## With Apologies to Robert Frost
+[![Some say the world will end in fire; some say in segfaults.](https://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png)](https://xkcd.com/312/ "Some say the world will end in fire; some say in segfaults.")
 
 Your daily random xkcd
