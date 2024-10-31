@@ -1,4 +1,4 @@
-## 90's Flowchart
-[![Freestyle rapping is basically applied Markov chains.](https://imgs.xkcd.com/comics/90s_flowchart.png)](https://xkcd.com/210/ "Freestyle rapping is basically applied Markov chains.")
+## Scary Triangles
+[![Concealed mostly beneath the surface, sharks are the icebergs of the sea.](https://imgs.xkcd.com/comics/scary_triangles.png)](https://xkcd.com/2923/ "Concealed mostly beneath the surface, sharks are the icebergs of the sea.")
 
 Your daily random xkcd
