@@ -1,4 +1,4 @@
-## Scary Triangles
-[![Concealed mostly beneath the surface, sharks are the icebergs of the sea.](https://imgs.xkcd.com/comics/scary_triangles.png)](https://xkcd.com/2923/ "Concealed mostly beneath the surface, sharks are the icebergs of the sea.")
+## Nerd Girls
+[![Nothing personal, high schoolers.](https://imgs.xkcd.com/comics/nerd_girls.jpg)](https://xkcd.com/67/ "Nothing personal, high schoolers.")
 
 Your daily random xkcd
