@@ -1,4 +1,4 @@
-## Anti-Glass
-[!['Why don't you just point it at their eye directly?' 'What is this, 2007?'](https://imgs.xkcd.com/comics/anti_glass.png)](https://xkcd.com/1251/ "'Why don't you just point it at their eye directly?' 'What is this, 2007?'")
+## Focus Knob
+[![Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.](https://imgs.xkcd.com/comics/focus_knob.png)](https://xkcd.com/1796/ "Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.")
 
 Your daily random xkcd
