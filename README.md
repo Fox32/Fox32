@@ -1,4 +1,4 @@
-## Focus Knob
-[![Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.](https://imgs.xkcd.com/comics/focus_knob.png)](https://xkcd.com/1796/ "Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.")
+## Actually
+[![Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.](https://imgs.xkcd.com/comics/actually.png)](https://xkcd.com/1318/ "Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.")
 
 Your daily random xkcd
