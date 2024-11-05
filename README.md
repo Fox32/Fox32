@@ -1,4 +1,4 @@
-## Actually
-[![Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.](https://imgs.xkcd.com/comics/actually.png)](https://xkcd.com/1318/ "Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.")
+## Selection Effect
+[![fMRI testing showed that subjects who don't agree to participate are much more likely to escape from the machine mid-scan.](https://imgs.xkcd.com/comics/selection_effect.png)](https://xkcd.com/1999/ "fMRI testing showed that subjects who don't agree to participate are much more likely to escape from the machine mid-scan.")
 
 Your daily random xkcd
