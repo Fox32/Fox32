@@ -1,4 +1,4 @@
-## Desert Island
-[![Telescopes and bathyscaphes and sonar probes of Scottish lakes, Tacoma Narrows bridge collapse explained with abstract phase-space maps, some x-ray slides, a music score, Minard's Napoleonic war: the most exciting new frontier is charting what's already here.](https://imgs.xkcd.com/comics/desert_island.png)](https://xkcd.com/731/ "Telescopes and bathyscaphes and sonar probes of Scottish lakes, Tacoma Narrows bridge collapse explained with abstract phase-space maps, some x-ray slides, a music score, Minard's Napoleonic war: the most exciting new frontier is charting what's already here.")
+## Privacy Opinions
+[![I'm the Philosopher until someone hands me a burrito.](https://imgs.xkcd.com/comics/privacy_opinions.png)](https://xkcd.com/1269/ "I'm the Philosopher until someone hands me a burrito.")
 
 Your daily random xkcd
