@@ -1,4 +1,4 @@
-## Privacy Opinions
-[![I'm the Philosopher until someone hands me a burrito.](https://imgs.xkcd.com/comics/privacy_opinions.png)](https://xkcd.com/1269/ "I'm the Philosopher until someone hands me a burrito.")
+## Turnabout
+[![Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.](https://imgs.xkcd.com/comics/turnabout.png)](https://xkcd.com/1441/ "Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.")
 
 Your daily random xkcd
