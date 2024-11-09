@@ -1,4 +1,4 @@
-## Turnabout
-[![Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.](https://imgs.xkcd.com/comics/turnabout.png)](https://xkcd.com/1441/ "Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.")
+## PGP
+[![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)](https://xkcd.com/1181/ "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.")
 
 Your daily random xkcd
