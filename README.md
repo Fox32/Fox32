@@ -1,4 +1,4 @@
-## Apollo Speeches
-[![While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.](https://imgs.xkcd.com/comics/apollo_speeches.png)](https://xkcd.com/1484/ "While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.")
+## Interferometry
+[![It's important to note that while the effective size of the dog can be arbitrarily large, it's not any more of a good dog than the two original dogs.](https://imgs.xkcd.com/comics/interferometry.png)](https://xkcd.com/1922/ "It's important to note that while the effective size of the dog can be arbitrarily large, it's not any more of a good dog than the two original dogs.")
 
 Your daily random xkcd
