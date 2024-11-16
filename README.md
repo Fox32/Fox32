@@ -1,4 +1,4 @@
-## Wanna See the Code?
-[![And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.](https://imgs.xkcd.com/comics/wanna_see_the_code.png)](https://xkcd.com/2138/ "And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.")
+## Effect an Effect
+[![Time to paint another grammarian silhouette on the side of the desktop.](https://imgs.xkcd.com/comics/effect_an_effect.png)](https://xkcd.com/326/ "Time to paint another grammarian silhouette on the side of the desktop.")
 
 Your daily random xkcd
