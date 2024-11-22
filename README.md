@@ -1,4 +1,4 @@
-## Captain Picard Tea Order
-[![We can ask the Earl for his order once he's fully extruded from the dispenser.](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)](https://xkcd.com/2570/ "We can ask the Earl for his order once he's fully extruded from the dispenser.")
+## Know Your Vines
+[![Friggin' modern tents don't have a single piece of rope.](https://imgs.xkcd.com/comics/know_your_vines.png)](https://xkcd.com/443/ "Friggin' modern tents don't have a single piece of rope.")
 
 Your daily random xkcd
