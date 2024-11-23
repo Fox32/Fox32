@@ -1,4 +1,4 @@
-## Know Your Vines
-[![Friggin' modern tents don't have a single piece of rope.](https://imgs.xkcd.com/comics/know_your_vines.png)](https://xkcd.com/443/ "Friggin' modern tents don't have a single piece of rope.")
+## X11
+[![Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.](https://imgs.xkcd.com/comics/x11.png)](https://xkcd.com/963/ "Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.")
 
 Your daily random xkcd
