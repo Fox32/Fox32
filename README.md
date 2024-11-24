@@ -1,4 +1,4 @@
-## X11
-[![Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.](https://imgs.xkcd.com/comics/x11.png)](https://xkcd.com/963/ "Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.")
+## Internal Monologue
+[![Oh right, eye contact. Ok, good, holding the eye contact ... holding ... still holding ... ok, too long! Getting weird! Quick, look thoughtfully into space and nod. Oh, dammit, said 'yeah' again!](https://imgs.xkcd.com/comics/internal_monologue.png)](https://xkcd.com/1089/ "Oh right, eye contact. Ok, good, holding the eye contact ... holding ... still holding ... ok, too long! Getting weird! Quick, look thoughtfully into space and nod. Oh, dammit, said 'yeah' again!")
 
 Your daily random xkcd
