@@ -1,4 +1,4 @@
-## Internal Monologue
-[![Oh right, eye contact. Ok, good, holding the eye contact ... holding ... still holding ... ok, too long! Getting weird! Quick, look thoughtfully into space and nod. Oh, dammit, said 'yeah' again!](https://imgs.xkcd.com/comics/internal_monologue.png)](https://xkcd.com/1089/ "Oh right, eye contact. Ok, good, holding the eye contact ... holding ... still holding ... ok, too long! Getting weird! Quick, look thoughtfully into space and nod. Oh, dammit, said 'yeah' again!")
+## Appendicitis
+[![Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.](https://imgs.xkcd.com/comics/appendicitis.png)](https://xkcd.com/2147/ "Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.")
 
 Your daily random xkcd
