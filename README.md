@@ -1,4 +1,4 @@
-## Appendicitis
-[![Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.](https://imgs.xkcd.com/comics/appendicitis.png)](https://xkcd.com/2147/ "Fortunately, after a brief skirmish, I seem to have gained the upper hand in the battle against my internal organs, at least until they learn to read and find out the mean stuff I've said about them.")
+## Geohydrotypography
+[![The Atlantic is expanding at about 10 ppm (points per month).](https://imgs.xkcd.com/comics/geohydrotypography.png)](https://xkcd.com/2803/ "The Atlantic is expanding at about 10 ppm (points per month).")
 
 Your daily random xkcd
