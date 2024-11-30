@@ -1,4 +1,4 @@
-## Coronavirus Genome 2
-[![[moments later, checking phone] Okay, I agree my posting it was weird, but it's somehow even more unnerving that you immediately liked the post.](https://imgs.xkcd.com/comics/coronavirus_genome_2.png)](https://xkcd.com/2299/ "[moments later, checking phone] Okay, I agree my posting it was weird, but it's somehow even more unnerving that you immediately liked the post.")
+## Carbonated Beverage Language Map
+[![There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.](https://imgs.xkcd.com/comics/carbonated_beverage_language_map.png)](https://xkcd.com/2108/ "There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.")
 
 Your daily random xkcd
