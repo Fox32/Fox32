@@ -1,4 +1,4 @@
-## Carbonated Beverage Language Map
-[![There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.](https://imgs.xkcd.com/comics/carbonated_beverage_language_map.png)](https://xkcd.com/2108/ "There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.")
+## New Car
+[![Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.](https://imgs.xkcd.com/comics/new_car.png)](https://xkcd.com/570/ "Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.")
 
 Your daily random xkcd
