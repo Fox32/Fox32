@@ -1,4 +1,4 @@
-## Kite
-[![It's easy to regret your awkward conversations but hard to regret the ones you didn't have.](https://imgs.xkcd.com/comics/kite.jpg)](https://xkcd.com/235/ "It's easy to regret your awkward conversations but hard to regret the ones you didn't have.")
+## City
+[![God, she's such a whore.](https://imgs.xkcd.com/comics/city.jpg)](https://xkcd.com/116/ "God, she's such a whore.")
 
 Your daily random xkcd
