@@ -1,4 +1,4 @@
-## Wikifriends
-[![It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.](https://imgs.xkcd.com/comics/wikifriends.png)](https://xkcd.com/185/ "It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.")
+## Shake That
+[![How do I work it? IT'S ALREADY WORKING!](https://imgs.xkcd.com/comics/shake_that.png)](https://xkcd.com/1261/ "How do I work it? IT'S ALREADY WORKING!")
 
 Your daily random xkcd
