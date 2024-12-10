@@ -1,4 +1,4 @@
-## Helium Synthesis
-[![Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.](https://imgs.xkcd.com/comics/helium_synthesis.png)](https://xkcd.com/2972/ "Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.")
+## Superzoom
+[![*click* Let him know he's got a stain on his shirt, though.](https://imgs.xkcd.com/comics/superzoom.png)](https://xkcd.com/1719/ "*click* Let him know he's got a stain on his shirt, though.")
 
 Your daily random xkcd
