@@ -1,4 +1,4 @@
-## Salvage
-[![My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/ "My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.")
+## Normal Conversation
+[!["I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason](https://imgs.xkcd.com/comics/normal_conversation.png)](https://xkcd.com/2424/ ""I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason")
 
 Your daily random xkcd
