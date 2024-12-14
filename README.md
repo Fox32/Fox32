@@ -1,4 +1,4 @@
-## Explorers
-[![We're going to have to work together to get over our hangups if we're going to learn to move on Catan's hexagonal grid. It's bad enough that we lost our crew of pawns when we passed within firing range of Battleship.](https://imgs.xkcd.com/comics/explorers.png)](https://xkcd.com/839/ "We're going to have to work together to get over our hangups if we're going to learn to move on Catan's hexagonal grid. It's bad enough that we lost our crew of pawns when we passed within firing range of Battleship.")
+## Division Notation
+[![Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!](https://imgs.xkcd.com/comics/division_notation.png)](https://xkcd.com/2687/ "Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!")
 
 Your daily random xkcd
