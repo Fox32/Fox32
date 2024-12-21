@@ -1,4 +1,4 @@
-## Avoidance
-[![Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.](https://imgs.xkcd.com/comics/avoidance.png)](https://xkcd.com/615/ "Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.")
+## Lorenz
+[![Every choice, no matter how small, begins a new story.](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)](https://xkcd.com/1350/ "Every choice, no matter how small, begins a new story.")
 
 Your daily random xkcd
