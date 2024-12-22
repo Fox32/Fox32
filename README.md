@@ -1,4 +1,4 @@
-## Lorenz
-[![Every choice, no matter how small, begins a new story.](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)](https://xkcd.com/1350/ "Every choice, no matter how small, begins a new story.")
+## Barrel - Part 4
+[![:(](https://imgs.xkcd.com/comics/barrel_part_4.jpg)](https://xkcd.com/25/ ":(")
 
 Your daily random xkcd
