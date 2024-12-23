@@ -1,4 +1,4 @@
-## Barrel - Part 4
-[![:(](https://imgs.xkcd.com/comics/barrel_part_4.jpg)](https://xkcd.com/25/ ":(")
+## Cryptic Wifi Networks
+[![They actually showed up on the first scan by the first WiFi-capable device.](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)](https://xkcd.com/2199/ "They actually showed up on the first scan by the first WiFi-capable device.")
 
 Your daily random xkcd
