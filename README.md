@@ -1,4 +1,4 @@
-## Cryptic Wifi Networks
-[![They actually showed up on the first scan by the first WiFi-capable device.](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)](https://xkcd.com/2199/ "They actually showed up on the first scan by the first WiFi-capable device.")
+## Moving
+[![We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.](https://imgs.xkcd.com/comics/moving.png)](https://xkcd.com/466/ "We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.")
 
 Your daily random xkcd
