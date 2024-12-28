@@ -1,4 +1,4 @@
-## Ground vs Air
-[![Water is thinner than both, and fire is *definitely* thicker.](https://imgs.xkcd.com/comics/ground_vs_air.png)](https://xkcd.com/2242/ "Water is thinner than both, and fire is *definitely* thicker.")
+## Mu
+[![As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.](https://imgs.xkcd.com/comics/mu.png)](https://xkcd.com/815/ "As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.")
 
 Your daily random xkcd
