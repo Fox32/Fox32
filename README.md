@@ -1,4 +1,4 @@
-## Adam and Eve
-[![Abel and Steve would've been fine! I like Steve!](https://imgs.xkcd.com/comics/adam_and_eve.png)](https://xkcd.com/1003/ "Abel and Steve would've been fine! I like Steve!")
+## Perspective
+[![I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.](https://imgs.xkcd.com/comics/perspective.png)](https://xkcd.com/198/ "I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.")
 
 Your daily random xkcd
