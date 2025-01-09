@@ -1,4 +1,4 @@
-## 1996
-[![College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything ... but friends. (Although with my chatterbot experiments, I certainly tried.)](https://imgs.xkcd.com/comics/1996.png)](https://xkcd.com/768/ "College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything ... but friends. (Although with my chatterbot experiments, I certainly tried.)")
+## Digits
+[![It's taken me 20 years to get over skyline tetris.](https://imgs.xkcd.com/comics/digits.png)](https://xkcd.com/1344/ "It's taken me 20 years to get over skyline tetris.")
 
 Your daily random xkcd
