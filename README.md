@@ -1,4 +1,4 @@
-## Thermostat
-[![Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.](https://imgs.xkcd.com/comics/thermostat.png)](https://xkcd.com/1912/ "Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.")
+## Bad Timing
+[![Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.](https://imgs.xkcd.com/comics/bad_timing.png)](https://xkcd.com/427/ "Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.")
 
 Your daily random xkcd
