@@ -1,4 +1,4 @@
-## Exoplanet Names 2
-[![I'm going to drive this Netherlands joke so far into the ground they'll have to build levees around it to keep the sea out.](https://imgs.xkcd.com/comics/exoplanet_names_2.png)](https://xkcd.com/1555/ "I'm going to drive this Netherlands joke so far into the ground they'll have to build levees around it to keep the sea out.")
+## Unsatisfied
+[![Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.](https://imgs.xkcd.com/comics/unsatisfied.png)](https://xkcd.com/584/ "Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.")
 
 Your daily random xkcd
