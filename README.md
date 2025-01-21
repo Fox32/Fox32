@@ -1,4 +1,4 @@
-## Unsatisfied
-[![Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.](https://imgs.xkcd.com/comics/unsatisfied.png)](https://xkcd.com/584/ "Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.")
+## Dream Girl
+[![No matter how elaborately you fool yourself.](https://imgs.xkcd.com/comics/dream_girl.png)](https://xkcd.com/240/ "No matter how elaborately you fool yourself.")
 
 Your daily random xkcd
