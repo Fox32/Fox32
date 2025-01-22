@@ -1,4 +1,4 @@
-## Dream Girl
-[![No matter how elaborately you fool yourself.](https://imgs.xkcd.com/comics/dream_girl.png)](https://xkcd.com/240/ "No matter how elaborately you fool yourself.")
+## Google Announcement
+[![The less popular 8.8.4.4 is slated for discontinuation.](https://imgs.xkcd.com/comics/google_announcement.png)](https://xkcd.com/1361/ "The less popular 8.8.4.4 is slated for discontinuation.")
 
 Your daily random xkcd
