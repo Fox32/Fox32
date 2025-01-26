@@ -1,4 +1,4 @@
-## Tamagotchi Hive
-[![The Singularity happened, but not to us.](https://imgs.xkcd.com/comics/tamagotchi_hive.png)](https://xkcd.com/1546/ "The Singularity happened, but not to us.")
+## Alien Theories
+[![They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.](https://imgs.xkcd.com/comics/alien_theories.png)](https://xkcd.com/2953/ "They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.")
 
 Your daily random xkcd
