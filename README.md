@@ -1,4 +1,4 @@
-## I Am Not Good with Boomerangs
-[![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/ "Bonus strip: just read the rightmost panels straight down. ")
+## CIA
+[![It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...](https://imgs.xkcd.com/comics/cia.png)](https://xkcd.com/932/ "It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...")
 
 Your daily random xkcd
