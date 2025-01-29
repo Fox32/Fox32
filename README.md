@@ -1,4 +1,4 @@
-## CIA
-[![It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...](https://imgs.xkcd.com/comics/cia.png)](https://xkcd.com/932/ "It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...")
+## Relative Terms
+[![Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.](https://imgs.xkcd.com/comics/relative_terms.png)](https://xkcd.com/2754/ "Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.")
 
 Your daily random xkcd
