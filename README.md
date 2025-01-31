@@ -1,4 +1,4 @@
-## Christmas Settings
-[![SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]](https://imgs.xkcd.com/comics/christmas_settings.png)](https://xkcd.com/1620/ "SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]")
+## Encryption
+[![WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!](https://imgs.xkcd.com/comics/encryption.png)](https://xkcd.com/2691/ "WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!")
 
 Your daily random xkcd
