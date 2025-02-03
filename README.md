@@ -1,4 +1,4 @@
-## Star Wars
-[![A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...](https://imgs.xkcd.com/comics/star_wars.png)](https://xkcd.com/1477/ "A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...")
+## Nightmare Email Feature
+[!["...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."](https://imgs.xkcd.com/comics/nightmare_email_feature.png)](https://xkcd.com/1915/ ""...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."")
 
 Your daily random xkcd
