@@ -1,4 +1,4 @@
-## Trash
-[![Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.](https://imgs.xkcd.com/comics/trash.png)](https://xkcd.com/1786/ "Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.")
+## Valentine's Day
+[![One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.](https://imgs.xkcd.com/comics/valentines_day.jpg)](https://xkcd.com/223/ "One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.")
 
 Your daily random xkcd
