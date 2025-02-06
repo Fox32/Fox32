@@ -1,4 +1,4 @@
-## Valentine's Day
-[![One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.](https://imgs.xkcd.com/comics/valentines_day.jpg)](https://xkcd.com/223/ "One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.")
+## The Best Camera
+[![The best camera is the one at L2.](https://imgs.xkcd.com/comics/the_best_camera.png)](https://xkcd.com/2645/ "The best camera is the one at L2.")
 
 Your daily random xkcd
