@@ -1,4 +1,4 @@
-## Reverse Euphemisms
-[![I'm still waiting for a chance to use 'I have to see a man about a horse'.](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/ "I'm still waiting for a chance to use 'I have to see a man about a horse'.")
+## Research Account
+[![Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO](https://imgs.xkcd.com/comics/research_account.png)](https://xkcd.com/2894/ "Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO")
 
 Your daily random xkcd
