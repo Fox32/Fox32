@@ -1,4 +1,4 @@
-## Linguistics Degree
-[![You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.](https://imgs.xkcd.com/comics/linguistics_degree.png)](https://xkcd.com/2602/ "You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.")
+## Picking Bad Stocks
+[![On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."](https://imgs.xkcd.com/comics/picking_bad_stocks.png)](https://xkcd.com/2270/ "On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."")
 
 Your daily random xkcd
