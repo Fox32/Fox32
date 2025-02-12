@@ -1,4 +1,4 @@
-## Picking Bad Stocks
-[![On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."](https://imgs.xkcd.com/comics/picking_bad_stocks.png)](https://xkcd.com/2270/ "On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."")
+## Days of the Week
+[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
 
 Your daily random xkcd
