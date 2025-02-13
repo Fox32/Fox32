@@ -1,4 +1,4 @@
-## Days of the Week
-[![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)](https://xkcd.com/930/ "Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.")
+## Cron Mail
+[![Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.](https://imgs.xkcd.com/comics/cron_mail.png)](https://xkcd.com/1728/ "Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.")
 
 Your daily random xkcd
