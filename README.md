@@ -1,4 +1,4 @@
-## Infinite Scrolling
-[![Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.](https://imgs.xkcd.com/comics/infinite_scrolling.png)](https://xkcd.com/1309/ "Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.")
+## Playing Devil's Advocate to Win
+[![There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.](https://imgs.xkcd.com/comics/global_warming.png)](https://xkcd.com/164/ "There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.")
 
 Your daily random xkcd
