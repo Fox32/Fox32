@@ -1,4 +1,4 @@
-## Size Venn Diagram
-[![Terms I'm going to start using: The Large Dipper, great potatoes, the Big Hadron Collider, and Large Orphan Annie.](https://imgs.xkcd.com/comics/size_venn_diagram.png)](https://xkcd.com/2122/ "Terms I'm going to start using: The Large Dipper, great potatoes, the Big Hadron Collider, and Large Orphan Annie.")
+## Form
+[!['This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.](https://imgs.xkcd.com/comics/form.png)](https://xkcd.com/608/ "'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.")
 
 Your daily random xkcd
