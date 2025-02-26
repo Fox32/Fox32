@@ -1,4 +1,4 @@
-## Form
-[!['This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.](https://imgs.xkcd.com/comics/form.png)](https://xkcd.com/608/ "'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.")
+## Organ Meanings
+[![IMO the thymus is one of the coolest organs and we should really use it in metaphors more.](https://imgs.xkcd.com/comics/organ_meanings.png)](https://xkcd.com/2960/ "IMO the thymus is one of the coolest organs and we should really use it in metaphors more.")
 
 Your daily random xkcd
