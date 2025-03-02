@@ -1,4 +1,4 @@
-## Bridge
-[![And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.](https://imgs.xkcd.com/comics/bridge.png)](https://xkcd.com/1170/ "And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.")
+## Monster
+[![It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb.](https://imgs.xkcd.com/comics/monster.png)](https://xkcd.com/1257/ "It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb.")
 
 Your daily random xkcd
