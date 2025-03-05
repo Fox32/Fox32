@@ -1,4 +1,4 @@
-## Unscientific
-[![Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.](https://imgs.xkcd.com/comics/unscientific.png)](https://xkcd.com/397/ "Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.")
+## Porn For Women
+[![Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!](https://imgs.xkcd.com/comics/porn_for_women.png)](https://xkcd.com/714/ "Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!")
 
 Your daily random xkcd
