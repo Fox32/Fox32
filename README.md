@@ -1,4 +1,4 @@
-## Porn For Women
-[![Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!](https://imgs.xkcd.com/comics/porn_for_women.png)](https://xkcd.com/714/ "Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!")
+## Interdisciplinary
+[![Replace the pendulums with history students and you'll qualify for a grant!](https://imgs.xkcd.com/comics/interdisciplinary.png)](https://xkcd.com/755/ "Replace the pendulums with history students and you'll qualify for a grant!")
 
 Your daily random xkcd
