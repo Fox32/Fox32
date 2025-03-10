@@ -1,4 +1,4 @@
-## OEIS Submissions
-[![SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order](https://imgs.xkcd.com/comics/oeis_submissions.png)](https://xkcd.com/2016/ "SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order")
+## Y-Axis
+[![We've also developed the semi-semi-log scale, where the Y-axis for the left half of the graph is a log scale but on the right half it isn't.](https://imgs.xkcd.com/comics/y_axis.png)](https://xkcd.com/2023/ "We've also developed the semi-semi-log scale, where the Y-axis for the left half of the graph is a log scale but on the right half it isn't.")
 
 Your daily random xkcd
