@@ -1,4 +1,4 @@
-## New Bug
-[![There's also a unicode-handling bug in the URL request library, and we're storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!](https://imgs.xkcd.com/comics/new_bug.png)](https://xkcd.com/1700/ "There's also a unicode-handling bug in the URL request library, and we're storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!")
+## Manuals
+[![The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'](https://imgs.xkcd.com/comics/manuals.png)](https://xkcd.com/1343/ "The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'")
 
 Your daily random xkcd
