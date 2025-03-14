@@ -1,4 +1,4 @@
-## Manuals
-[![The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'](https://imgs.xkcd.com/comics/manuals.png)](https://xkcd.com/1343/ "The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'")
+## Phase Change
+[![Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.](https://imgs.xkcd.com/comics/phase_change.png)](https://xkcd.com/3025/ "Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.")
 
 Your daily random xkcd
