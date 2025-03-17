@@ -1,4 +1,4 @@
-## Upside-Down Map
-[![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)](https://xkcd.com/1500/ "Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.")
+## Tornado Hunter
+[![The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.](https://imgs.xkcd.com/comics/tornado_hunter.png)](https://xkcd.com/640/ "The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.")
 
 Your daily random xkcd
