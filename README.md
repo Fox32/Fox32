@@ -1,4 +1,4 @@
-## Tornado Hunter
-[![The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.](https://imgs.xkcd.com/comics/tornado_hunter.png)](https://xkcd.com/640/ "The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.")
+## It Was I
+[![It me, your father.](https://imgs.xkcd.com/comics/it_was_i.png)](https://xkcd.com/1771/ "It me, your father.")
 
 Your daily random xkcd
