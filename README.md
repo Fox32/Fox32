@@ -1,4 +1,4 @@
-## Rotation
-[![It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671/ "It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.")
+## Impostor
+[![If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.](https://imgs.xkcd.com/comics/impostor.png)](https://xkcd.com/451/ "If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.")
 
 Your daily random xkcd
