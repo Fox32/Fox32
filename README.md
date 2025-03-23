@@ -1,4 +1,4 @@
-## Impostor
-[![If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.](https://imgs.xkcd.com/comics/impostor.png)](https://xkcd.com/451/ "If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.")
+## Drone Training
+[![The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.](https://imgs.xkcd.com/comics/drone_training.png)](https://xkcd.com/1881/ "The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.")
 
 Your daily random xkcd
