@@ -1,4 +1,4 @@
-## Aviation Firsts
-[![Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart's skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]](https://imgs.xkcd.com/comics/aviation_firsts.png)](https://xkcd.com/2452/ "Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart's skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]")
+## Online Package Tracking
+[![I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?](https://imgs.xkcd.com/comics/online_package_tracking.png)](https://xkcd.com/281/ "I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?")
 
 Your daily random xkcd
