@@ -1,4 +1,4 @@
-## Number Shortage
-[!["10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"](https://imgs.xkcd.com/comics/number_shortage.png)](https://xkcd.com/3009/ ""10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"")
+## The Glass Necklace
+[![Well, for some value of 'actually work'.](https://imgs.xkcd.com/comics/the_glass_necklace.png)](https://xkcd.com/260/ "Well, for some value of 'actually work'.")
 
 Your daily random xkcd
