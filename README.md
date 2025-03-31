@@ -1,4 +1,4 @@
-## The Glass Necklace
-[![Well, for some value of 'actually work'.](https://imgs.xkcd.com/comics/the_glass_necklace.png)](https://xkcd.com/260/ "Well, for some value of 'actually work'.")
+## Scrabble
+[![A veteran Scrabble player will spot the 'OSTRICH' option.](https://imgs.xkcd.com/comics/scrabble.png)](https://xkcd.com/492/ "A veteran Scrabble player will spot the 'OSTRICH' option.")
 
 Your daily random xkcd
