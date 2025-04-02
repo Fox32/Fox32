@@ -1,4 +1,4 @@
-## Cursed mRNA Cocktail
-[![Serve one each to guests whose last cursed cocktail was more than 2 months ago.](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)](https://xkcd.com/2673/ "Serve one each to guests whose last cursed cocktail was more than 2 months ago.")
+## Blade Runner
+[![Blade Runner: Classic, but incredibly slow.](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/ "Blade Runner: Classic, but incredibly slow.")
 
 Your daily random xkcd
