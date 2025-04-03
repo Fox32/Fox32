@@ -1,4 +1,4 @@
-## Blade Runner
-[![Blade Runner: Classic, but incredibly slow.](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/ "Blade Runner: Classic, but incredibly slow.")
+## Incinerator
+[![My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.](https://imgs.xkcd.com/comics/incinerator.png)](https://xkcd.com/1821/ "My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.")
 
 Your daily random xkcd
