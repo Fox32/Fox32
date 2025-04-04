@@ -1,4 +1,4 @@
-## Incinerator
-[![My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.](https://imgs.xkcd.com/comics/incinerator.png)](https://xkcd.com/1821/ "My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.")
+## GeoIP
+[!['Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.](https://imgs.xkcd.com/comics/geoip.png)](https://xkcd.com/713/ "'Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.")
 
 Your daily random xkcd
