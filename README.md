@@ -1,4 +1,4 @@
-## GeoIP
-[!['Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.](https://imgs.xkcd.com/comics/geoip.png)](https://xkcd.com/713/ "'Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.")
+## Cougars
+[![If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!](https://imgs.xkcd.com/comics/cougars.png)](https://xkcd.com/999/ "If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!")
 
 Your daily random xkcd
