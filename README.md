@@ -1,4 +1,4 @@
-## Polar/Cartesian
-[![Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.](https://imgs.xkcd.com/comics/polar_cartesian.png)](https://xkcd.com/1230/ "Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.")
+## Actual Progress
+[![Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797/ "Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'")
 
 Your daily random xkcd
