@@ -1,4 +1,4 @@
-## Actual Progress
-[![Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797/ "Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'")
+## Fall Back
+[![Doing great here in the sixth and hopefully final year of the 2016 election.](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/ "Doing great here in the sixth and hopefully final year of the 2016 election.")
 
 Your daily random xkcd
