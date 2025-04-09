@@ -1,4 +1,4 @@
-## Fall Back
-[![Doing great here in the sixth and hopefully final year of the 2016 election.](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/ "Doing great here in the sixth and hopefully final year of the 2016 election.")
+## Hardwood
+[![They may technically have been softwoods at some point, but they definitely aren't now.](https://imgs.xkcd.com/comics/hardwood.png)](https://xkcd.com/3051/ "They may technically have been softwoods at some point, but they definitely aren't now.")
 
 Your daily random xkcd
