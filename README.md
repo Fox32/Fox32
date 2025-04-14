@@ -1,4 +1,4 @@
-## Bad Date
-[!["Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."](https://imgs.xkcd.com/comics/bad_date.png)](https://xkcd.com/2698/ ""Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."")
+## Hardwood
+[![They may technically have been softwoods at some point, but they definitely aren't now.](https://imgs.xkcd.com/comics/hardwood.png)](https://xkcd.com/3051/ "They may technically have been softwoods at some point, but they definitely aren't now.")
 
 Your daily random xkcd
