@@ -1,4 +1,4 @@
-## Hardwood
-[![They may technically have been softwoods at some point, but they definitely aren't now.](https://imgs.xkcd.com/comics/hardwood.png)](https://xkcd.com/3051/ "They may technically have been softwoods at some point, but they definitely aren't now.")
+## Control Group
+[![Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜](https://imgs.xkcd.com/comics/control_group.png)](https://xkcd.com/2576/ "Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜")
 
 Your daily random xkcd
