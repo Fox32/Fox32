@@ -1,4 +1,4 @@
-## Control Group
-[![Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜](https://imgs.xkcd.com/comics/control_group.png)](https://xkcd.com/2576/ "Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜")
+## No Pun Intended
+[![Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.](https://imgs.xkcd.com/comics/no_pun_intended.png)](https://xkcd.com/559/ "Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.")
 
 Your daily random xkcd
