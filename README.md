@@ -1,4 +1,4 @@
-## No Pun Intended
-[![Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.](https://imgs.xkcd.com/comics/no_pun_intended.png)](https://xkcd.com/559/ "Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.")
+## Percent Milkfat
+[!["So what's dark energy?" "Cosmologists and the FDA are both trying very hard to find out."](https://imgs.xkcd.com/comics/percent_milkfat.png)](https://xkcd.com/2216/ ""So what's dark energy?" "Cosmologists and the FDA are both trying very hard to find out."")
 
 Your daily random xkcd
