@@ -1,4 +1,4 @@
-## Percentage Points
-[![Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.](https://imgs.xkcd.com/comics/percentage_points.png)](https://xkcd.com/985/ "Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.")
+## Confounding Variables
+[![You can find a perfect correlation if you just control for the residual.](https://imgs.xkcd.com/comics/confounding_variables.png)](https://xkcd.com/2560/ "You can find a perfect correlation if you just control for the residual.")
 
 Your daily random xkcd
