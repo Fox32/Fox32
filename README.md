@@ -1,4 +1,4 @@
-## Council of 300
-[!['And hypnotize someone into thinking they've uploaded it and passed it around.' 'But then won't the uploader get suspicious that it pauses at 301+ for a while? Why don't we just forge the number entirel--' ::BLAM:: 'The Council of 299 is adjourned.'](https://imgs.xkcd.com/comics/council_of_300.png)](https://xkcd.com/1224/ "'And hypnotize someone into thinking they've uploaded it and passed it around.' 'But then won't the uploader get suspicious that it pauses at 301+ for a while? Why don't we just forge the number entirel--' ::BLAM:: 'The Council of 299 is adjourned.'")
+## Tasks
+[![In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/ "In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.")
 
 Your daily random xkcd
