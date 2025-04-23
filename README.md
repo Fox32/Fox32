@@ -1,4 +1,4 @@
-## Tasks
-[![In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/ "In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.")
+## World War III+
+[![I hate how the media only ever uses the first part of this quote, stripping it of its important context.](https://imgs.xkcd.com/comics/world_war_iii.png)](https://xkcd.com/1687/ "I hate how the media only ever uses the first part of this quote, stripping it of its important context.")
 
 Your daily random xkcd
