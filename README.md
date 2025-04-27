@@ -1,4 +1,4 @@
-## 2018
-[![We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.](https://imgs.xkcd.com/comics/2018.png)](https://xkcd.com/1935/ "We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.")
+## Frankenstein Claim Permutations
+[![When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.](https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png)](https://xkcd.com/2799/ "When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.")
 
 Your daily random xkcd
