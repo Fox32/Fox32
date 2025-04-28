@@ -1,4 +1,4 @@
-## Frankenstein Claim Permutations
-[![When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.](https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png)](https://xkcd.com/2799/ "When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.")
+## Tornado
+[![Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.](https://imgs.xkcd.com/comics/tornado.png)](https://xkcd.com/1487/ "Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.")
 
 Your daily random xkcd
