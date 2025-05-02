@@ -1,4 +1,4 @@
-## Cold Air
-[![We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.](https://imgs.xkcd.com/comics/cold_air.png)](https://xkcd.com/3016/ "We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.")
+## Muons
+[![Update: I've been banned from the physics department for the way I pronounce "Doppler effect."](https://imgs.xkcd.com/comics/muons.png)](https://xkcd.com/3043/ "Update: I've been banned from the physics department for the way I pronounce "Doppler effect."")
 
 Your daily random xkcd
