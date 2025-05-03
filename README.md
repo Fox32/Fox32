@@ -1,4 +1,4 @@
-## Muons
-[![Update: I've been banned from the physics department for the way I pronounce "Doppler effect."](https://imgs.xkcd.com/comics/muons.png)](https://xkcd.com/3043/ "Update: I've been banned from the physics department for the way I pronounce "Doppler effect."")
+## ISS Solar Transit 2
+[![Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.](https://imgs.xkcd.com/comics/iss_solar_transit_2.png)](https://xkcd.com/1830/ "Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.")
 
 Your daily random xkcd
