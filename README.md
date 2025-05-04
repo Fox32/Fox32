@@ -1,4 +1,4 @@
-## ISS Solar Transit 2
-[![Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.](https://imgs.xkcd.com/comics/iss_solar_transit_2.png)](https://xkcd.com/1830/ "Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.")
+## Tall Structures
+[![Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.](https://imgs.xkcd.com/comics/tall_structures.png)](https://xkcd.com/3058/ "Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.")
 
 Your daily random xkcd
