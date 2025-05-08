@@ -1,4 +1,4 @@
-## Circuit Diagram
-[![I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.](https://imgs.xkcd.com/comics/circuit_diagram.png)](https://xkcd.com/730/ "I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.")
+## Thread
+[![Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.](https://imgs.xkcd.com/comics/thread.png)](https://xkcd.com/1893/ "Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.")
 
 Your daily random xkcd
