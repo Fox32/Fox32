@@ -1,4 +1,4 @@
-## Thread
-[![Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.](https://imgs.xkcd.com/comics/thread.png)](https://xkcd.com/1893/ "Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.")
+## Garfield
+[![The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107.  See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569](https://imgs.xkcd.com/comics/garfield.jpg)](https://xkcd.com/78/ "The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107.  See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569")
 
 Your daily random xkcd
