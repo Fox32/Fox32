@@ -1,4 +1,4 @@
-## Tensile vs. Shear Strength
-[![Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.](https://imgs.xkcd.com/comics/tensile_vs_shear_strength.png)](https://xkcd.com/697/ "Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.")
+## Phylogenetic Tree
+[![And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.](https://imgs.xkcd.com/comics/phylogenetic_tree.png)](https://xkcd.com/2269/ "And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.")
 
 Your daily random xkcd
