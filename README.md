@@ -1,4 +1,4 @@
-## Waiting for the But
-[![Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level marketing schemes...](https://imgs.xkcd.com/comics/waiting_for_the_but.png)](https://xkcd.com/2146/ "Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level marketing schemes...")
+## Trum-
+[![Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.](https://imgs.xkcd.com/comics/trum.png)](https://xkcd.com/2046/ "Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.")
 
 Your daily random xkcd
