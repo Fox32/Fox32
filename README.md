@@ -1,4 +1,4 @@
-## Pods vs Bubbles
-[![Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'](https://imgs.xkcd.com/comics/pods_vs_bubbles.png)](https://xkcd.com/2339/ "Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'")
+## Bookshelf
+[![I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'](https://imgs.xkcd.com/comics/bookshelf.png)](https://xkcd.com/1049/ "I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'")
 
 Your daily random xkcd
