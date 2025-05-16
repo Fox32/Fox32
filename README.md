@@ -1,4 +1,4 @@
-## Bookshelf
-[![I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'](https://imgs.xkcd.com/comics/bookshelf.png)](https://xkcd.com/1049/ "I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'")
+## Bad Opinions
+[![I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!](https://imgs.xkcd.com/comics/bad_opinions.png)](https://xkcd.com/2051/ "I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!")
 
 Your daily random xkcd
