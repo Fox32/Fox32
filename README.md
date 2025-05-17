@@ -1,4 +1,4 @@
-## Bad Opinions
-[![I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!](https://imgs.xkcd.com/comics/bad_opinions.png)](https://xkcd.com/2051/ "I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!")
+## 1337: Part 2
+[![Trivia: Elaine is actually her middle name.](https://imgs.xkcd.com/comics/1337_part_2.png)](https://xkcd.com/342/ "Trivia: Elaine is actually her middle name.")
 
 Your daily random xkcd
