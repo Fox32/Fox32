@@ -1,4 +1,4 @@
-## 1337: Part 2
-[![Trivia: Elaine is actually her middle name.](https://imgs.xkcd.com/comics/1337_part_2.png)](https://xkcd.com/342/ "Trivia: Elaine is actually her middle name.")
+## It Might Be Cool
+[!['And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'](https://imgs.xkcd.com/comics/it_might_be_cool.png)](https://xkcd.com/535/ "'And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'")
 
 Your daily random xkcd
