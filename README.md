@@ -1,4 +1,4 @@
-## XKeyboarCD
-[![The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.](https://imgs.xkcd.com/comics/xkeyboarcd.png)](https://xkcd.com/2150/ "The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.")
+## Harpoons
+[![To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.](https://imgs.xkcd.com/comics/harpoons.png)](https://xkcd.com/1402/ "To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.")
 
 Your daily random xkcd
