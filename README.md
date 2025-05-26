@@ -1,4 +1,4 @@
-## Laser Scope
-[![I wish I'd missed you then so I wouldn't be missing you now](https://imgs.xkcd.com/comics/laser_scope.jpg)](https://xkcd.com/101/ "I wish I'd missed you then so I wouldn't be missing you now")
+## Light
+[![Like a beacon](https://imgs.xkcd.com/comics/light.jpg)](https://xkcd.com/40/ "Like a beacon")
 
 Your daily random xkcd
