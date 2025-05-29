@@ -1,4 +1,4 @@
-## Question
-[![The universe long dead, IsaAC surveyed the formless chaos. At last, he had arrived at an answer. 'I like you,' he declared to the void, 'but I don't LIKE like you.'](https://imgs.xkcd.com/comics/question.png)](https://xkcd.com/1448/ "The universe long dead, IsaAC surveyed the formless chaos. At last, he had arrived at an answer. 'I like you,' he declared to the void, 'but I don't LIKE like you.'")
+## Five-Day Forecast
+[![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)](https://xkcd.com/1606/ "You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.")
 
 Your daily random xkcd
