@@ -1,4 +1,4 @@
-## Five-Day Forecast
-[![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)](https://xkcd.com/1606/ "You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.")
+## Algorithms
+[![There was a schism in 2007, when a sect advocating OpenOffice created a fork of Sunday.xlsx and maintained it independently for several months. The efforts to reconcile the conflicting schedules led to the reinvention, within the cells of the spreadsheet, of modern version control.](https://imgs.xkcd.com/comics/algorithms.png)](https://xkcd.com/1667/ "There was a schism in 2007, when a sect advocating OpenOffice created a fork of Sunday.xlsx and maintained it independently for several months. The efforts to reconcile the conflicting schedules led to the reinvention, within the cells of the spreadsheet, of modern version control.")
 
 Your daily random xkcd
