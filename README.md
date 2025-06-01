@@ -1,4 +1,4 @@
-## Election Night
-[!["Even the blind—those who are anxious to hear, but are not able to see—will be taken care of. Immense megaphones have been constructed and will be in use at The Tribune office and in the Coliseum. The one at the Coliseum will be operated by a gentleman who draws $60 a week from Barnum & Bailey's circus for the use of his voice."](https://imgs.xkcd.com/comics/election_night.png)](https://xkcd.com/2068/ ""Even the blind—those who are anxious to hear, but are not able to see—will be taken care of. Immense megaphones have been constructed and will be in use at The Tribune office and in the Coliseum. The one at the Coliseum will be operated by a gentleman who draws $60 a week from Barnum & Bailey's circus for the use of his voice."")
+## M.C. Hammer Slide
+[![Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.](https://imgs.xkcd.com/comics/mc_hammer_slide.png)](https://xkcd.com/108/ "Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.")
 
 Your daily random xkcd
