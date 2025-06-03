@@ -1,4 +1,4 @@
-## Grownups
-[![I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.](https://imgs.xkcd.com/comics/grownups.png)](https://xkcd.com/150/ "I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.")
+## National Language
+[![She's pretty sharp when provoked.](https://imgs.xkcd.com/comics/national_language.jpg)](https://xkcd.com/84/ "She's pretty sharp when provoked.")
 
 Your daily random xkcd
