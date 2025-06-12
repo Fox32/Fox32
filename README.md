@@ -1,4 +1,4 @@
-## Star Lore
-[![That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."](https://imgs.xkcd.com/comics/star_lore.png)](https://xkcd.com/1973/ "That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."")
+## Team Chat
+[![2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.](https://imgs.xkcd.com/comics/team_chat.png)](https://xkcd.com/1782/ "2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.")
 
 Your daily random xkcd
