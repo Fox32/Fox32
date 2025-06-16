@@ -1,4 +1,4 @@
-## Iceberg
-[![90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.](https://imgs.xkcd.com/comics/iceberg.png)](https://xkcd.com/2787/ "90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.")
+## Theft
+[![Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?](https://imgs.xkcd.com/comics/theft.png)](https://xkcd.com/1317/ "Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?")
 
 Your daily random xkcd
