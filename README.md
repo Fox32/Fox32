@@ -1,4 +1,4 @@
-## Theft
-[![Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?](https://imgs.xkcd.com/comics/theft.png)](https://xkcd.com/1317/ "Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?")
+## Glass-Topped Table
+[![You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795/ "You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.")
 
 Your daily random xkcd
