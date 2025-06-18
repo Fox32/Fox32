@@ -1,4 +1,4 @@
-## Glass-Topped Table
-[![You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795/ "You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.")
+## Hand Sanitizer
+[![Hipster CDC Reports Flu Epidemic Peaked Years Ago](https://imgs.xkcd.com/comics/hand_sanitizer.png)](https://xkcd.com/1161/ "Hipster CDC Reports Flu Epidemic Peaked Years Ago")
 
 Your daily random xkcd
