@@ -1,4 +1,4 @@
-## Rock Identification
-[!['Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'](https://imgs.xkcd.com/comics/rock_identification.png)](https://xkcd.com/3068/ "'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'")
+## Budget News
+[![I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'](https://imgs.xkcd.com/comics/budget_news.png)](https://xkcd.com/1062/ "I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'")
 
 Your daily random xkcd
