@@ -1,4 +1,4 @@
-## Conditionals
-[!['If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'](https://imgs.xkcd.com/comics/conditionals.png)](https://xkcd.com/1652/ "'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'")
+## Meteor
+[![No, only LAVA is called 'magma' while underground. Any other object underground is called 'lava'.](https://imgs.xkcd.com/comics/meteor.png)](https://xkcd.com/1405/ "No, only LAVA is called 'magma' while underground. Any other object underground is called 'lava'.")
 
 Your daily random xkcd
