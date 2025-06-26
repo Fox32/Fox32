@@ -1,4 +1,4 @@
-## Deposition
-[![P.S. If you have time travel, come to my birthday party Saturday!](https://imgs.xkcd.com/comics/deposition.png)](https://xkcd.com/3088/ "P.S. If you have time travel, come to my birthday party Saturday!")
+## Blogging
+[![I'm looking to virally monetize your eyeballs by selling them for transplants.](https://imgs.xkcd.com/comics/blogging.png)](https://xkcd.com/741/ "I'm looking to virally monetize your eyeballs by selling them for transplants.")
 
 Your daily random xkcd
