@@ -1,4 +1,4 @@
-## Baring My Heart
-[![I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?](https://imgs.xkcd.com/comics/baring_my_heart.png)](https://xkcd.com/112/ "I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?")
+## Scenario 4
+[![Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.](https://imgs.xkcd.com/comics/scenario_4.png)](https://xkcd.com/2289/ "Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.")
 
 Your daily random xkcd
