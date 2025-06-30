@@ -1,4 +1,4 @@
-## Scenario 4
-[![Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.](https://imgs.xkcd.com/comics/scenario_4.png)](https://xkcd.com/2289/ "Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.")
+## Schwarzschild's Cat
+[![Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view.](https://imgs.xkcd.com/comics/schwarzschilds_cat.png)](https://xkcd.com/2088/ "Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view.")
 
 Your daily random xkcd
