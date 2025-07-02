@@ -1,4 +1,4 @@
-## Wait Wait
-[![You can't stab Carl Kasell. He sounds all slow and stentorian, but he moves like a snake.](https://imgs.xkcd.com/comics/wait_wait.png)](https://xkcd.com/997/ "You can't stab Carl Kasell. He sounds all slow and stentorian, but he moves like a snake.")
+## Fall Apart
+[![#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.](https://imgs.xkcd.com/comics/fall_apart.jpg)](https://xkcd.com/98/ "#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.")
 
 Your daily random xkcd
