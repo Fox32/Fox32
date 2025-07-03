@@ -1,4 +1,4 @@
-## Fall Apart
-[![#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.](https://imgs.xkcd.com/comics/fall_apart.jpg)](https://xkcd.com/98/ "#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.")
+## 1337: Part 3
+[![I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.](https://imgs.xkcd.com/comics/1337_part_3.png)](https://xkcd.com/343/ "I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.")
 
 Your daily random xkcd
