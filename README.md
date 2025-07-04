@@ -1,4 +1,4 @@
-## 1337: Part 3
-[![I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.](https://imgs.xkcd.com/comics/1337_part_3.png)](https://xkcd.com/343/ "I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.")
+## Supervillain Plan
+[![Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.](https://imgs.xkcd.com/comics/supervillain_plan.png)](https://xkcd.com/1883/ "Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.")
 
 Your daily random xkcd
