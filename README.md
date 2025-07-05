@@ -1,4 +1,4 @@
-## Supervillain Plan
-[![Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.](https://imgs.xkcd.com/comics/supervillain_plan.png)](https://xkcd.com/1883/ "Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.")
+## Artificial Gravity
+[![Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.](https://imgs.xkcd.com/comics/artificial_gravity.png)](https://xkcd.com/3111/ "Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.")
 
 Your daily random xkcd
