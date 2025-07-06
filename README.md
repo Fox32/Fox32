@@ -1,4 +1,4 @@
-## Artificial Gravity
-[![Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.](https://imgs.xkcd.com/comics/artificial_gravity.png)](https://xkcd.com/3111/ "Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.")
+## Machine Learning Captcha
+[![More likely: Click on all the pictures of people who appear disloyal to [name of company or government]](https://imgs.xkcd.com/comics/machine_learning_captcha.png)](https://xkcd.com/2228/ "More likely: Click on all the pictures of people who appear disloyal to [name of company or government]")
 
 Your daily random xkcd
