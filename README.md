@@ -1,4 +1,4 @@
-## Machine Learning Captcha
-[![More likely: Click on all the pictures of people who appear disloyal to [name of company or government]](https://imgs.xkcd.com/comics/machine_learning_captcha.png)](https://xkcd.com/2228/ "More likely: Click on all the pictures of people who appear disloyal to [name of company or government]")
+## Sheet Bend
+[![A left-handed sheet bend creates a much weaker connection, especially under moderate loads.](https://imgs.xkcd.com/comics/sheet_bend.png)](https://xkcd.com/2880/ "A left-handed sheet bend creates a much weaker connection, especially under moderate loads.")
 
 Your daily random xkcd
