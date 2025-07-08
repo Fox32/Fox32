@@ -1,4 +1,4 @@
-## Sheet Bend
-[![A left-handed sheet bend creates a much weaker connection, especially under moderate loads.](https://imgs.xkcd.com/comics/sheet_bend.png)](https://xkcd.com/2880/ "A left-handed sheet bend creates a much weaker connection, especially under moderate loads.")
+## First
+[![Fortunately, exactly zero other annoying internet behaviors have developed during this time.](https://imgs.xkcd.com/comics/first.png)](https://xkcd.com/1258/ "Fortunately, exactly zero other annoying internet behaviors have developed during this time.")
 
 Your daily random xkcd
