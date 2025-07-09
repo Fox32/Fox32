@@ -1,4 +1,4 @@
-## First
-[![Fortunately, exactly zero other annoying internet behaviors have developed during this time.](https://imgs.xkcd.com/comics/first.png)](https://xkcd.com/1258/ "Fortunately, exactly zero other annoying internet behaviors have developed during this time.")
+## Cicadas
+[![After a while you adjust to the new cicadian rhythm.](https://imgs.xkcd.com/comics/cicadas.png)](https://xkcd.com/2263/ "After a while you adjust to the new cicadian rhythm.")
 
 Your daily random xkcd
