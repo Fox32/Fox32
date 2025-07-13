@@ -1,4 +1,4 @@
-## Estimation
-[![They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.](https://imgs.xkcd.com/comics/estimation.png)](https://xkcd.com/612/ "They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.")
+## Catcalling
+[![Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]](https://imgs.xkcd.com/comics/catcalling.png)](https://xkcd.com/1763/ "Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]")
 
 Your daily random xkcd
