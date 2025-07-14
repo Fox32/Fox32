@@ -1,4 +1,4 @@
-## Catcalling
-[![Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]](https://imgs.xkcd.com/comics/catcalling.png)](https://xkcd.com/1763/ "Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]")
+## Ozymandias
+[![And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...](https://imgs.xkcd.com/comics/ozymandias.png)](https://xkcd.com/1557/ "And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...")
 
 Your daily random xkcd
