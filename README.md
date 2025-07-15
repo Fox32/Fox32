@@ -1,4 +1,4 @@
-## Ozymandias
-[![And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...](https://imgs.xkcd.com/comics/ozymandias.png)](https://xkcd.com/1557/ "And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...")
+## Free Fallin'
+[![Their crash investigation team had some particularly harsh words for Dave Matthews.](https://imgs.xkcd.com/comics/free_fallin.png)](https://xkcd.com/2811/ "Their crash investigation team had some particularly harsh words for Dave Matthews.")
 
 Your daily random xkcd
