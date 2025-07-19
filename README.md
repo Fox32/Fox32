@@ -1,4 +1,4 @@
-## Car Wash
-[![I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.](https://imgs.xkcd.com/comics/car_wash.png)](https://xkcd.com/2815/ "I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.")
+## Nihilism
+[![Why can't you have normal existential angst like all the other boys?](https://imgs.xkcd.com/comics/nihilism.png)](https://xkcd.com/167/ "Why can't you have normal existential angst like all the other boys?")
 
 Your daily random xkcd
