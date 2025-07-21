@@ -1,4 +1,4 @@
-## Apple Growers
-[![Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.](https://imgs.xkcd.com/comics/apple_growers.png)](https://xkcd.com/2410/ "Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.")
+## Matter
+[![He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.](https://imgs.xkcd.com/comics/matter.png)](https://xkcd.com/2967/ "He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.")
 
 Your daily random xkcd
