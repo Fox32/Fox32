@@ -1,4 +1,4 @@
-## Attention, shopper
-[![There's a red convertible outside my building with the license plate 'DADS MNY'.](https://imgs.xkcd.com/comics/attention_shopper.jpg)](https://xkcd.com/81/ "There's a red convertible outside my building with the license plate 'DADS MNY'.")
+## The Source
+[![Why did we even have that thing?](https://imgs.xkcd.com/comics/the_source.png)](https://xkcd.com/1590/ "Why did we even have that thing?")
 
 Your daily random xkcd
