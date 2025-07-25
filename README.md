@@ -1,4 +1,4 @@
-## The Source
-[![Why did we even have that thing?](https://imgs.xkcd.com/comics/the_source.png)](https://xkcd.com/1590/ "Why did we even have that thing?")
+## University Commas
+[![The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.](https://imgs.xkcd.com/comics/university_commas.png)](https://xkcd.com/2995/ "The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.")
 
 Your daily random xkcd
