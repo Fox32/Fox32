@@ -1,4 +1,4 @@
-## University Commas
-[![The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.](https://imgs.xkcd.com/comics/university_commas.png)](https://xkcd.com/2995/ "The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.")
+## Science
+[![Bonus points if you can identify the science in question](https://imgs.xkcd.com/comics/science.jpg)](https://xkcd.com/54/ "Bonus points if you can identify the science in question")
 
 Your daily random xkcd
