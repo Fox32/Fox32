@@ -1,4 +1,4 @@
-## Science
-[![Bonus points if you can identify the science in question](https://imgs.xkcd.com/comics/science.jpg)](https://xkcd.com/54/ "Bonus points if you can identify the science in question")
+## Singularity
+[![I figured that now that society has collapsed, I wouldn't need to wear clothes anymore, but apparently that violates some weird rule of quantum gravity.](https://imgs.xkcd.com/comics/singularity.png)](https://xkcd.com/1668/ "I figured that now that society has collapsed, I wouldn't need to wear clothes anymore, but apparently that violates some weird rule of quantum gravity.")
 
 Your daily random xkcd
