@@ -1,4 +1,4 @@
-## E Scooters
-[![Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.](https://imgs.xkcd.com/comics/e_scooters.png)](https://xkcd.com/2188/ "Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.")
+## Gravitational Mass
+[![She's so fat the attraction goes up as the CUBE of the distance instead of the square](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/ "She's so fat the attraction goes up as the CUBE of the distance instead of the square")
 
 Your daily random xkcd
