@@ -1,4 +1,4 @@
-## Gravitational Mass
-[![She's so fat the attraction goes up as the CUBE of the distance instead of the square](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/ "She's so fat the attraction goes up as the CUBE of the distance instead of the square")
+## Proof
+[![The prosecution calls Gottfried Leibniz.](https://imgs.xkcd.com/comics/proof.png)](https://xkcd.com/1153/ "The prosecution calls Gottfried Leibniz.")
 
 Your daily random xkcd
