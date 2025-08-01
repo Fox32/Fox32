@@ -1,4 +1,4 @@
-## Tween Bromance
-[![Verbiage. Va-jay-jay. Irregardless.](https://imgs.xkcd.com/comics/tween_bromance.png)](https://xkcd.com/919/ "Verbiage. Va-jay-jay. Irregardless.")
+## Blame
+[![I bet if I yell at my scared friends I will feel better.](https://imgs.xkcd.com/comics/blame.png)](https://xkcd.com/1761/ "I bet if I yell at my scared friends I will feel better.")
 
 Your daily random xkcd
