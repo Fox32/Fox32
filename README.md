@@ -1,4 +1,4 @@
-## New
-[![The nice thing about headcannnons is that it's really easy to get other people to believe in them.](https://imgs.xkcd.com/comics/new.png)](https://xkcd.com/1401/ "The nice thing about headcannnons is that it's really easy to get other people to believe in them.")
+## Lasering Incidents
+[![I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.](https://imgs.xkcd.com/comics/lasering_incidents.png)](https://xkcd.com/3030/ "I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.")
 
 Your daily random xkcd
