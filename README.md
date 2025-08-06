@@ -1,4 +1,4 @@
-## Subduction License
-[!['Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'](https://imgs.xkcd.com/comics/subduction_license.png)](https://xkcd.com/1388/ "'Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'")
+## Logic Boat
+[![Or a cabbage, for that matter. The goat makes sense. Goats are fine.](https://imgs.xkcd.com/comics/logic_boat.png)](https://xkcd.com/1134/ "Or a cabbage, for that matter. The goat makes sense. Goats are fine.")
 
 Your daily random xkcd
