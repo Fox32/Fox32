@@ -1,4 +1,4 @@
-## Aspect Ratio
-[![I'm always disappointed when 'Anamorphic Widescreen' doesn't refer to a widescreen Animorphs movie.](https://imgs.xkcd.com/comics/aspect_ratio.png)](https://xkcd.com/1187/ "I'm always disappointed when 'Anamorphic Widescreen' doesn't refer to a widescreen Animorphs movie.")
+## Hot Dogs
+[![Okay, I'm just gonna order pizza, and let's never talk about this again.](https://imgs.xkcd.com/comics/hot_dogs.png)](https://xkcd.com/1641/ "Okay, I'm just gonna order pizza, and let's never talk about this again.")
 
 Your daily random xkcd
