@@ -1,4 +1,4 @@
-## Exercise Progression
-[![They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!](https://imgs.xkcd.com/comics/exercise_progression.png)](https://xkcd.com/2631/ "They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!")
+## Birds and Dinosaurs
+[![Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.](https://imgs.xkcd.com/comics/birds_and_dinosaurs.png)](https://xkcd.com/1211/ "Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.")
 
 Your daily random xkcd
