@@ -1,4 +1,4 @@
-## Iceland
-[![The HVAC bill for installing the Gulf Stream was enormous.](https://imgs.xkcd.com/comics/iceland.png)](https://xkcd.com/2874/ "The HVAC bill for installing the Gulf Stream was enormous.")
+## Magnetic Pole
+[![People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.](https://imgs.xkcd.com/comics/magnetic_pole.png)](https://xkcd.com/2098/ "People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.")
 
 Your daily random xkcd
