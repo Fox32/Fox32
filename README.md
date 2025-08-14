@@ -1,4 +1,4 @@
-## Magnetic Pole
-[![People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.](https://imgs.xkcd.com/comics/magnetic_pole.png)](https://xkcd.com/2098/ "People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.")
+## A Simple Plan
+[![This is true.  The lyrics are ridiculous.](https://imgs.xkcd.com/comics/a_simple_plan.jpg)](https://xkcd.com/97/ "This is true.  The lyrics are ridiculous.")
 
 Your daily random xkcd
