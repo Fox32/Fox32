@@ -1,4 +1,4 @@
-## A Simple Plan
-[![This is true.  The lyrics are ridiculous.](https://imgs.xkcd.com/comics/a_simple_plan.jpg)](https://xkcd.com/97/ "This is true.  The lyrics are ridiculous.")
+## Front Door
+[![FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!](https://imgs.xkcd.com/comics/front_door.png)](https://xkcd.com/1064/ "FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!")
 
 Your daily random xkcd
