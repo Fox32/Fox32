@@ -1,4 +1,4 @@
-## Front Door
-[![FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!](https://imgs.xkcd.com/comics/front_door.png)](https://xkcd.com/1064/ "FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!")
+## xkcd Loves the Discovery Channel
+[![I love the title-text!](https://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png)](https://xkcd.com/442/ "I love the title-text!")
 
 Your daily random xkcd
