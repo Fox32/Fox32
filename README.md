@@ -1,4 +1,4 @@
-## xkcd Loves the Discovery Channel
-[![I love the title-text!](https://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png)](https://xkcd.com/442/ "I love the title-text!")
+## Seat Selection
+[![Don't click on the wing.](https://imgs.xkcd.com/comics/seat_selection.png)](https://xkcd.com/726/ "Don't click on the wing.")
 
 Your daily random xkcd
