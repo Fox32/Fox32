@@ -1,4 +1,4 @@
-## Chess Zoo
-[![The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.](https://imgs.xkcd.com/comics/chess_zoo.png)](https://xkcd.com/3036/ "The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.")
+## Software Testing Day
+[![The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.](https://imgs.xkcd.com/comics/software_testing_day.png)](https://xkcd.com/2928/ "The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.")
 
 Your daily random xkcd
