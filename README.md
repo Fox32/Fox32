@@ -1,4 +1,4 @@
-## Software Testing Day
-[![The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.](https://imgs.xkcd.com/comics/software_testing_day.png)](https://xkcd.com/2928/ "The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.")
+## Throwing Rocks
+[![::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.](https://imgs.xkcd.com/comics/throwing_rocks.png)](https://xkcd.com/1385/ "::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.")
 
 Your daily random xkcd
