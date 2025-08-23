@@ -1,4 +1,4 @@
-## Christmas Settings
-[![SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]](https://imgs.xkcd.com/comics/christmas_settings.png)](https://xkcd.com/1620/ "SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]")
+## Normal Distribution
+[![It's the NORMAL distribution, not the TANGENT distribution.](https://imgs.xkcd.com/comics/normal_distribution.png)](https://xkcd.com/2118/ "It's the NORMAL distribution, not the TANGENT distribution.")
 
 Your daily random xkcd
