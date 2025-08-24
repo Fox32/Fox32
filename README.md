@@ -1,4 +1,4 @@
-## Normal Distribution
-[![It's the NORMAL distribution, not the TANGENT distribution.](https://imgs.xkcd.com/comics/normal_distribution.png)](https://xkcd.com/2118/ "It's the NORMAL distribution, not the TANGENT distribution.")
+## Antique Factory
+[![WARNING: This item was aged by the same inexorable passage of time that also processes nuts.](https://imgs.xkcd.com/comics/antique_factory.png)](https://xkcd.com/1533/ "WARNING: This item was aged by the same inexorable passage of time that also processes nuts.")
 
 Your daily random xkcd
