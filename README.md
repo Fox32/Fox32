@@ -1,4 +1,4 @@
-## Chemistry Nobel
-[![Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.](https://imgs.xkcd.com/comics/chemistry_nobel.png)](https://xkcd.com/2214/ "Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.")
+## Law of Drama
+[!['Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.](https://imgs.xkcd.com/comics/law_of_drama.png)](https://xkcd.com/1124/ "'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.")
 
 Your daily random xkcd
