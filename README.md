@@ -1,4 +1,4 @@
-## Geochronology
-[!['The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.' 'Ok, now you're definitely just naming dogs.' 'Wait, no, that's actually almost correct.'](https://imgs.xkcd.com/comics/geochronology.png)](https://xkcd.com/1829/ "'The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.' 'Ok, now you're definitely just naming dogs.' 'Wait, no, that's actually almost correct.'")
+## Alice and Bob
+[![Yet one more reason I'm barred from speaking at crypto conferences.](https://imgs.xkcd.com/comics/alice_and_bob.png)](https://xkcd.com/177/ "Yet one more reason I'm barred from speaking at crypto conferences.")
 
 Your daily random xkcd
