@@ -1,4 +1,4 @@
-## Eclipse Review
-[![I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.](https://imgs.xkcd.com/comics/eclipse_review.png)](https://xkcd.com/1880/ "I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.")
+## Lumpers and Splitters
+[![Anna Karenina is a happy family lumper and unhappy family splitter.](https://imgs.xkcd.com/comics/lumpers_and_splitters.png)](https://xkcd.com/2518/ "Anna Karenina is a happy family lumper and unhappy family splitter.")
 
 Your daily random xkcd
