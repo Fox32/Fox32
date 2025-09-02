@@ -1,4 +1,4 @@
-## Lumpers and Splitters
-[![Anna Karenina is a happy family lumper and unhappy family splitter.](https://imgs.xkcd.com/comics/lumpers_and_splitters.png)](https://xkcd.com/2518/ "Anna Karenina is a happy family lumper and unhappy family splitter.")
+## Giraffes
+[![If you fund my Kickstarter ...](https://imgs.xkcd.com/comics/giraffes.png)](https://xkcd.com/1278/ "If you fund my Kickstarter ...")
 
 Your daily random xkcd
