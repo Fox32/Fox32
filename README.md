@@ -1,4 +1,4 @@
-## The Sake of Argument
-[!['It's not actually ... it's a DEVICE for EXPLORING a PLAUSIBLE REALITY that's not the one we're in, to gain a broader understanding about it.' 'oh, like a boat!' '...' 'Just for the sake of argument, we should get a boat! You can invite the Devil, too, if you want.'](https://imgs.xkcd.com/comics/the_sake_of_argument.png)](https://xkcd.com/1432/ "'It's not actually ... it's a DEVICE for EXPLORING a PLAUSIBLE REALITY that's not the one we're in, to gain a broader understanding about it.' 'oh, like a boat!' '...' 'Just for the sake of argument, we should get a boat! You can invite the Devil, too, if you want.'")
+## Base Rate
+[![Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.](https://imgs.xkcd.com/comics/base_rate.png)](https://xkcd.com/2476/ "Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.")
 
 Your daily random xkcd
