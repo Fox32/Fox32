@@ -1,4 +1,4 @@
-## Base Rate
-[![Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.](https://imgs.xkcd.com/comics/base_rate.png)](https://xkcd.com/2476/ "Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.")
+## Pandora
+[![What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...](https://imgs.xkcd.com/comics/pandora.png)](https://xkcd.com/668/ "What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...")
 
 Your daily random xkcd
