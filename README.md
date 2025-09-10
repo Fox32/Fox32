@@ -1,4 +1,4 @@
-## Is It Worth the Time?
-[![Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)](https://xkcd.com/1205/ "Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.")
+## Physics Confession
+[!["You know lightning, right? When electric charge builds up in a cloud and then discharges in a giant spark? Ask me why that happens." "Why does tha--" "No clue. We think it's related to the hair thing."](https://imgs.xkcd.com/comics/physics_confession.png)](https://xkcd.com/1867/ ""You know lightning, right? When electric charge builds up in a cloud and then discharges in a giant spark? Ask me why that happens." "Why does tha--" "No clue. We think it's related to the hair thing."")
 
 Your daily random xkcd
