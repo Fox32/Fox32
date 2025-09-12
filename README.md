@@ -1,4 +1,4 @@
-## House Inputs and Outputs
-[![People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.](https://imgs.xkcd.com/comics/house_inputs_and_outputs.png)](https://xkcd.com/2963/ "People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.")
+## Group Chat Rules
+[![There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.](https://imgs.xkcd.com/comics/group_chat_rules.png)](https://xkcd.com/2235/ "There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.")
 
 Your daily random xkcd
