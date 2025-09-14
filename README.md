@@ -1,4 +1,4 @@
-## Never Seen Star Wars
-[![If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.](https://imgs.xkcd.com/comics/never_seen_star_wars.png)](https://xkcd.com/1769/ "If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.")
+## XKCDE
+[![4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land](https://imgs.xkcd.com/comics/xkcde.png)](https://xkcd.com/1764/ "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land")
 
 Your daily random xkcd
