@@ -1,4 +1,4 @@
-## XKCDE
-[![4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land](https://imgs.xkcd.com/comics/xkcde.png)](https://xkcd.com/1764/ "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land")
+## Unreliable Connection
+[![NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.](https://imgs.xkcd.com/comics/unreliable_connection.png)](https://xkcd.com/2659/ "NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.")
 
 Your daily random xkcd
