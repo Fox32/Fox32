@@ -1,4 +1,4 @@
-## Digits
-[![It's taken me 20 years to get over skyline tetris.](https://imgs.xkcd.com/comics/digits.png)](https://xkcd.com/1344/ "It's taken me 20 years to get over skyline tetris.")
+## Exclusion Principle
+[![Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.](https://imgs.xkcd.com/comics/exclusion_principle.png)](https://xkcd.com/3027/ "Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.")
 
 Your daily random xkcd
