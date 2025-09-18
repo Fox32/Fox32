@@ -1,4 +1,4 @@
-## Exclusion Principle
-[![Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.](https://imgs.xkcd.com/comics/exclusion_principle.png)](https://xkcd.com/3027/ "Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.")
+## 65 Years
+[![The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.](https://imgs.xkcd.com/comics/65_years.png)](https://xkcd.com/893/ "The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.")
 
 Your daily random xkcd
