@@ -1,4 +1,4 @@
-## Gastroenterology
-[!["Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."](https://imgs.xkcd.com/comics/gastroenterology.png)](https://xkcd.com/2177/ ""Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."")
+## Locke and Demosthenes
+[![Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.](https://imgs.xkcd.com/comics/locke_and_demosthenes.png)](https://xkcd.com/635/ "Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.")
 
 Your daily random xkcd
