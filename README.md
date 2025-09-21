@@ -1,4 +1,4 @@
-## Locke and Demosthenes
-[![Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.](https://imgs.xkcd.com/comics/locke_and_demosthenes.png)](https://xkcd.com/635/ "Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.")
+## Jet Lag
+[![I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."](https://imgs.xkcd.com/comics/jet_lag.png)](https://xkcd.com/1900/ "I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."")
 
 Your daily random xkcd
