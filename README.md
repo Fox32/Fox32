@@ -1,4 +1,4 @@
-## Jet Lag
-[![I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."](https://imgs.xkcd.com/comics/jet_lag.png)](https://xkcd.com/1900/ "I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."")
+## Background Screens
+[![No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.](https://imgs.xkcd.com/comics/background_screens.png)](https://xkcd.com/1451/ "No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.")
 
 Your daily random xkcd
