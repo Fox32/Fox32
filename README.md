@@ -1,4 +1,4 @@
-## Background Screens
-[![No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.](https://imgs.xkcd.com/comics/background_screens.png)](https://xkcd.com/1451/ "No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.")
+## Down
+[![It's just that I get nervous about heights.](https://imgs.xkcd.com/comics/down.png)](https://xkcd.com/2800/ "It's just that I get nervous about heights.")
 
 Your daily random xkcd
