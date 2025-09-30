@@ -1,4 +1,4 @@
-## Technical Analysis
-[!["I [suspect] that we are throwing more and more of our resources, including the cream of our youth, into financial activities remote from the production of goods and services, into activities that generate high private rewards disproportionate to their social productivity. I suspect that the immense power of the computer is being harnessed to this 'paper economy', not to do the same transactions more economically but to balloon the quantity and variety of financial exchanges." --James Tobin, July 1984](https://imgs.xkcd.com/comics/technical_analysis.png)](https://xkcd.com/2101/ ""I [suspect] that we are throwing more and more of our resources, including the cream of our youth, into financial activities remote from the production of goods and services, into activities that generate high private rewards disproportionate to their social productivity. I suspect that the immense power of the computer is being harnessed to this 'paper economy', not to do the same transactions more economically but to balloon the quantity and variety of financial exchanges." --James Tobin, July 1984")
+## Reload
+[![And watch out for that guy from comic #53.](https://imgs.xkcd.com/comics/reload.png)](https://xkcd.com/188/ "And watch out for that guy from comic #53.")
 
 Your daily random xkcd
