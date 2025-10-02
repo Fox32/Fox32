@@ -1,4 +1,4 @@
-## Starlight
-[![Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.](https://imgs.xkcd.com/comics/starlight.png)](https://xkcd.com/811/ "Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.")
+## Christmas Settings
+[![SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]](https://imgs.xkcd.com/comics/christmas_settings.png)](https://xkcd.com/1620/ "SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]")
 
 Your daily random xkcd
