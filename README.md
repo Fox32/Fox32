@@ -1,4 +1,4 @@
-## Christmas Settings
-[![SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]](https://imgs.xkcd.com/comics/christmas_settings.png)](https://xkcd.com/1620/ "SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]")
+## Santa
+[![He probably just poops over the side of the sleigh.](https://imgs.xkcd.com/comics/santa.png)](https://xkcd.com/1464/ "He probably just poops over the side of the sleigh.")
 
 Your daily random xkcd
