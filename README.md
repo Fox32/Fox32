@@ -1,4 +1,4 @@
-## ISS Solar Transit
-[![I guess it's also the right setting for pictures of the Moon at night.](https://imgs.xkcd.com/comics/iss_solar_transit.png)](https://xkcd.com/1828/ "I guess it's also the right setting for pictures of the Moon at night.")
+## Statistics
+[![We reject the null hypothesis based on the 'hot damn, check out this chart' test.](https://imgs.xkcd.com/comics/statistics.png)](https://xkcd.com/2400/ "We reject the null hypothesis based on the 'hot damn, check out this chart' test.")
 
 Your daily random xkcd
