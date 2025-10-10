@@ -1,4 +1,4 @@
-## Glacial Erratic
-[!["This will take a while, which sucks, because I'm already so busy chiseling out igneous intrusions from rock formations and watching Youtube loops of the Superman fault-sealing scene over and over."](https://imgs.xkcd.com/comics/glacial_erratic.png)](https://xkcd.com/1848/ ""This will take a while, which sucks, because I'm already so busy chiseling out igneous intrusions from rock formations and watching Youtube loops of the Superman fault-sealing scene over and over."")
+## Exercise
+[![I haven't had the patience for RPGs in a long time.](https://imgs.xkcd.com/comics/exercise.png)](https://xkcd.com/189/ "I haven't had the patience for RPGs in a long time.")
 
 Your daily random xkcd
