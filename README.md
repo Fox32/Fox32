@@ -1,4 +1,4 @@
-## I Love the 20s
-[![Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED.](https://imgs.xkcd.com/comics/i_love_the_20s.png)](https://xkcd.com/2249/ "Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED.")
+## Turtle Sandwich Standard Model
+[![It's possible the bread and shell can be split into a top and bottom flavor, and some models additionally suggest Strange Bread and Charm Shells.](https://imgs.xkcd.com/comics/turtle_sandwich_standard_model.png)](https://xkcd.com/2301/ "It's possible the bread and shell can be split into a top and bottom flavor, and some models additionally suggest Strange Bread and Charm Shells.")
 
 Your daily random xkcd
