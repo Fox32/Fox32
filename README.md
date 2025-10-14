@@ -1,4 +1,4 @@
-## A-Minus-Minus
-[![You can do this one in every 30 times and still have 97% positive feedback.](https://imgs.xkcd.com/comics/a-minus-minus.png)](https://xkcd.com/325/ "You can do this one in every 30 times and still have 97% positive feedback.")
+## Chemtrails
+[![Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.](https://imgs.xkcd.com/comics/chemtrails.png)](https://xkcd.com/2654/ "Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.")
 
 Your daily random xkcd
