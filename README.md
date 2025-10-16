@@ -1,4 +1,4 @@
-## Methodology Trial
-[![If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.](https://imgs.xkcd.com/comics/methodology_trial.png)](https://xkcd.com/2726/ "If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.")
+## SawStart
+[![Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.](https://imgs.xkcd.com/comics/sawstart.png)](https://xkcd.com/3067/ "Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.")
 
 Your daily random xkcd
