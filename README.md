@@ -1,4 +1,4 @@
-## Giants
-[![I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.](https://imgs.xkcd.com/comics/giants.png)](https://xkcd.com/3055/ "I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.")
+## The Sea
+[![And then a second one, to drain the sea.](https://imgs.xkcd.com/comics/the_sea.png)](https://xkcd.com/450/ "And then a second one, to drain the sea.")
 
 Your daily random xkcd
