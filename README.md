@@ -1,4 +1,4 @@
-## The Sea
-[![And then a second one, to drain the sea.](https://imgs.xkcd.com/comics/the_sea.png)](https://xkcd.com/450/ "And then a second one, to drain the sea.")
+## Resolution
+[![If at first you don't succeed, that's one data point.](https://imgs.xkcd.com/comics/resolution.png)](https://xkcd.com/1154/ "If at first you don't succeed, that's one data point.")
 
 Your daily random xkcd
