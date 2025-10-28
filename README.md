@@ -1,4 +1,4 @@
-## Towed Message
-[!["Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"](https://imgs.xkcd.com/comics/towed_message.png)](https://xkcd.com/2757/ ""Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"")
+## Epistemic Uncertainty
+[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
 
 Your daily random xkcd
