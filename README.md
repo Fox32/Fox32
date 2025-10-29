@@ -1,4 +1,4 @@
-## Epistemic Uncertainty
-[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
+## Secretary: Part 2
+[![That helmet won't save him.](https://imgs.xkcd.com/comics/secretary_part_2.png)](https://xkcd.com/495/ "That helmet won't save him.")
 
 Your daily random xkcd
