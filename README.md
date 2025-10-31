@@ -1,4 +1,4 @@
-## Mac/PC
-[![It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.](https://imgs.xkcd.com/comics/mac_pc.png)](https://xkcd.com/934/ "It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.")
+## Gravitational Wave Pulsars
+[![The most important attributes of a vector in 3-space are {Location, Location, Location}](https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png)](https://xkcd.com/2358/ "The most important attributes of a vector in 3-space are {Location, Location, Location}")
 
 Your daily random xkcd
