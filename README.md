@@ -1,4 +1,4 @@
-## Pilot Priority List
-[![CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram](https://imgs.xkcd.com/comics/pilot_priority_list.png)](https://xkcd.com/2675/ "CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram")
+## Dirty Harry
+[![Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.](https://imgs.xkcd.com/comics/dirty_harry.png)](https://xkcd.com/692/ "Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.")
 
 Your daily random xkcd
