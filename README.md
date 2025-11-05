@@ -1,4 +1,4 @@
-## Kola Borehole
-[![Tonight's top story: Lucifer, the Prince of Darkness, died in his home this morning at the age of [unintelligible rune]. Due to the large number of sharks inhabiting his former kingdom, no body could be recovered.](https://imgs.xkcd.com/comics/kola_borehole.png)](https://xkcd.com/1330/ "Tonight's top story: Lucifer, the Prince of Darkness, died in his home this morning at the age of [unintelligible rune]. Due to the large number of sharks inhabiting his former kingdom, no body could be recovered.")
+## Set Theory
+[![Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.](https://imgs.xkcd.com/comics/set_theory.png)](https://xkcd.com/982/ "Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.")
 
 Your daily random xkcd
