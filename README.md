@@ -1,4 +1,4 @@
-## Set Theory
-[![Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.](https://imgs.xkcd.com/comics/set_theory.png)](https://xkcd.com/982/ "Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.")
+## Working
+[![And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.](https://imgs.xkcd.com/comics/working.png)](https://xkcd.com/951/ "And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.")
 
 Your daily random xkcd
