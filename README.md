@@ -1,4 +1,4 @@
-## Firefox and Witchcraft - The Connection?
-[![ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.](https://imgs.xkcd.com/comics/firefox_wicca.png)](https://xkcd.com/111/ "ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.")
+## Beer
+[![Mmmm, this is such a positive experience! I feel no social pressure to enjoy it at all!](https://imgs.xkcd.com/comics/beer.png)](https://xkcd.com/1534/ "Mmmm, this is such a positive experience! I feel no social pressure to enjoy it at all!")
 
 Your daily random xkcd
