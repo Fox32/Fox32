@@ -1,4 +1,4 @@
-## 1337: Part 5
-[![This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.](https://imgs.xkcd.com/comics/1337_part_5.png)](https://xkcd.com/345/ "This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.")
+## Push Notifications
+[![NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!](https://imgs.xkcd.com/comics/push_notifications.png)](https://xkcd.com/3074/ "NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!")
 
 Your daily random xkcd
