@@ -1,4 +1,4 @@
-## Hotel Room Party
-[![[proudly greeting the hotel manager at the door] "Did I do a good job?"](https://imgs.xkcd.com/comics/hotel_room_party.png)](https://xkcd.com/2232/ "[proudly greeting the hotel manager at the door] "Did I do a good job?"")
+## Formal Languages
+[![[audience looks around] 'What just happened?' 'There must be some context we're missing.'](https://imgs.xkcd.com/comics/formal_languages.png)](https://xkcd.com/1090/ "[audience looks around] 'What just happened?' 'There must be some context we're missing.'")
 
 Your daily random xkcd
