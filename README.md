@@ -1,4 +1,4 @@
-## Curiosity
-[![As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.](https://imgs.xkcd.com/comics/curiosity.png)](https://xkcd.com/1091/ "As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.")
+## Plastic Bags
+[![The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/ "The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.")
 
 Your daily random xkcd
