@@ -1,4 +1,4 @@
-## Plastic Bags
-[![The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/ "The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.")
+## T. Rex Evolution
+[![Unfortunately, body size and bite force continue to increase.](https://imgs.xkcd.com/comics/t_rex_evolution.png)](https://xkcd.com/3042/ "Unfortunately, body size and bite force continue to increase.")
 
 Your daily random xkcd
