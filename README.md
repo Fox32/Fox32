@@ -1,4 +1,4 @@
-## Unique Date
-[![If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.](https://imgs.xkcd.com/comics/unique_date.png)](https://xkcd.com/1340/ "If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.")
+## Software Updates
+[![Everything is a cloud application; the ping times just vary a lot.](https://imgs.xkcd.com/comics/software_updates.png)](https://xkcd.com/2224/ "Everything is a cloud application; the ping times just vary a lot.")
 
 Your daily random xkcd
