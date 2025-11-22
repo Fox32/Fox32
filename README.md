@@ -1,4 +1,4 @@
-## Endorheic Basin
-[![My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.](https://imgs.xkcd.com/comics/endorheic_basin.png)](https://xkcd.com/2325/ "My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.")
+## Whites of Their Eyes
+[![Don't fire until you see through the fragile facade to the human being within.](https://imgs.xkcd.com/comics/whites_of_their_eyes.png)](https://xkcd.com/1041/ "Don't fire until you see through the fragile facade to the human being within.")
 
 Your daily random xkcd
