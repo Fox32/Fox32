@@ -1,4 +1,4 @@
-## Whites of Their Eyes
-[![Don't fire until you see through the fragile facade to the human being within.](https://imgs.xkcd.com/comics/whites_of_their_eyes.png)](https://xkcd.com/1041/ "Don't fire until you see through the fragile facade to the human being within.")
+## Earth Formation Site
+[![It's not far from the sign marking the exact latitude and longitude of the Earth's core.](https://imgs.xkcd.com/comics/earth_formation_site.png)](https://xkcd.com/2925/ "It's not far from the sign marking the exact latitude and longitude of the Earth's core.")
 
 Your daily random xkcd
