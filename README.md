@@ -1,4 +1,4 @@
-## Earth Formation Site
-[![It's not far from the sign marking the exact latitude and longitude of the Earth's core.](https://imgs.xkcd.com/comics/earth_formation_site.png)](https://xkcd.com/2925/ "It's not far from the sign marking the exact latitude and longitude of the Earth's core.")
+## Pwned
+[![I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating](https://imgs.xkcd.com/comics/pwned.png)](https://xkcd.com/91/ "I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating")
 
 Your daily random xkcd
