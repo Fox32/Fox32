@@ -1,4 +1,4 @@
-## Marble Run
-[![I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.](https://imgs.xkcd.com/comics/marble_run.png)](https://xkcd.com/2785/ "I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.")
+## Magic Tree
+[![Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.](https://imgs.xkcd.com/comics/magic_tree.png)](https://xkcd.com/1569/ "Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.")
 
 Your daily random xkcd
