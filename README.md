@@ -1,4 +1,4 @@
-## Correlation
-[![Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
+## Technically
+[!["Technically that sentence started with 'well', so--" "Ooh, a rock with a fossil in it!"](https://imgs.xkcd.com/comics/technically.png)](https://xkcd.com/1475/ ""Technically that sentence started with 'well', so--" "Ooh, a rock with a fossil in it!"")
 
 Your daily random xkcd
