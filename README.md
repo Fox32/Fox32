@@ -1,4 +1,4 @@
-## Allow Captcha
-[![To prove you're human, please click all the number pairs that appear together in your Social Security number.](https://imgs.xkcd.com/comics/allow_captcha.png)](https://xkcd.com/2415/ "To prove you're human, please click all the number pairs that appear together in your Social Security number.")
+## Picture a Grassy Field
+[![Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?](https://imgs.xkcd.com/comics/picture_a_grassy_field.png)](https://xkcd.com/1582/ "Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?")
 
 Your daily random xkcd
