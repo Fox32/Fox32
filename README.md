@@ -1,4 +1,4 @@
-## The Source
-[![Why did we even have that thing?](https://imgs.xkcd.com/comics/the_source.png)](https://xkcd.com/1590/ "Why did we even have that thing?")
+## Thor Tools
+[![CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.](https://imgs.xkcd.com/comics/thor_tools.png)](https://xkcd.com/2097/ "CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.")
 
 Your daily random xkcd
