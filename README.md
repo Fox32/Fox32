@@ -1,4 +1,4 @@
-## Thor Tools
-[![CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.](https://imgs.xkcd.com/comics/thor_tools.png)](https://xkcd.com/2097/ "CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.")
+## Toasts
+[![Platonic solids for my real friends and real solids for my platonic friends!](https://imgs.xkcd.com/comics/toasts.png)](https://xkcd.com/1645/ "Platonic solids for my real friends and real solids for my platonic friends!")
 
 Your daily random xkcd
