@@ -1,4 +1,4 @@
-## Will It Work
-[!['Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.](https://imgs.xkcd.com/comics/will_it_work.png)](https://xkcd.com/1742/ "'Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.")
+## Hotel Room Party
+[![[proudly greeting the hotel manager at the door] "Did I do a good job?"](https://imgs.xkcd.com/comics/hotel_room_party.png)](https://xkcd.com/2232/ "[proudly greeting the hotel manager at the door] "Did I do a good job?"")
 
 Your daily random xkcd
