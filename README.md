@@ -1,4 +1,4 @@
-## The Ring
-[![On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.](https://imgs.xkcd.com/comics/the_ring.png)](https://xkcd.com/396/ "On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.")
+## Pep Rally
+[![You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.](https://imgs.xkcd.com/comics/pep_rally.png)](https://xkcd.com/588/ "You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.")
 
 Your daily random xkcd
