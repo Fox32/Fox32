@@ -1,4 +1,4 @@
-## Pep Rally
-[![You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.](https://imgs.xkcd.com/comics/pep_rally.png)](https://xkcd.com/588/ "You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.")
+## Greenland Size
+[![The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/ "The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.")
 
 Your daily random xkcd
