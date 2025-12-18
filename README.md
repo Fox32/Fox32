@@ -1,4 +1,4 @@
-## Greenland Size
-[![The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/ "The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.")
+## Opportunity Rover
+[![Thanks for bringing us along.](https://imgs.xkcd.com/comics/opportunity_rover.png)](https://xkcd.com/2111/ "Thanks for bringing us along.")
 
 Your daily random xkcd
