@@ -1,4 +1,4 @@
-## The Man Who Fell Sideways
-[![Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)](https://xkcd.com/417/ "Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.")
+## Base Rate
+[![Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.](https://imgs.xkcd.com/comics/base_rate.png)](https://xkcd.com/2476/ "Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.")
 
 Your daily random xkcd
