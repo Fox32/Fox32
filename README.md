@@ -1,4 +1,4 @@
-## Biff Tannen
-[![I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.](https://imgs.xkcd.com/comics/biff_tannen.png)](https://xkcd.com/2104/ "I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.")
+## The Food Size Cycle
+[![There's data suggesting that this model may apply to deep-dish/thin-crust pizza. I've designed a thorough multi-year study to investigate this personally, but funding organizations keep denying my grant requests.](https://imgs.xkcd.com/comics/the_food_size_cycle.png)](https://xkcd.com/1940/ "There's data suggesting that this model may apply to deep-dish/thin-crust pizza. I've designed a thorough multi-year study to investigate this personally, but funding organizations keep denying my grant requests.")
 
 Your daily random xkcd
