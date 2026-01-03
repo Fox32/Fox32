@@ -1,4 +1,4 @@
-## Candy Button Paper
-[![Nonrewritable tape?](https://imgs.xkcd.com/comics/candy_button_paper.png)](https://xkcd.com/205/ "Nonrewritable tape?")
+## Factoring the Time
+[![I occasionally do this with mile markers on the highway.](https://imgs.xkcd.com/comics/factoring_the_time.png)](https://xkcd.com/247/ "I occasionally do this with mile markers on the highway.")
 
 Your daily random xkcd
