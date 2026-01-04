@@ -1,4 +1,4 @@
-## Factoring the Time
-[![I occasionally do this with mile markers on the highway.](https://imgs.xkcd.com/comics/factoring_the_time.png)](https://xkcd.com/247/ "I occasionally do this with mile markers on the highway.")
+## Supernova
+[![They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.](https://imgs.xkcd.com/comics/supernova.png)](https://xkcd.com/2878/ "They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.")
 
 Your daily random xkcd
