@@ -1,4 +1,4 @@
-## Supernova
-[![They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.](https://imgs.xkcd.com/comics/supernova.png)](https://xkcd.com/2878/ "They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.")
+## About 20 Pounds
+[![In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.](https://imgs.xkcd.com/comics/about_20_pounds.png)](https://xkcd.com/3085/ "In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.")
 
 Your daily random xkcd
