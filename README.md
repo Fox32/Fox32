@@ -1,4 +1,4 @@
-## Noise Filter
-[![Party Mode also enables the feature, but reverses the slider.](https://imgs.xkcd.com/comics/noise_filter.png)](https://xkcd.com/2777/ "Party Mode also enables the feature, but reverses the slider.")
+## Rabbit Introduction
+[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
 
 Your daily random xkcd
