@@ -1,4 +1,4 @@
-## Rabbit Introduction
-[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
+## Science
+[![Bonus points if you can identify the science in question](https://imgs.xkcd.com/comics/science.jpg)](https://xkcd.com/54/ "Bonus points if you can identify the science in question")
 
 Your daily random xkcd
