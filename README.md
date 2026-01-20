@@ -1,4 +1,4 @@
-## Geologic Periods
-[![Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.](https://imgs.xkcd.com/comics/geologic_periods.png)](https://xkcd.com/3120/ "Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.")
+## Rock Band
+[![I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.](https://imgs.xkcd.com/comics/rock_band.png)](https://xkcd.com/359/ "I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.")
 
 Your daily random xkcd
