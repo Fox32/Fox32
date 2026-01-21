@@ -1,4 +1,4 @@
-## Rock Band
-[![I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.](https://imgs.xkcd.com/comics/rock_band.png)](https://xkcd.com/359/ "I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.")
+## Three Kinds of Research
+[![The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'](https://imgs.xkcd.com/comics/three_kinds_of_research.png)](https://xkcd.com/2977/ "The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'")
 
 Your daily random xkcd
