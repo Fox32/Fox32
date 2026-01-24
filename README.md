@@ -1,4 +1,4 @@
-## Smartwatches
-[![This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.](https://imgs.xkcd.com/comics/smartwatches.png)](https://xkcd.com/1372/ "This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.")
+## Upside-Down Map
+[![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)](https://xkcd.com/1500/ "Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.")
 
 Your daily random xkcd
