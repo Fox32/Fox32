@@ -1,4 +1,4 @@
-## Upside-Down Map
-[![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)](https://xkcd.com/1500/ "Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.")
+## Worrying
+[![If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.](https://imgs.xkcd.com/comics/worrying.png)](https://xkcd.com/1468/ "If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.")
 
 Your daily random xkcd
