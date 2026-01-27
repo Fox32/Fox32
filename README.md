@@ -1,4 +1,4 @@
-## Business Idea
-[![Then we move to phase two. Gas stations store fuel in underground tanks. Normally, these are inaccessible except via the pump. However, with hydraulic fracturing, we-- Wait! Come back!](https://imgs.xkcd.com/comics/business_idea.png)](https://xkcd.com/1721/ "Then we move to phase two. Gas stations store fuel in underground tanks. Normally, these are inaccessible except via the pump. However, with hydraulic fracturing, we-- Wait! Come back!")
+## Faucet
+[![It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.](https://imgs.xkcd.com/comics/faucet.png)](https://xkcd.com/2704/ "It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.")
 
 Your daily random xkcd
