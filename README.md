@@ -1,4 +1,4 @@
-## Lorenz
-[![Every choice, no matter how small, begins a new story.](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)](https://xkcd.com/1350/ "Every choice, no matter how small, begins a new story.")
+## More Accurate
+[![We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.](https://imgs.xkcd.com/comics/more_accurate.png)](https://xkcd.com/652/ "We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.")
 
 Your daily random xkcd
