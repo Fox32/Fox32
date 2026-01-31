@@ -1,4 +1,4 @@
-## More Accurate
-[![We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.](https://imgs.xkcd.com/comics/more_accurate.png)](https://xkcd.com/652/ "We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.")
+## The General Problem
+[![I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.](https://imgs.xkcd.com/comics/the_general_problem.png)](https://xkcd.com/974/ "I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.")
 
 Your daily random xkcd
