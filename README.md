@@ -1,4 +1,4 @@
-## Text Entry
-[![I like to think that somewhere out there, there's someone whose personal quest is lobbying TV providers to add an option to switch their on-screen keyboards to Dvorak.](https://imgs.xkcd.com/comics/text_entry.png)](https://xkcd.com/2137/ "I like to think that somewhere out there, there's someone whose personal quest is lobbying TV providers to add an option to switch their on-screen keyboards to Dvorak.")
+## I'm With Her
+[![We can do this.](https://imgs.xkcd.com/comics/im_with_her.png)](https://xkcd.com/1756/ "We can do this.")
 
 Your daily random xkcd
