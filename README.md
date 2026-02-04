@@ -1,4 +1,4 @@
-## I'm With Her
-[![We can do this.](https://imgs.xkcd.com/comics/im_with_her.png)](https://xkcd.com/1756/ "We can do this.")
+## Duty Calls
+[![What do you want me to do?  LEAVE?  Then they'll keep being wrong!](https://imgs.xkcd.com/comics/duty_calls.png)](https://xkcd.com/386/ "What do you want me to do?  LEAVE?  Then they'll keep being wrong!")
 
 Your daily random xkcd
