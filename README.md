@@ -1,4 +1,4 @@
-## Duty Calls
-[![What do you want me to do?  LEAVE?  Then they'll keep being wrong!](https://imgs.xkcd.com/comics/duty_calls.png)](https://xkcd.com/386/ "What do you want me to do?  LEAVE?  Then they'll keep being wrong!")
+## Númenor Margaritaville
+[![I see white shores, and beyond it, a far green country under a tequila sunrise.](https://imgs.xkcd.com/comics/numenor_margaritaville.png)](https://xkcd.com/2994/ "I see white shores, and beyond it, a far green country under a tequila sunrise.")
 
 Your daily random xkcd
