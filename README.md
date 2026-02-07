@@ -1,4 +1,4 @@
-## Nintendo Surgeon
-[![Scary thought #138: Raptors coming down the waterslide behind me.](https://imgs.xkcd.com/comics/nintendo_surgeon.png)](https://xkcd.com/218/ "Scary thought #138: Raptors coming down the waterslide behind me.")
+## I Have Owned Two Electric Skateboards
+[![Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.](https://imgs.xkcd.com/comics/electric_skateboards.png)](https://xkcd.com/139/ "Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.")
 
 Your daily random xkcd
