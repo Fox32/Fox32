@@ -1,4 +1,4 @@
-## I Have Owned Two Electric Skateboards
-[![Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.](https://imgs.xkcd.com/comics/electric_skateboards.png)](https://xkcd.com/139/ "Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.")
+## Food Rule
+[![I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.](https://imgs.xkcd.com/comics/food_rule.png)](https://xkcd.com/1587/ "I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.")
 
 Your daily random xkcd
