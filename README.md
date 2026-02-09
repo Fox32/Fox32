@@ -1,4 +1,4 @@
-## Food Rule
-[![I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.](https://imgs.xkcd.com/comics/food_rule.png)](https://xkcd.com/1587/ "I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.")
+## Tall Infographics
+[!['Big Data' doesn't just mean increasing the font size.](https://imgs.xkcd.com/comics/tall_infographics.png)](https://xkcd.com/1273/ "'Big Data' doesn't just mean increasing the font size.")
 
 Your daily random xkcd
