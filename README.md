@@ -1,4 +1,4 @@
-## Mercator Projection
-[![The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.](https://imgs.xkcd.com/comics/mercator_projection.png)](https://xkcd.com/2082/ "The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.")
+## Wikipedia Article Titles
+[![I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag.](https://imgs.xkcd.com/comics/wikipedia_article_titles.png)](https://xkcd.com/2782/ "I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag.")
 
 Your daily random xkcd
