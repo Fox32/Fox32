@@ -1,4 +1,4 @@
-## Valentine Dilemma
-[![The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.](https://imgs.xkcd.com/comics/valentine_dilemma.png)](https://xkcd.com/1016/ "The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.")
+## Herpetology
+[![Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.](https://imgs.xkcd.com/comics/herpetology.png)](https://xkcd.com/867/ "Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.")
 
 Your daily random xkcd
