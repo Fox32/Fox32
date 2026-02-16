@@ -1,4 +1,4 @@
-## Retractable Rocket
-[![Hard to believe that for so many years once they were fully extended we just let them tip over.](https://imgs.xkcd.com/comics/retractable_rocket.png)](https://xkcd.com/2534/ "Hard to believe that for so many years once they were fully extended we just let them tip over.")
+## Muller's Ratchet
+[![Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!](https://imgs.xkcd.com/comics/mullers_ratchet.png)](https://xkcd.com/2464/ "Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!")
 
 Your daily random xkcd
