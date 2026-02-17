@@ -1,4 +1,4 @@
-## Muller's Ratchet
-[![Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!](https://imgs.xkcd.com/comics/mullers_ratchet.png)](https://xkcd.com/2464/ "Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!")
+## Converting to Metric
+[![According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.](https://imgs.xkcd.com/comics/converting_to_metric.png)](https://xkcd.com/526/ "According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.")
 
 Your daily random xkcd
