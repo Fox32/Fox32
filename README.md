@@ -1,4 +1,4 @@
-## Converting to Metric
-[![According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.](https://imgs.xkcd.com/comics/converting_to_metric.png)](https://xkcd.com/526/ "According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.")
+## Backups
+[![Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.](https://imgs.xkcd.com/comics/backups.png)](https://xkcd.com/1718/ "Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.")
 
 Your daily random xkcd
