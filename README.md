@@ -1,4 +1,4 @@
-## Pillow Talk
-[![Maybe I should've tried Wexler?](https://imgs.xkcd.com/comics/pillow_talk.jpg)](https://xkcd.com/69/ "Maybe I should've tried Wexler?")
+## Quantum
+[![If you draw a diagonal line from lower left to upper right, that's the ICP 'Miracles' axis.](https://imgs.xkcd.com/comics/quantum.png)](https://xkcd.com/1861/ "If you draw a diagonal line from lower left to upper right, that's the ICP 'Miracles' axis.")
 
 Your daily random xkcd
