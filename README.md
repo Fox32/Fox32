@@ -1,4 +1,4 @@
-## Moving Boxes
-[![Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.](https://imgs.xkcd.com/comics/moving_boxes.png)](https://xkcd.com/1762/ "Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.")
+## Every Seven Seconds
+[![Every few months, I think about sex every seven seconds and how weird and implausible it would be.](https://imgs.xkcd.com/comics/every_seven_seconds.png)](https://xkcd.com/1564/ "Every few months, I think about sex every seven seconds and how weird and implausible it would be.")
 
 Your daily random xkcd
