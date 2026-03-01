@@ -1,4 +1,4 @@
-## Flatland
-[![Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.](https://imgs.xkcd.com/comics/flatland.png)](https://xkcd.com/721/ "Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.")
+## Thoughts
+[![And now I might never get to again.](https://imgs.xkcd.com/comics/thoughts.png)](https://xkcd.com/275/ "And now I might never get to again.")
 
 Your daily random xkcd
