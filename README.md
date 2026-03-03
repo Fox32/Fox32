@@ -1,4 +1,4 @@
-## Cloud
-[![Cloud computing has a ways to go.](https://imgs.xkcd.com/comics/cloud.png)](https://xkcd.com/1444/ "Cloud computing has a ways to go.")
+## Papyrus
+[![I secretly, deep in my guilty heart, like Papyrus and don't care if it's overused. [Cue hate mail in beautifully-kerned Helvetica.]](https://imgs.xkcd.com/comics/papyrus.png)](https://xkcd.com/590/ "I secretly, deep in my guilty heart, like Papyrus and don't care if it's overused. [Cue hate mail in beautifully-kerned Helvetica.]")
 
 Your daily random xkcd
