@@ -1,4 +1,4 @@
-## Cautionary Ghost
-[![But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.](https://imgs.xkcd.com/comics/cautionary_ghost.png)](https://xkcd.com/1108/ "But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.")
+## Mathematical Symbol Fight
+[![Oh no, a musician just burst in through the door confidently twirling a treble clef.](https://imgs.xkcd.com/comics/mathematical_symbol_fight.png)](https://xkcd.com/2343/ "Oh no, a musician just burst in through the door confidently twirling a treble clef.")
 
 Your daily random xkcd
