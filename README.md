@@ -1,4 +1,4 @@
-## Mathematical Symbol Fight
-[![Oh no, a musician just burst in through the door confidently twirling a treble clef.](https://imgs.xkcd.com/comics/mathematical_symbol_fight.png)](https://xkcd.com/2343/ "Oh no, a musician just burst in through the door confidently twirling a treble clef.")
+## Conditional Risk
+[!['Dude, wait -- I'm not American! So my risk is basically zero!'](https://imgs.xkcd.com/comics/conditional_risk.png)](https://xkcd.com/795/ "'Dude, wait -- I'm not American! So my risk is basically zero!'")
 
 Your daily random xkcd
