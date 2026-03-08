@@ -1,4 +1,4 @@
-## Compact Graphs
-[![People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.](https://imgs.xkcd.com/comics/compact_graphs.png)](https://xkcd.com/2864/ "People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.")
+## Unicode
+[![I'm excited about the proposal to add a "brontosaurus" emoji codepoint because it has the potential to bring together a half-dozen different groups of pedantic people into a single glorious internet argument.](https://imgs.xkcd.com/comics/unicode.png)](https://xkcd.com/1726/ "I'm excited about the proposal to add a "brontosaurus" emoji codepoint because it has the potential to bring together a half-dozen different groups of pedantic people into a single glorious internet argument.")
 
 Your daily random xkcd
