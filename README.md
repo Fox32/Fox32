@@ -1,4 +1,4 @@
-## US State Names
-[![Technically DC isn't a state, but no one is too pedantic about it because they don't want to disturb the snakes.](https://imgs.xkcd.com/comics/us_state_names.png)](https://xkcd.com/1767/ "Technically DC isn't a state, but no one is too pedantic about it because they don't want to disturb the snakes.")
+## Definitely
+[![A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard.](https://imgs.xkcd.com/comics/definitely.png)](https://xkcd.com/2871/ "A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard.")
 
 Your daily random xkcd
