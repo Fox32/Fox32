@@ -1,4 +1,4 @@
-## Subways
-[![About one in three North American subway stops are in NYC.](https://imgs.xkcd.com/comics/subways.png)](https://xkcd.com/1196/ "About one in three North American subway stops are in NYC.")
+## Worst-Case Shopping
+[![Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.](https://imgs.xkcd.com/comics/worst_case_shopping.png)](https://xkcd.com/909/ "Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.")
 
 Your daily random xkcd
