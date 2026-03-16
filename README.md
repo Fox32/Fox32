@@ -1,4 +1,4 @@
-## Worst-Case Shopping
-[![Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.](https://imgs.xkcd.com/comics/worst_case_shopping.png)](https://xkcd.com/909/ "Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.")
+## Thinking Ahead
+[![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)](https://xkcd.com/439/ "Did he just go crazy and jump out the window?")
 
 Your daily random xkcd
