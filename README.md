@@ -1,4 +1,4 @@
-## Thinking Ahead
-[![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)](https://xkcd.com/439/ "Did he just go crazy and jump out the window?")
+## Journal 4
+[![Man, this emo shit was supposed to be for people who didn't have hats.](https://imgs.xkcd.com/comics/journal_4.png)](https://xkcd.com/432/ "Man, this emo shit was supposed to be for people who didn't have hats.")
 
 Your daily random xkcd
