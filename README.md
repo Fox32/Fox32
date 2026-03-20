@@ -1,4 +1,4 @@
-## Worrying
-[![If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.](https://imgs.xkcd.com/comics/worrying.png)](https://xkcd.com/1468/ "If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.")
+## Bookstore
+[![You can search it if you want, but you may want to skip the memories of your mom.](https://imgs.xkcd.com/comics/bookstore.png)](https://xkcd.com/294/ "You can search it if you want, but you may want to skip the memories of your mom.")
 
 Your daily random xkcd
