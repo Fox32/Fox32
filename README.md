@@ -1,4 +1,4 @@
-## Bookstore
-[![You can search it if you want, but you may want to skip the memories of your mom.](https://imgs.xkcd.com/comics/bookstore.png)](https://xkcd.com/294/ "You can search it if you want, but you may want to skip the memories of your mom.")
+## Frogger
+[![I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.](https://imgs.xkcd.com/comics/frogger.png)](https://xkcd.com/772/ "I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.")
 
 Your daily random xkcd
