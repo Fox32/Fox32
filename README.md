@@ -1,4 +1,4 @@
-## Rock Band
-[![I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.](https://imgs.xkcd.com/comics/rock_band.png)](https://xkcd.com/359/ "I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.")
+## Flow Charts
+[![At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!](https://imgs.xkcd.com/comics/flow_charts.png)](https://xkcd.com/518/ "At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!")
 
 Your daily random xkcd
