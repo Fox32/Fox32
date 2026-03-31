@@ -1,4 +1,4 @@
-## First Post
-[!['Nuh-uh! We let users vote on comments and display them by number of votes. Everyone knows that makes it impossible for a few persistent voices to dominate the discussion.'](https://imgs.xkcd.com/comics/first_post.png)](https://xkcd.com/1019/ "'Nuh-uh! We let users vote on comments and display them by number of votes. Everyone knows that makes it impossible for a few persistent voices to dominate the discussion.'")
+## National Language
+[![She's pretty sharp when provoked.](https://imgs.xkcd.com/comics/national_language.jpg)](https://xkcd.com/84/ "She's pretty sharp when provoked.")
 
 Your daily random xkcd
