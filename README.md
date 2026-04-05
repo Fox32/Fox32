@@ -1,4 +1,4 @@
-## Substitutions 3
-[![BREAKING: Channing Tatum and his friends explore haunted city](https://imgs.xkcd.com/comics/substitutions_3.png)](https://xkcd.com/1679/ "BREAKING: Channing Tatum and his friends explore haunted city")
+## Security Advice
+[![Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.](https://imgs.xkcd.com/comics/security_advice.png)](https://xkcd.com/1820/ "Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.")
 
 Your daily random xkcd
