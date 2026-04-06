@@ -1,4 +1,4 @@
-## Security Advice
-[![Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.](https://imgs.xkcd.com/comics/security_advice.png)](https://xkcd.com/1820/ "Never give your password or bank account number to anyone who doesn't have a blue check mark next to their name.")
+## Freemanic Paracusia
+[![It's amazing what it does for YouTube comments.](https://imgs.xkcd.com/comics/freemanic_paracusia.png)](https://xkcd.com/462/ "It's amazing what it does for YouTube comments.")
 
 Your daily random xkcd
