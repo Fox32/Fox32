@@ -1,4 +1,4 @@
-## Freemanic Paracusia
-[![It's amazing what it does for YouTube comments.](https://imgs.xkcd.com/comics/freemanic_paracusia.png)](https://xkcd.com/462/ "It's amazing what it does for YouTube comments.")
+## Chemical Formulas
+[![Can you pass the nackle?](https://imgs.xkcd.com/comics/chemical_formulas.png)](https://xkcd.com/3040/ "Can you pass the nackle?")
 
 Your daily random xkcd
