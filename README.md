@@ -1,4 +1,4 @@
-## Tennis Balls
-[![After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.](https://imgs.xkcd.com/comics/tennis_balls.png)](https://xkcd.com/3080/ "After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.")
+## Internet Argument
+[![It's easier to be an asshole to words than to people.](https://imgs.xkcd.com/comics/internet_argument.png)](https://xkcd.com/438/ "It's easier to be an asshole to words than to people.")
 
 Your daily random xkcd
