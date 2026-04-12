@@ -1,4 +1,4 @@
-## Consecutive Vowels
-[![But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.](https://imgs.xkcd.com/comics/consecutive_vowels.png)](https://xkcd.com/853/ "But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.")
+## Car Model Names
+[![CLIMAX is good, but SEXCLIMAX is even better.](https://imgs.xkcd.com/comics/car_model_names.png)](https://xkcd.com/1571/ "CLIMAX is good, but SEXCLIMAX is even better.")
 
 Your daily random xkcd
