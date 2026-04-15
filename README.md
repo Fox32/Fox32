@@ -1,4 +1,4 @@
-## Future Archaeology
-[!["The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."](https://imgs.xkcd.com/comics/future_archaeology.png)](https://xkcd.com/1748/ ""The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."")
+## 28-Hour Day
+[![Small print: this schedule will eventually drive one stark raving mad.](https://imgs.xkcd.com/comics/28_hour_day.png)](https://xkcd.com/320/ "Small print: this schedule will eventually drive one stark raving mad.")
 
 Your daily random xkcd
