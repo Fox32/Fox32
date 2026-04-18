@@ -1,4 +1,4 @@
-## Wish Interpretation
-[!["I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."](https://imgs.xkcd.com/comics/wish_interpretation.png)](https://xkcd.com/2741/ ""I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."")
+## Timeghost
+[!['Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'](https://imgs.xkcd.com/comics/timeghost.png)](https://xkcd.com/1393/ "'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'")
 
 Your daily random xkcd
