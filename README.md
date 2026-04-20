@@ -1,4 +1,4 @@
-## MarketWatch
-[![Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.](https://imgs.xkcd.com/comics/marketwatch.png)](https://xkcd.com/1600/ "Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.")
+## Rubber and Glue
+[![I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.](https://imgs.xkcd.com/comics/rubber_and_glue.png)](https://xkcd.com/1139/ "I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.")
 
 Your daily random xkcd
