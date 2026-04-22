@@ -1,4 +1,4 @@
-## Rose Petals
-[![Joke's on you--the Roomba and I had a LOVELY evening.](https://imgs.xkcd.com/comics/rose_petals.png)](https://xkcd.com/1183/ "Joke's on you--the Roomba and I had a LOVELY evening.")
+## Terror Bird
+[![There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.](https://imgs.xkcd.com/comics/terror_bird.png)](https://xkcd.com/3069/ "There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.")
 
 Your daily random xkcd
