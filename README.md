@@ -1,4 +1,4 @@
-## Terror Bird
-[![There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.](https://imgs.xkcd.com/comics/terror_bird.png)](https://xkcd.com/3069/ "There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.")
+## My Business Idea
+[![We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.](https://imgs.xkcd.com/comics/my_business_idea.png)](https://xkcd.com/827/ "We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.")
 
 Your daily random xkcd
