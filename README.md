@@ -1,4 +1,4 @@
-## My Business Idea
-[![We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.](https://imgs.xkcd.com/comics/my_business_idea.png)](https://xkcd.com/827/ "We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.")
+## Coronavirus Polling
+[![If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.](https://imgs.xkcd.com/comics/coronavirus_polling.png)](https://xkcd.com/2305/ "If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.")
 
 Your daily random xkcd
