@@ -1,4 +1,4 @@
-## Coronavirus Polling
-[![If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.](https://imgs.xkcd.com/comics/coronavirus_polling.png)](https://xkcd.com/2305/ "If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.")
+## Bad Date
+[!["Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."](https://imgs.xkcd.com/comics/bad_date.png)](https://xkcd.com/2698/ ""Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."")
 
 Your daily random xkcd
