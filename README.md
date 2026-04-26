@@ -1,4 +1,4 @@
-## Bad Date
-[!["Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."](https://imgs.xkcd.com/comics/bad_date.png)](https://xkcd.com/2698/ ""Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."")
+## Mine Captcha
+[![This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496/ "This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.")
 
 Your daily random xkcd
