@@ -1,4 +1,4 @@
-## Mine Captcha
-[![This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496/ "This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.")
+## Backslashes
+[![I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "[[(].*[])][^)]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.](https://imgs.xkcd.com/comics/backslashes.png)](https://xkcd.com/1638/ "I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "[[(].*[])][^)]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.")
 
 Your daily random xkcd
