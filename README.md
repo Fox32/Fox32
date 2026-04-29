@@ -1,4 +1,4 @@
-## Coronavirus Genome
-[![Spellcheck has been great, but whoever figures out how to get grammar check to work is guaranteed a Nobel.](https://imgs.xkcd.com/comics/coronavirus_genome.png)](https://xkcd.com/2298/ "Spellcheck has been great, but whoever figures out how to get grammar check to work is guaranteed a Nobel.")
+## CrowdStrike
+[![We were going to try swordfighting, but all my compiling is on hold.](https://imgs.xkcd.com/comics/crowdstrike.png)](https://xkcd.com/2961/ "We were going to try swordfighting, but all my compiling is on hold.")
 
 Your daily random xkcd
