@@ -1,4 +1,4 @@
-## CrowdStrike
-[![We were going to try swordfighting, but all my compiling is on hold.](https://imgs.xkcd.com/comics/crowdstrike.png)](https://xkcd.com/2961/ "We were going to try swordfighting, but all my compiling is on hold.")
+## A Better Idea
+[![It's *almost* enough to make me want to redo high school.](https://imgs.xkcd.com/comics/a_better_idea.png)](https://xkcd.com/422/ "It's *almost* enough to make me want to redo high school.")
 
 Your daily random xkcd
