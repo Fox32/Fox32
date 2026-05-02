@@ -1,4 +1,4 @@
-## Secretary: Part 1
-[![The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.](https://imgs.xkcd.com/comics/secretary_part_1.png)](https://xkcd.com/494/ "The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.")
+## Comments
+[![NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.](https://imgs.xkcd.com/comics/comments.png)](https://xkcd.com/2159/ "NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.")
 
 Your daily random xkcd
