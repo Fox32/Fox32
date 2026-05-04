@@ -1,4 +1,4 @@
-## Comments
-[![NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.](https://imgs.xkcd.com/comics/comments.png)](https://xkcd.com/2159/ "NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.")
+## Unification
+[![For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney.](https://imgs.xkcd.com/comics/unification.png)](https://xkcd.com/1956/ "For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney.")
 
 Your daily random xkcd
