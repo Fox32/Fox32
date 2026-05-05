@@ -1,4 +1,4 @@
-## Unification
-[![For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney.](https://imgs.xkcd.com/comics/unification.png)](https://xkcd.com/1956/ "For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney.")
+## Kindle
+[![I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.](https://imgs.xkcd.com/comics/kindle.png)](https://xkcd.com/548/ "I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.")
 
 Your daily random xkcd
