@@ -1,4 +1,4 @@
-## Kindle
-[![I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.](https://imgs.xkcd.com/comics/kindle.png)](https://xkcd.com/548/ "I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.")
+## Epistemic Uncertainty
+[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
 
 Your daily random xkcd
