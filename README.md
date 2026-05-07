@@ -1,4 +1,4 @@
-## Epistemic Uncertainty
-[![Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440/ "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.")
+## Identification Chart
+[![Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.](https://imgs.xkcd.com/comics/identification_chart.png)](https://xkcd.com/1824/ "Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.")
 
 Your daily random xkcd
