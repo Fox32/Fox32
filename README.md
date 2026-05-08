@@ -1,4 +1,4 @@
-## Identification Chart
-[![Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.](https://imgs.xkcd.com/comics/identification_chart.png)](https://xkcd.com/1824/ "Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.")
+## Coordinate Plane Closure
+[![3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.](https://imgs.xkcd.com/comics/coordinate_plane_closure.png)](https://xkcd.com/2735/ "3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.")
 
 Your daily random xkcd
