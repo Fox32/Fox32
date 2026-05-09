@@ -1,4 +1,4 @@
-## Coordinate Plane Closure
-[![3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.](https://imgs.xkcd.com/comics/coordinate_plane_closure.png)](https://xkcd.com/2735/ "3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.")
+## Hack
+[![HACK THE STARS](https://imgs.xkcd.com/comics/hack.png)](https://xkcd.com/1337/ "HACK THE STARS")
 
 Your daily random xkcd
