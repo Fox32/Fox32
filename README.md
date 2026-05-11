@@ -1,4 +1,4 @@
-## 11th Grade
-[![And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.](https://imgs.xkcd.com/comics/11th_grade.png)](https://xkcd.com/519/ "And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.")
+## The End is Not for a While
+[![I THINK EVERYONE INVOLVED HERE IS CUTE.](https://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png)](https://xkcd.com/470/ "I THINK EVERYONE INVOLVED HERE IS CUTE.")
 
 Your daily random xkcd
