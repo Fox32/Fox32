@@ -1,4 +1,4 @@
-## The End is Not for a While
-[![I THINK EVERYONE INVOLVED HERE IS CUTE.](https://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png)](https://xkcd.com/470/ "I THINK EVERYONE INVOLVED HERE IS CUTE.")
+## Mine Captcha
+[![This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496/ "This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.")
 
 Your daily random xkcd
