@@ -1,4 +1,4 @@
-## Manuals
-[![The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'](https://imgs.xkcd.com/comics/manuals.png)](https://xkcd.com/1343/ "The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'")
+## Pascal's Law
+[![Reductio ad absurdum fails when reality is absurd.](https://imgs.xkcd.com/comics/pascals_law.png)](https://xkcd.com/3087/ "Reductio ad absurdum fails when reality is absurd.")
 
 Your daily random xkcd
