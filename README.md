@@ -1,4 +1,4 @@
-## Kites
-[![[Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!](https://imgs.xkcd.com/comics/kites.png)](https://xkcd.com/1614/ "[Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!")
+## Insight
+[![The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.](https://imgs.xkcd.com/comics/insight.png)](https://xkcd.com/1215/ "The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.")
 
 Your daily random xkcd
