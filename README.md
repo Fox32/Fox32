@@ -1,4 +1,4 @@
-## Insight
-[![The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.](https://imgs.xkcd.com/comics/insight.png)](https://xkcd.com/1215/ "The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.")
+## Wikifriends
+[![It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.](https://imgs.xkcd.com/comics/wikifriends.png)](https://xkcd.com/185/ "It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.")
 
 Your daily random xkcd
