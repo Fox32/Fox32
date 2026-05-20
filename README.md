@@ -1,4 +1,4 @@
-## Wikifriends
-[![It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.](https://imgs.xkcd.com/comics/wikifriends.png)](https://xkcd.com/185/ "It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.")
+## Before Sunrise
+[![It's an amazing time of day; the light is great for photography.](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/ "It's an amazing time of day; the light is great for photography.")
 
 Your daily random xkcd
