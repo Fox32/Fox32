@@ -1,4 +1,4 @@
-## Before Sunrise
-[![It's an amazing time of day; the light is great for photography.](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/ "It's an amazing time of day; the light is great for photography.")
+## Aeris Dies
+[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
 
 Your daily random xkcd
