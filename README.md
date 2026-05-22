@@ -1,4 +1,4 @@
-## Aeris Dies
-[![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)](https://xkcd.com/299/ "It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.")
+## Artifacts
+[![I didn't even realize you could HAVE a data set made up entirely of outliers.](https://imgs.xkcd.com/comics/artifacts.png)](https://xkcd.com/1781/ "I didn't even realize you could HAVE a data set made up entirely of outliers.")
 
 Your daily random xkcd
