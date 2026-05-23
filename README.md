@@ -1,4 +1,4 @@
-## Artifacts
-[![I didn't even realize you could HAVE a data set made up entirely of outliers.](https://imgs.xkcd.com/comics/artifacts.png)](https://xkcd.com/1781/ "I didn't even realize you could HAVE a data set made up entirely of outliers.")
+## Autoresponder
+[![I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!](https://imgs.xkcd.com/comics/autoresponder.png)](https://xkcd.com/2574/ "I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!")
 
 Your daily random xkcd
