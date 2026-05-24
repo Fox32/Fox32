@@ -1,4 +1,4 @@
-## Autoresponder
-[![I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!](https://imgs.xkcd.com/comics/autoresponder.png)](https://xkcd.com/2574/ "I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!")
+## Tape Measure
+[![This sequence was later reproduced in the International Tape-Extending Federation archives, retitled 'The Founding of the Sport'.](https://imgs.xkcd.com/comics/tape_measure.png)](https://xkcd.com/284/ "This sequence was later reproduced in the International Tape-Extending Federation archives, retitled 'The Founding of the Sport'.")
 
 Your daily random xkcd
