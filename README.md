@@ -1,4 +1,4 @@
-## Voyager 1
-[![So far Voyager 1 has 'left the Solar System' by passing through the termination shock three times, the heliopause twice, and once each through the heliosheath, heliosphere, heliodrome, auroral discontinuity, Heaviside layer, trans-Neptunian panic zone, magnetogap, US Census Bureau Solar System statistical boundary, Kuiper gauntlet, Oort void, and crystal sphere holding the fixed stars.](https://imgs.xkcd.com/comics/voyager_1.png)](https://xkcd.com/1189/ "So far Voyager 1 has 'left the Solar System' by passing through the termination shock three times, the heliopause twice, and once each through the heliosheath, heliosphere, heliodrome, auroral discontinuity, Heaviside layer, trans-Neptunian panic zone, magnetogap, US Census Bureau Solar System statistical boundary, Kuiper gauntlet, Oort void, and crystal sphere holding the fixed stars.")
+## Board Game
+[![Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.](https://imgs.xkcd.com/comics/board_game.png)](https://xkcd.com/1566/ "Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.")
 
 Your daily random xkcd
