@@ -1,4 +1,4 @@
-## Board Game
-[![Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.](https://imgs.xkcd.com/comics/board_game.png)](https://xkcd.com/1566/ "Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.")
+## Guest Week: Bill Amend (FoxTrot)
+[![Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)](https://xkcd.com/824/ "Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.")
 
 Your daily random xkcd
