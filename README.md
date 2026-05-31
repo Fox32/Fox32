@@ -1,4 +1,4 @@
-## Smartwatches
-[![This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.](https://imgs.xkcd.com/comics/smartwatches.png)](https://xkcd.com/1372/ "This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.")
+## Ages
+[![Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."](https://imgs.xkcd.com/comics/ages.png)](https://xkcd.com/907/ "Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."")
 
 Your daily random xkcd
