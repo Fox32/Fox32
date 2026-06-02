@@ -1,4 +1,4 @@
-## Frogger
-[![I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.](https://imgs.xkcd.com/comics/frogger.png)](https://xkcd.com/772/ "I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.")
+## First
+[![Fortunately, exactly zero other annoying internet behaviors have developed during this time.](https://imgs.xkcd.com/comics/first.png)](https://xkcd.com/1258/ "Fortunately, exactly zero other annoying internet behaviors have developed during this time.")
 
 Your daily random xkcd
