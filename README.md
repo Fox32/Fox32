@@ -1,4 +1,4 @@
-## First
-[![Fortunately, exactly zero other annoying internet behaviors have developed during this time.](https://imgs.xkcd.com/comics/first.png)](https://xkcd.com/1258/ "Fortunately, exactly zero other annoying internet behaviors have developed during this time.")
+## Debugger
+[![It can take a site a while to figure out that there's a problem with their 'report a bug' form.](https://imgs.xkcd.com/comics/debugger.png)](https://xkcd.com/1163/ "It can take a site a while to figure out that there's a problem with their 'report a bug' form.")
 
 Your daily random xkcd
