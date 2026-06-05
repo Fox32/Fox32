@@ -1,4 +1,4 @@
-## Document Forgery
-[![It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...](https://imgs.xkcd.com/comics/document_forgery.png)](https://xkcd.com/3160/ "It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...")
+## Star Ratings
+[![I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...](https://imgs.xkcd.com/comics/star_ratings.png)](https://xkcd.com/1098/ "I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...")
 
 Your daily random xkcd
