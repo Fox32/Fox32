@@ -1,4 +1,4 @@
-## Sea Level
-[![They're up there with coral islands, lightning, and caterpillars turning into butterflies.](https://imgs.xkcd.com/comics/sea_level.png)](https://xkcd.com/3135/ "They're up there with coral islands, lightning, and caterpillars turning into butterflies.")
+## Musical Scales
+[![In the Hall of the Mountain King was accidentally composed on log/log paper.](https://imgs.xkcd.com/comics/musical_scales.png)](https://xkcd.com/2788/ "In the Hall of the Mountain King was accidentally composed on log/log paper.")
 
 Your daily random xkcd
