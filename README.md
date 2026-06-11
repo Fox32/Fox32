@@ -1,4 +1,4 @@
-## My Sky
-[![According to my mom, my first word was (looking up at the sky) 'Wow!'](https://imgs.xkcd.com/comics/my_sky.png)](https://xkcd.com/1117/ "According to my mom, my first word was (looking up at the sky) 'Wow!'")
+## Rest and Fluids
+[![Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.](https://imgs.xkcd.com/comics/rest_and_fluids.png)](https://xkcd.com/2580/ "Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.")
 
 Your daily random xkcd
