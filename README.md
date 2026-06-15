@@ -1,4 +1,4 @@
-## Recreate the Conditions
-[![We've almost finished constructing the piña collider.](https://imgs.xkcd.com/comics/recreate_the_conditions.png)](https://xkcd.com/2511/ "We've almost finished constructing the piña collider.")
+## Light Hacks
+[![Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.](https://imgs.xkcd.com/comics/light_hacks.png)](https://xkcd.com/2024/ "Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.")
 
 Your daily random xkcd
