@@ -1,4 +1,4 @@
-## Light Hacks
-[![Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.](https://imgs.xkcd.com/comics/light_hacks.png)](https://xkcd.com/2024/ "Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.")
+## Hubble Tension
+[![Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!](https://imgs.xkcd.com/comics/hubble_tension.png)](https://xkcd.com/2516/ "Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!")
 
 Your daily random xkcd
