@@ -1,4 +1,4 @@
-## Hubble Tension
-[![Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!](https://imgs.xkcd.com/comics/hubble_tension.png)](https://xkcd.com/2516/ "Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!")
+## Faraday Tour
+[![I asked them if it was safe to be running tours during the pandemic. They said, "During the what?"](https://imgs.xkcd.com/comics/faraday_tour.png)](https://xkcd.com/2338/ "I asked them if it was safe to be running tours during the pandemic. They said, "During the what?"")
 
 Your daily random xkcd
