@@ -1,4 +1,4 @@
-## Transit of Mercury
-[![For some reason the water in my pool is green and there's a weird film on the surface #nofilter](https://imgs.xkcd.com/comics/transit_of_mercury.png)](https://xkcd.com/2227/ "For some reason the water in my pool is green and there's a weird film on the surface #nofilter")
+## Projecting
+[![This is something we all need to work on, but especially you all.](https://imgs.xkcd.com/comics/projecting.png)](https://xkcd.com/2506/ "This is something we all need to work on, but especially you all.")
 
 Your daily random xkcd
