@@ -1,4 +1,4 @@
-## Chaos
-[![Although the oral exam for the doctorate was just 'can you do that weird laugh?'](https://imgs.xkcd.com/comics/chaos.png)](https://xkcd.com/1399/ "Although the oral exam for the doctorate was just 'can you do that weird laugh?'")
+## Book Burning
+[![Of course, since their cautionary tale was reported in a print newspaper, no one read it.](https://imgs.xkcd.com/comics/book_burning.png)](https://xkcd.com/750/ "Of course, since their cautionary tale was reported in a print newspaper, no one read it.")
 
 Your daily random xkcd
