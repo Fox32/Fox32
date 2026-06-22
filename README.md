@@ -1,4 +1,4 @@
-## Book Burning
-[![Of course, since their cautionary tale was reported in a print newspaper, no one read it.](https://imgs.xkcd.com/comics/book_burning.png)](https://xkcd.com/750/ "Of course, since their cautionary tale was reported in a print newspaper, no one read it.")
+## Digital Data
+[![â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!](https://imgs.xkcd.com/comics/digital_data.png)](https://xkcd.com/1683/ "â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!")
 
 Your daily random xkcd
