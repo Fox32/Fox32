@@ -1,4 +1,4 @@
-## Timeline of the Universe
-[![Not actual size, except technically at one spot near the left.](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)](https://xkcd.com/2240/ "Not actual size, except technically at one spot near the left.")
+## Woosh
+[![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/ "It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.")
 
 Your daily random xkcd
