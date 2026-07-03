@@ -1,4 +1,4 @@
-## Never Seen Star Wars
-[![If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.](https://imgs.xkcd.com/comics/never_seen_star_wars.png)](https://xkcd.com/1769/ "If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.")
+## The Universe by Scientific Field
+[![The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.](https://imgs.xkcd.com/comics/the_universe_by_scientific_field.png)](https://xkcd.com/2640/ "The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.")
 
 Your daily random xkcd
