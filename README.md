@@ -1,4 +1,4 @@
-## The Universe by Scientific Field
-[![The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.](https://imgs.xkcd.com/comics/the_universe_by_scientific_field.png)](https://xkcd.com/2640/ "The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.")
+## Research Ethics
+[![I mean, it's not like we could just demand to see the code that's governing our lives. What right do we have to poke around in Facebook's private affairs like that?](https://imgs.xkcd.com/comics/research_ethics.png)](https://xkcd.com/1390/ "I mean, it's not like we could just demand to see the code that's governing our lives. What right do we have to poke around in Facebook's private affairs like that?")
 
 Your daily random xkcd
