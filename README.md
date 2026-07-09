@@ -1,4 +1,4 @@
-## Throw
-[![this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to](https://imgs.xkcd.com/comics/throw.png)](https://xkcd.com/2198/ "this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to")
+## Planet Killer Comet Margarita
+[![I'll take mine on the rocks, no ice.](https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png)](https://xkcd.com/2729/ "I'll take mine on the rocks, no ice.")
 
 Your daily random xkcd
