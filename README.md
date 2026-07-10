@@ -1,4 +1,4 @@
-## Planet Killer Comet Margarita
-[![I'll take mine on the rocks, no ice.](https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png)](https://xkcd.com/2729/ "I'll take mine on the rocks, no ice.")
+## Computer Problems
+[![This is how I explain computer problems to my cat. My cat usually seems happier than me.](https://imgs.xkcd.com/comics/computer_problems.png)](https://xkcd.com/722/ "This is how I explain computer problems to my cat. My cat usually seems happier than me.")
 
 Your daily random xkcd
