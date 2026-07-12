@@ -1,4 +1,4 @@
-## Pickup Lines
-[![That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.](https://imgs.xkcd.com/comics/pickup_lines.png)](https://xkcd.com/279/ "That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.")
+## Open Mic Night
+[![Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?](https://imgs.xkcd.com/comics/open_mic_night.png)](https://xkcd.com/785/ "Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?")
 
 Your daily random xkcd
