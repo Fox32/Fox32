@@ -1,4 +1,4 @@
-## Open Mic Night
-[![Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?](https://imgs.xkcd.com/comics/open_mic_night.png)](https://xkcd.com/785/ "Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?")
+## #NowPlaying
+[![If you click on the post, it takes you to search results for the note on various online music stores.](https://imgs.xkcd.com/comics/nowplaying.png)](https://xkcd.com/1482/ "If you click on the post, it takes you to search results for the note on various online music stores.")
 
 Your daily random xkcd
