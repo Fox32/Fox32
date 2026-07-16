@@ -1,4 +1,4 @@
-## Geeks and Nerds
-[![The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.](https://imgs.xkcd.com/comics/geeks_and_nerds.png)](https://xkcd.com/747/ "The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.")
+## Baby Post
+[![[bzzzt] "REMEMBER TO CHECK IN FOR YOUR FLIGHT TO LONDON." "My wha-" [bzzzt] "YOUR UBER WILL ARRIVE IN FOUR MINUTES."](https://imgs.xkcd.com/comics/baby_post.png)](https://xkcd.com/1765/ "[bzzzt] "REMEMBER TO CHECK IN FOR YOUR FLIGHT TO LONDON." "My wha-" [bzzzt] "YOUR UBER WILL ARRIVE IN FOUR MINUTES."")
 
 Your daily random xkcd
