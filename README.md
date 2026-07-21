@@ -1,4 +1,4 @@
-## Hot Water Balloon
-[![Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.](https://imgs.xkcd.com/comics/hot_water_balloon.png)](https://xkcd.com/3153/ "Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.")
+## Dependencies
+[![The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.](https://imgs.xkcd.com/comics/dependencies.png)](https://xkcd.com/754/ "The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.")
 
 Your daily random xkcd
