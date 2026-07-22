@@ -1,4 +1,4 @@
-## Dependencies
-[![The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.](https://imgs.xkcd.com/comics/dependencies.png)](https://xkcd.com/754/ "The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.")
+## Team Chat
+[![2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.](https://imgs.xkcd.com/comics/team_chat.png)](https://xkcd.com/1782/ "2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.")
 
 Your daily random xkcd
