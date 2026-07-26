@@ -1,4 +1,4 @@
-## Tukey
-[![Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.](https://imgs.xkcd.com/comics/tukey.png)](https://xkcd.com/3104/ "Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.")
+## Archimedes
+[![Give a man a fish, or he will destroy the only existing vial of antidote.](https://imgs.xkcd.com/comics/archimedes.png)](https://xkcd.com/857/ "Give a man a fish, or he will destroy the only existing vial of antidote.")
 
 Your daily random xkcd
