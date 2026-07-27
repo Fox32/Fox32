@@ -1,4 +1,4 @@
-## Archimedes
-[![Give a man a fish, or he will destroy the only existing vial of antidote.](https://imgs.xkcd.com/comics/archimedes.png)](https://xkcd.com/857/ "Give a man a fish, or he will destroy the only existing vial of antidote.")
+## 90's Flowchart
+[![Freestyle rapping is basically applied Markov chains.](https://imgs.xkcd.com/comics/90s_flowchart.png)](https://xkcd.com/210/ "Freestyle rapping is basically applied Markov chains.")
 
 Your daily random xkcd
