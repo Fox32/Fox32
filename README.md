@@ -1,4 +1,4 @@
-## 90's Flowchart
-[![Freestyle rapping is basically applied Markov chains.](https://imgs.xkcd.com/comics/90s_flowchart.png)](https://xkcd.com/210/ "Freestyle rapping is basically applied Markov chains.")
+## Truly Universal Outlet
+[![Building Inspectors HATE This One Weird Trick](https://imgs.xkcd.com/comics/truly_universal_outlet.png)](https://xkcd.com/3186/ "Building Inspectors HATE This One Weird Trick")
 
 Your daily random xkcd
