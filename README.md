@@ -1,4 +1,4 @@
-## Ringtone Timeline
-[![No one likes my novelty ringtone, an audio recording of a phone on vibrate sitting on a hard surface.](https://imgs.xkcd.com/comics/ringtone_timeline.png)](https://xkcd.com/2272/ "No one likes my novelty ringtone, an audio recording of a phone on vibrate sitting on a hard surface.")
+## Giants
+[![I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.](https://imgs.xkcd.com/comics/giants.png)](https://xkcd.com/3055/ "I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.")
 
 Your daily random xkcd
