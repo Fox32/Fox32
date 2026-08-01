@@ -1,4 +1,4 @@
-## Giants
-[![I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.](https://imgs.xkcd.com/comics/giants.png)](https://xkcd.com/3055/ "I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.")
+## Qualifiers
+[![[20 minutes later] ", hi."](https://imgs.xkcd.com/comics/qualifiers.png)](https://xkcd.com/2158/ "[20 minutes later] ", hi."")
 
 Your daily random xkcd
