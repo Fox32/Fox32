@@ -1,4 +1,4 @@
-## Density
-[![If only I had asked 4chan for ideas for what I should do to prevent this!](https://imgs.xkcd.com/comics/density.png)](https://xkcd.com/550/ "If only I had asked 4chan for ideas for what I should do to prevent this!")
+## Campaign Fundraising Emails
+[![The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...](https://imgs.xkcd.com/comics/campaign_fundraising_emails.png)](https://xkcd.com/1948/ "The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...")
 
 Your daily random xkcd
