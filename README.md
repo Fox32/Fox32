@@ -1,4 +1,4 @@
-## Campaign Fundraising Emails
-[![The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...](https://imgs.xkcd.com/comics/campaign_fundraising_emails.png)](https://xkcd.com/1948/ "The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...")
+## DNA
+[![Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.](https://imgs.xkcd.com/comics/dna.png)](https://xkcd.com/1605/ "Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.")
 
 Your daily random xkcd
