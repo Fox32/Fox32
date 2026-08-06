@@ -1,4 +1,4 @@
-## DNA
-[![Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.](https://imgs.xkcd.com/comics/dna.png)](https://xkcd.com/1605/ "Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.")
+## November 2016
+[![Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.](https://imgs.xkcd.com/comics/november_2016.png)](https://xkcd.com/1757/ "Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.")
 
 Your daily random xkcd
