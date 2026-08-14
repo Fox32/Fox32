@@ -1,4 +1,4 @@
-## Nolan Chart
-[![Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.](https://imgs.xkcd.com/comics/nolan_chart.png)](https://xkcd.com/868/ "Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.")
+## Ablogalypse
+[![Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.](https://imgs.xkcd.com/comics/ablogalypse.png)](https://xkcd.com/1043/ "Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.")
 
 Your daily random xkcd
