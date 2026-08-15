@@ -1,4 +1,4 @@
-## Ablogalypse
-[![Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.](https://imgs.xkcd.com/comics/ablogalypse.png)](https://xkcd.com/1043/ "Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.")
+## Clinically Studied Ingredient
+[![Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.](https://imgs.xkcd.com/comics/clinically_studied_ingredient.png)](https://xkcd.com/1096/ "Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.")
 
 Your daily random xkcd
