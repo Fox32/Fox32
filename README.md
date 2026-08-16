@@ -1,4 +1,4 @@
-## Clinically Studied Ingredient
-[![Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.](https://imgs.xkcd.com/comics/clinically_studied_ingredient.png)](https://xkcd.com/1096/ "Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.")
+## Slingshots
+[![In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.](https://imgs.xkcd.com/comics/slingshots.png)](https://xkcd.com/2981/ "In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.")
 
 Your daily random xkcd
