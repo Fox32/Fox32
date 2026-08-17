@@ -1,4 +1,4 @@
-## Slingshots
-[![In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.](https://imgs.xkcd.com/comics/slingshots.png)](https://xkcd.com/2981/ "In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.")
+## Color Pattern
+[![♫ When the spacing is tight / And the difference is slight / That's a moiré ♫](https://imgs.xkcd.com/comics/color_pattern.png)](https://xkcd.com/1814/ "♫ When the spacing is tight / And the difference is slight / That's a moiré ♫")
 
 Your daily random xkcd
