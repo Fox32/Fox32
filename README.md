@@ -1,4 +1,4 @@
-## Good Cop, Dadaist Cop
-[![NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)](https://xkcd.com/1018/ "NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.")
+## Occulting Telescope
+[![Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.](https://imgs.xkcd.com/comics/occulting_telescope.png)](https://xkcd.com/975/ "Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.")
 
 Your daily random xkcd
