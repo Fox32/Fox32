@@ -1,4 +1,4 @@
-## Occulting Telescope
-[![Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.](https://imgs.xkcd.com/comics/occulting_telescope.png)](https://xkcd.com/975/ "Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.")
+## Replication Crisis
+[![Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.](https://imgs.xkcd.com/comics/replication_crisis.png)](https://xkcd.com/3117/ "Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.")
 
 Your daily random xkcd
