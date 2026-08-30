@@ -1,4 +1,4 @@
-## Clinically Studied Ingredient
-[![Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.](https://imgs.xkcd.com/comics/clinically_studied_ingredient.png)](https://xkcd.com/1096/ "Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.")
+## Eclipse Clouds
+[![The rare compound solar-lunar-nephelogical eclipse](https://imgs.xkcd.com/comics/eclipse_clouds.png)](https://xkcd.com/2915/ "The rare compound solar-lunar-nephelogical eclipse")
 
 Your daily random xkcd
