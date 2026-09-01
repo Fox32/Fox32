@@ -1,4 +1,4 @@
-## Fountain
-[![Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!](https://imgs.xkcd.com/comics/fountain.png)](https://xkcd.com/1038/ "Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!")
+## Universal Converter Box
+[![Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.](https://imgs.xkcd.com/comics/universal_converter_box.png)](https://xkcd.com/1406/ "Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.")
 
 Your daily random xkcd
