@@ -1,4 +1,4 @@
-## Universal Converter Box
-[![Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.](https://imgs.xkcd.com/comics/universal_converter_box.png)](https://xkcd.com/1406/ "Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.")
+## Sunspot Cycle
+[![Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'](https://imgs.xkcd.com/comics/sunspot_cycle.png)](https://xkcd.com/2725/ "Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'")
 
 Your daily random xkcd
