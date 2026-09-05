@@ -1,4 +1,4 @@
-## Chemist Eggs
-[![Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.](https://imgs.xkcd.com/comics/chemist_eggs.png)](https://xkcd.com/2373/ "Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.")
+## Orbiter
+[![Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.](https://imgs.xkcd.com/comics/orbiter.png)](https://xkcd.com/787/ "Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.")
 
 Your daily random xkcd
