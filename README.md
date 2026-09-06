@@ -1,4 +1,4 @@
-## Orbiter
-[![Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.](https://imgs.xkcd.com/comics/orbiter.png)](https://xkcd.com/787/ "Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.")
+## Logic Gates
+[![In C, the multiocular O represents the bitwise norxondor gorgonax.](https://imgs.xkcd.com/comics/logic_gates.png)](https://xkcd.com/2497/ "In C, the multiocular O represents the bitwise norxondor gorgonax.")
 
 Your daily random xkcd
