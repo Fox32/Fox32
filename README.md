@@ -1,4 +1,4 @@
-## Logic Gates
-[![In C, the multiocular O represents the bitwise norxondor gorgonax.](https://imgs.xkcd.com/comics/logic_gates.png)](https://xkcd.com/2497/ "In C, the multiocular O represents the bitwise norxondor gorgonax.")
+## Legal Hacks
+[![It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.](https://imgs.xkcd.com/comics/legal_hacks.png)](https://xkcd.com/504/ "It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.")
 
 Your daily random xkcd
