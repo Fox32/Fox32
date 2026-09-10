@@ -1,4 +1,4 @@
-## Fresh Pears
-[![I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.](https://imgs.xkcd.com/comics/fresh_pears.png)](https://xkcd.com/2209/ "I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.")
+## Lithium Batteries
+[![I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.](https://imgs.xkcd.com/comics/lithium_batteries.png)](https://xkcd.com/560/ "I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.")
 
 Your daily random xkcd
