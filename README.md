@@ -1,4 +1,4 @@
-## Lithium Batteries
-[![I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.](https://imgs.xkcd.com/comics/lithium_batteries.png)](https://xkcd.com/560/ "I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.")
+## The True Meaning of Christmas
+[![They all made fun of Autometalogolex, but someday there will be a problem with Christmas that can only be solved if Santa somehow gets a serious headache, and then they'll see.](https://imgs.xkcd.com/comics/the_true_meaning_of_christmas.png)](https://xkcd.com/1932/ "They all made fun of Autometalogolex, but someday there will be a problem with Christmas that can only be solved if Santa somehow gets a serious headache, and then they'll see.")
 
 Your daily random xkcd
