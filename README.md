@@ -1,4 +1,4 @@
-## The True Meaning of Christmas
-[![They all made fun of Autometalogolex, but someday there will be a problem with Christmas that can only be solved if Santa somehow gets a serious headache, and then they'll see.](https://imgs.xkcd.com/comics/the_true_meaning_of_christmas.png)](https://xkcd.com/1932/ "They all made fun of Autometalogolex, but someday there will be a problem with Christmas that can only be solved if Santa somehow gets a serious headache, and then they'll see.")
+## Wake Up Sheeple
+[![You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/ "You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.")
 
 Your daily random xkcd
