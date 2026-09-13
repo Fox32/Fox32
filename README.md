@@ -1,4 +1,4 @@
-## Wake Up Sheeple
-[![You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/ "You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.")
+## Wifi vs Cellular
+[![According to the cable company reps who keep calling me, it's because I haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE WITH HBO, which is only $5 more per month for the first 6 months and five billion dollars per month after that.](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)](https://xkcd.com/1865/ "According to the cable company reps who keep calling me, it's because I haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE WITH HBO, which is only $5 more per month for the first 6 months and five billion dollars per month after that.")
 
 Your daily random xkcd
