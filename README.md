@@ -1,4 +1,4 @@
-## Wifi vs Cellular
-[![According to the cable company reps who keep calling me, it's because I haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE WITH HBO, which is only $5 more per month for the first 6 months and five billion dollars per month after that.](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)](https://xkcd.com/1865/ "According to the cable company reps who keep calling me, it's because I haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE WITH HBO, which is only $5 more per month for the first 6 months and five billion dollars per month after that.")
+## Money
+[![There, I showed you it.](https://imgs.xkcd.com/comics/money.png)](https://xkcd.com/980/ "There, I showed you it.")
 
 Your daily random xkcd
