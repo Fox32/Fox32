@@ -1,4 +1,4 @@
-## Money
-[![There, I showed you it.](https://imgs.xkcd.com/comics/money.png)](https://xkcd.com/980/ "There, I showed you it.")
+## Responsible Behavior
+[![Never bring tequila to a key-signing party.](https://imgs.xkcd.com/comics/responsible_behavior.png)](https://xkcd.com/364/ "Never bring tequila to a key-signing party.")
 
 Your daily random xkcd
