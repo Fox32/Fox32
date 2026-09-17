@@ -1,4 +1,4 @@
-## You Hang Up First
-[![No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.](https://imgs.xkcd.com/comics/you_hang_up_first.png)](https://xkcd.com/698/ "No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.")
+## Bun Alert
+[![Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.](https://imgs.xkcd.com/comics/bun_alert.png)](https://xkcd.com/1871/ "Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.")
 
 Your daily random xkcd
