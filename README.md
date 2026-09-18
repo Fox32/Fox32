@@ -1,4 +1,4 @@
-## Bun Alert
-[![Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.](https://imgs.xkcd.com/comics/bun_alert.png)](https://xkcd.com/1871/ "Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.")
+## Year in Review
+[![All in all, I give this year a C-. There were no aurora visible from my house and that comet evaporated. They'd better not cancel the 2017 eclipse.](https://imgs.xkcd.com/comics/year_in_review.png)](https://xkcd.com/1302/ "All in all, I give this year a C-. There were no aurora visible from my house and that comet evaporated. They'd better not cancel the 2017 eclipse.")
 
 Your daily random xkcd
