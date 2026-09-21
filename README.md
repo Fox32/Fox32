@@ -1,4 +1,4 @@
-## Home Solar
-[!["While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226/ ""While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."")
+## Optimal Bowling
+[![If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.](https://imgs.xkcd.com/comics/optimal_bowling.png)](https://xkcd.com/2711/ "If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.")
 
 Your daily random xkcd
