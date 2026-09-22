@@ -1,4 +1,4 @@
-## Optimal Bowling
-[![If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.](https://imgs.xkcd.com/comics/optimal_bowling.png)](https://xkcd.com/2711/ "If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.")
+## Jumping Frog Radius
+[![Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.](https://imgs.xkcd.com/comics/jumping_frog_radius.png)](https://xkcd.com/3181/ "Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.")
 
 Your daily random xkcd
