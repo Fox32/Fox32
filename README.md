@@ -1,4 +1,4 @@
-## Jack and Jill
-[![Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.](https://imgs.xkcd.com/comics/jack_and_jill.png)](https://xkcd.com/1662/ "Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.")
+## A Hypochondriac's Nightmare
+[![BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT](https://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png)](https://xkcd.com/1097/ "BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT")
 
 Your daily random xkcd
