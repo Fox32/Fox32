@@ -1,4 +1,4 @@
-## A Hypochondriac's Nightmare
-[![BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT](https://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png)](https://xkcd.com/1097/ "BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT")
+## Hair Growth Rate
+[![Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.](https://imgs.xkcd.com/comics/hair_growth_rate.png)](https://xkcd.com/2316/ "Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.")
 
 Your daily random xkcd
