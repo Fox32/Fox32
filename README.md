@@ -1,4 +1,4 @@
-## Hair Growth Rate
-[![Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.](https://imgs.xkcd.com/comics/hair_growth_rate.png)](https://xkcd.com/2316/ "Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.")
+## Grounded
+[![We should have you at the gate in just under two hours--two and a half if we get pulled over.](https://imgs.xkcd.com/comics/grounded.png)](https://xkcd.com/3124/ "We should have you at the gate in just under two hours--two and a half if we get pulled over.")
 
 Your daily random xkcd
