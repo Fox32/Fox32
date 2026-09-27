@@ -1,4 +1,4 @@
-## Grounded
-[![We should have you at the gate in just under two hours--two and a half if we get pulled over.](https://imgs.xkcd.com/comics/grounded.png)](https://xkcd.com/3124/ "We should have you at the gate in just under two hours--two and a half if we get pulled over.")
+## Highway Signs
+[![Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.](https://imgs.xkcd.com/comics/highway_signs.png)](https://xkcd.com/3289/ "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.")
 
 Your daily random xkcd
