@@ -1,4 +1,4 @@
-## Highway Signs
-[![Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.](https://imgs.xkcd.com/comics/highway_signs.png)](https://xkcd.com/3289/ "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.")
+## Square Units
+[![The biggest I've seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.](https://imgs.xkcd.com/comics/square_units.png)](https://xkcd.com/3065/ "The biggest I've seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.")
 
 Your daily random xkcd
