@@ -1,4 +1,4 @@
-## Barrel - Part 4
-[![:(](https://imgs.xkcd.com/comics/barrel_part_4.jpg)](https://xkcd.com/25/ ":(")
+## Disclaimer
+[![You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.](https://imgs.xkcd.com/comics/disclaimer.png)](https://xkcd.com/3126/ "You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.")
 
 Your daily random xkcd
