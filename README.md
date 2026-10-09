@@ -1,4 +1,4 @@
-## Millennials
-[![Ironically, I've been having these same arguments for at least a decade now. I thought we would have moved on by now, but somehow the snide complaints about millennials continue.](https://imgs.xkcd.com/comics/millennials.png)](https://xkcd.com/2165/ "Ironically, I've been having these same arguments for at least a decade now. I thought we would have moved on by now, but somehow the snide complaints about millennials continue.")
+## Rey and Kylo
+[![We're like 10+ movies in and the focus has been almost entirely on the WARS half.](https://imgs.xkcd.com/comics/rey_and_kylo.png)](https://xkcd.com/2229/ "We're like 10+ movies in and the focus has been almost entirely on the WARS half.")
 
 Your daily random xkcd
