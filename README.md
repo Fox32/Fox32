@@ -1,4 +1,4 @@
-## Rey and Kylo
-[![We're like 10+ movies in and the focus has been almost entirely on the WARS half.](https://imgs.xkcd.com/comics/rey_and_kylo.png)](https://xkcd.com/2229/ "We're like 10+ movies in and the focus has been almost entirely on the WARS half.")
+## Rabbit Introduction
+[![Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.](https://imgs.xkcd.com/comics/rabbit_introduction.png)](https://xkcd.com/2349/ "Washington state is seeing great success with reintroducing the Columbia River Basin subpopulation. We cannot allow them to further widen the interstate bun gap.")
 
 Your daily random xkcd
