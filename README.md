@@ -1,4 +1,4 @@
-## Children's Fantasy
-[![I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/ "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.")
+## Amazon
+[![Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.](https://imgs.xkcd.com/comics/amazon.png)](https://xkcd.com/1165/ "Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.")
 
 Your daily random xkcd
