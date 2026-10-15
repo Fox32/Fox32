@@ -1,4 +1,4 @@
-## Amazon
-[![Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.](https://imgs.xkcd.com/comics/amazon.png)](https://xkcd.com/1165/ "Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.")
+## Telescopes: Refractor vs Reflector
+[![On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.](https://imgs.xkcd.com/comics/telescopes_refractor_vs_reflector.png)](https://xkcd.com/1791/ "On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.")
 
 Your daily random xkcd
