@@ -1,4 +1,4 @@
-## Telescopes: Refractor vs Reflector
-[![On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.](https://imgs.xkcd.com/comics/telescopes_refractor_vs_reflector.png)](https://xkcd.com/1791/ "On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.")
+## Oily House Index
+[![We're underwater on our mortgage thanks to the low price of water.](https://imgs.xkcd.com/comics/oily_house_index.png)](https://xkcd.com/2327/ "We're underwater on our mortgage thanks to the low price of water.")
 
 Your daily random xkcd
