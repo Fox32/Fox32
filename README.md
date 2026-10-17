@@ -1,4 +1,4 @@
-## Oily House Index
-[![We're underwater on our mortgage thanks to the low price of water.](https://imgs.xkcd.com/comics/oily_house_index.png)](https://xkcd.com/2327/ "We're underwater on our mortgage thanks to the low price of water.")
+## Water Balloons
+[![Update: The physics department has recruited an astronomer who studies meteor fireballs.](https://imgs.xkcd.com/comics/water_balloons.png)](https://xkcd.com/3061/ "Update: The physics department has recruited an astronomer who studies meteor fireballs.")
 
 Your daily random xkcd
