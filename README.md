@@ -1,4 +1,4 @@
-## Turbine
-[![Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.](https://imgs.xkcd.com/comics/turbine.png)](https://xkcd.com/1378/ "Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.")
+## Dimensional Lumber Tape Measure
+[![A person with two watches is never sure what time it is, especially if I got them one of the watches.](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)](https://xkcd.com/3138/ "A person with two watches is never sure what time it is, especially if I got them one of the watches.")
 
 Your daily random xkcd
