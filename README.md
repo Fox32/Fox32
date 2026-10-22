@@ -1,4 +1,4 @@
-## Tethys
-[![In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.](https://imgs.xkcd.com/comics/tethys.png)](https://xkcd.com/3259/ "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.")
+## Circles
+[![( MSTE ( AR ) CD )](https://imgs.xkcd.com/comics/circles.png)](https://xkcd.com/2436/ "( MSTE ( AR ) CD )")
 
 Your daily random xkcd
