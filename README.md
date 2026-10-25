@@ -1,4 +1,4 @@
-## Dimensional Chess
-[![In Dimensional Chess, every move is annotated '?!'.](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465/ "In Dimensional Chess, every move is annotated '?!'.")
+## Labyrinth Puzzle
+[![And the whole setup is just a trap to capture escaping logicians.  None of the doors actually lead out.](https://imgs.xkcd.com/comics/labyrinth_puzzle.png)](https://xkcd.com/246/ "And the whole setup is just a trap to capture escaping logicians.  None of the doors actually lead out.")
 
 Your daily random xkcd
