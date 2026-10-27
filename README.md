@@ -1,4 +1,4 @@
-## Mimic Octopus
-[![Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.](https://imgs.xkcd.com/comics/mimic_octopus.png)](https://xkcd.com/928/ "Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.")
+## 1337: Part 1
+[![If you're not cool enough to do it manually, you can look up tools like Upside-Down-Ternet for playing games with people on your wifi.](https://imgs.xkcd.com/comics/1337_part_1.png)](https://xkcd.com/341/ "If you're not cool enough to do it manually, you can look up tools like Upside-Down-Ternet for playing games with people on your wifi.")
 
 Your daily random xkcd
