@@ -1,4 +1,4 @@
-## Maps
-[![OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!](https://imgs.xkcd.com/comics/maps.png)](https://xkcd.com/2617/ "OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!")
+## Contact Merge
+[![I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.](https://imgs.xkcd.com/comics/contact_merge.png)](https://xkcd.com/2801/ "I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.")
 
 Your daily random xkcd
