@@ -1,4 +1,4 @@
-## Analogies
-[![I just call all of them 'synecdoche'.](https://imgs.xkcd.com/comics/analogies.png)](https://xkcd.com/762/ "I just call all of them 'synecdoche'.")
+## Negativity
+[![[Google search] how do I block my lawn](https://imgs.xkcd.com/comics/negativity.png)](https://xkcd.com/1773/ "[Google search] how do I block my lawn")
 
 Your daily random xkcd
