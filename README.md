@@ -1,4 +1,4 @@
-## Bun Alert
-[![Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.](https://imgs.xkcd.com/comics/bun_alert.png)](https://xkcd.com/1871/ "Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.")
+## Cursed Number
+[![Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.](https://imgs.xkcd.com/comics/cursed_number.png)](https://xkcd.com/3137/ "Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.")
 
 Your daily random xkcd
