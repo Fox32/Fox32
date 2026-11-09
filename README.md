@@ -1,4 +1,4 @@
-## Cursed Number
-[![Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.](https://imgs.xkcd.com/comics/cursed_number.png)](https://xkcd.com/3137/ "Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.")
+## Tattoo
+[![I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).](https://imgs.xkcd.com/comics/tattoo.png)](https://xkcd.com/933/ "I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).")
 
 Your daily random xkcd
