@@ -1,4 +1,4 @@
-## Tattoo
-[![I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).](https://imgs.xkcd.com/comics/tattoo.png)](https://xkcd.com/933/ "I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).")
+## T. Rex Evolution
+[![Unfortunately, body size and bite force continue to increase.](https://imgs.xkcd.com/comics/t_rex_evolution.png)](https://xkcd.com/3042/ "Unfortunately, body size and bite force continue to increase.")
 
 Your daily random xkcd
