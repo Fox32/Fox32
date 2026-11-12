@@ -1,4 +1,4 @@
-## Houseguests
-[![You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.](https://imgs.xkcd.com/comics/houseguests.png)](https://xkcd.com/2479/ "You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.")
+## Autogyros
+[![I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.](https://imgs.xkcd.com/comics/autogyros.png)](https://xkcd.com/1972/ "I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.")
 
 Your daily random xkcd
