@@ -1,4 +1,4 @@
-## Autogyros
-[![I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.](https://imgs.xkcd.com/comics/autogyros.png)](https://xkcd.com/1972/ "I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.")
+## Single Ladies
+[![Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.](https://imgs.xkcd.com/comics/single_ladies.png)](https://xkcd.com/712/ "Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.")
 
 Your daily random xkcd
