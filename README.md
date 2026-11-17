@@ -1,4 +1,4 @@
-## Icon Swap
-[![Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.](https://imgs.xkcd.com/comics/icon_swap.png)](https://xkcd.com/2183/ "Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.")
+## Overstimulated
+[![My favorite thing to do at parties is to talk judgmentally about people who aren't there.](https://imgs.xkcd.com/comics/overstimulated.png)](https://xkcd.com/602/ "My favorite thing to do at parties is to talk judgmentally about people who aren't there.")
 
 Your daily random xkcd
