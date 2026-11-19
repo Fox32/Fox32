@@ -1,4 +1,4 @@
-## Cold
-[!['You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'](https://imgs.xkcd.com/comics/cold.png)](https://xkcd.com/1321/ "'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'")
+## Compare and Contrast
+[![Frankly, I see no difference between thee and a summer's day. Only Ron Paul offers a TRUE alternative!](https://imgs.xkcd.com/comics/compare_and_contrast.png)](https://xkcd.com/1026/ "Frankly, I see no difference between thee and a summer's day. Only Ron Paul offers a TRUE alternative!")
 
 Your daily random xkcd
