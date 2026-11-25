@@ -1,4 +1,4 @@
-## Swine Flu
-[![Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.](https://imgs.xkcd.com/comics/swine_flu.png)](https://xkcd.com/574/ "Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.")
+## Wavefunction Collapse
+[![Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.](https://imgs.xkcd.com/comics/wavefunction_collapse.png)](https://xkcd.com/3134/ "Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.")
 
 Your daily random xkcd
