@@ -1,4 +1,4 @@
-## Wavefunction Collapse
-[![Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.](https://imgs.xkcd.com/comics/wavefunction_collapse.png)](https://xkcd.com/3134/ "Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.")
+## Eagle
+[![In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.](https://imgs.xkcd.com/comics/eagle.png)](https://xkcd.com/733/ "In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.")
 
 Your daily random xkcd
