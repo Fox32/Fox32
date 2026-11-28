@@ -1,4 +1,4 @@
-## Landing
-[![[LIVE]](https://imgs.xkcd.com/comics/landing/awake.png)](https://xkcd.com/1446/ "[LIVE]")
+## Drone Problems
+[![On the other hand, as far as they know, my system is working perfectly.](https://imgs.xkcd.com/comics/drone_problems.png)](https://xkcd.com/1846/ "On the other hand, as far as they know, my system is working perfectly.")
 
 Your daily random xkcd
